@@ -306,23 +306,147 @@ function sortedRows(rows) {
   });
 }
 
+function successionRelationForProgram(edeboId) {
+  const id = String(edeboId);
+  const asSource = state.successionBySource.get(id) || [];
+  if (asSource.length) return asSource[0];
+  const asTarget = state.successionByTarget.get(id) || [];
+  return asTarget.length ? asTarget[0] : null;
+}
+
+function successionIdsForProgram(edeboId) {
+  const rel = successionRelationForProgram(edeboId);
+  if (!rel) return { relation: null, sourceId: null, targetId: null };
+  const sourceId = String(rel.sourceProgram?.edeboId ?? String(rel.sourceProgramId || '').replace('program-', ''));
+  const targetId = String(rel.targetProgram?.edeboId ?? String(rel.targetProgramId || '').replace('program-', ''));
+  return { relation: rel, sourceId, targetId };
+}
+
+function sameLogicalProgram(a, b) {
+  if (String(a) === String(b)) return true;
+  const ga = successionIdsForProgram(a);
+  return Boolean(ga.relation && (String(b) === ga.sourceId || String(b) === ga.targetId));
+}
+
+function logicalRowsFromFiltered(rows) {
+  const groups = new Map();
+  const yearFilter = $('filterListYear').value;
+
+  for (const p of rows) {
+    const g = successionIdsForProgram(p.edeboId);
+    const key = g.relation ? `succ:${g.sourceId}:${g.targetId}` : `single:${p.edeboId}`;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(p);
+  }
+
+  const result = [];
+  for (const candidates of groups.values()) {
+    if (candidates.length === 1) {
+      result.push(candidates[0]);
+      continue;
+    }
+
+    let chosen = null;
+
+    // If the user explicitly filtered by classifier year, show that version.
+    if (yearFilter) {
+      chosen = candidates.find(p => String(p.listYear) === String(yearFilter));
+    }
+
+    // Otherwise the logical card starts from the previous/old program.
+    if (!chosen) {
+      chosen = candidates.find(p => {
+        const g = successionIdsForProgram(p.edeboId);
+        return g.sourceId && String(p.edeboId) === g.sourceId;
+      });
+    }
+
+    result.push(chosen || candidates[0]);
+  }
+  return result;
+}
+
+function renderProgramVersionSwitch(edeboId) {
+  const host = $('programVersionSwitch');
+  if (!host) return;
+
+  const { relation, sourceId, targetId } = successionIdsForProgram(edeboId);
+  if (!relation || !sourceId || !targetId) {
+    host.innerHTML = '';
+    host.style.display = 'none';
+    return;
+  }
+
+  host.style.display = '';
+  const current = String(edeboId);
+  const sourceSummary = relation.sourceProgram || {};
+  const targetSummary = relation.targetProgram || {};
+
+  const sourceYear = sourceSummary.classifierId === 'specialties-2015' ? '2015' :
+                     sourceSummary.classifierId === 'specialties-2024' ? '2024' : 'старий';
+  const targetYear = targetSummary.classifierId === 'specialties-2024' ? '2024' :
+                     targetSummary.classifierId === 'specialties-2015' ? '2015' : 'новий';
+
+  host.innerHTML = `
+    <div class="program-version-box">
+      <div class="program-version-caption">Версії освітньої програми</div>
+      <div class="program-version-tabs">
+        <button type="button"
+                class="program-version-tab ${current === sourceId ? 'active' : ''}"
+                data-program-version="${escapeAttr(sourceId)}">
+          <span class="version-kicker">Попередній перелік</span>
+          <strong>${escapeHtml(sourceYear)}</strong>
+          <small>ID ${escapeHtml(sourceId)}</small>
+        </button>
+        <div class="version-connector" aria-hidden="true">→</div>
+        <button type="button"
+                class="program-version-tab ${current === targetId ? 'active' : ''}"
+                data-program-version="${escapeAttr(targetId)}">
+          <span class="version-kicker">Новий перелік</span>
+          <strong>${escapeHtml(targetYear)}</strong>
+          <small>ID ${escapeHtml(targetId)}</small>
+        </button>
+      </div>
+      <div class="program-version-note">
+        Це одна логічна послідовність ОП. Перемикач змінює версію, а не відкриває окрему картку.
+      </div>
+    </div>`;
+
+  host.querySelectorAll('[data-program-version]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const id = btn.dataset.programVersion;
+      if (id && id !== current) openDetails(id, { preserveLogicalCard: true });
+    });
+  });
+}
+
 function renderTable() {
-  const rows = sortedRows(state.filtered);
+  const rows = sortedRows(logicalRowsFromFiltered(state.filtered));
   const pages = Math.max(1, Math.ceil(rows.length / state.pageSize));
   if (state.currentPage > pages) state.currentPage = pages;
   const start = (state.currentPage - 1) * state.pageSize;
   const pageRows = rows.slice(start, start + state.pageSize);
 
-  $('programRows').innerHTML = pageRows.map(p => `
-    <tr data-id="${escapeAttr(p.edeboId)}" class="${String(state.selectedId) === String(p.edeboId) ? 'selected' : ''}">
-      <td><span class="cell-title">${escapeHtml(p.edeboId)}</span></td>
-      <td><div class="cell-title">${escapeHtml(p.nameUk || '—')}</div><div class="cell-sub">${escapeHtml(programTypeLabel(p.programType))}</div></td>
+  $('visibleCount').textContent = `${rows.length} карток`;
+
+  $('programRows').innerHTML = pageRows.map(p => {
+    const g = successionIdsForProgram(p.edeboId);
+    const linked = Boolean(g.relation);
+    const versionBadge = linked
+      ? `<div class="cell-sub logical-pair-note">Пов’язана ОП: ${escapeHtml(g.sourceId)} → ${escapeHtml(g.targetId)}</div>`
+      : '';
+
+    return `
+    <tr data-id="${escapeAttr(p.edeboId)}" class="${sameLogicalProgram(state.selectedId, p.edeboId) ? 'selected' : ''}">
+      <td><span class="cell-title">${escapeHtml(p.edeboId)}</span>${linked ? '<div class="cell-sub">є наступність</div>' : ''}</td>
+      <td><div class="cell-title">${escapeHtml(p.nameUk || '—')}</div><div class="cell-sub">${escapeHtml(programTypeLabel(p.programType))}</div>${versionBadge}</td>
       <td><div class="cell-title">${escapeHtml(p.specialtyCodeRaw || '—')}</div><div class="cell-sub">${escapeHtml(p.specialtyNameUk || '')}</div></td>
       <td>${escapeHtml(levelLabel(p.educationLevelId))}</td>
       <td>${escapeHtml(unitLabel(p.unitId, p.unitNameUk))}</td>
       <td><span class="badge ${p.qualificationCount ? 'green' : 'subtle'}">${p.qualificationCount ?? 0}</span></td>
       <td>${statusBadge(p)}</td>
-    </tr>`).join('') || `<tr><td colspan="7" class="muted">Нічого не знайдено.</td></tr>`;
+    </tr>`;
+  }).join('') || `<tr><td colspan="7" class="muted">Нічого не знайдено.</td></tr>`;
 
   document.querySelectorAll('#programRows tr[data-id]').forEach(tr => tr.addEventListener('click', () => openDetails(tr.dataset.id)));
   $('pageInfo').textContent = `${state.currentPage} / ${pages}`;
@@ -330,7 +454,7 @@ function renderTable() {
   $('nextPage').disabled = state.currentPage >= pages;
 }
 
-async function openDetails(edeboId) {
+async function openDetails(edeboId, options = {}) {
   state.selectedId = String(edeboId);
   renderTable();
   const panel = $('detailsPanel');
@@ -364,8 +488,8 @@ async function openDetails(edeboId) {
       ['Форма', program.studyForm || '—']
     ].map(([label,val]) => `<div class="meta-row"><div class="meta-label">${escapeHtml(label)}</div><div>${escapeHtml(val)}</div></div>`).join('');
 
+    renderProgramVersionSwitch(edeboId);
     renderDetailsRelations(pq.qualifications || []);
-    renderSuccession(edeboId);
 
     $('closeDetails').addEventListener('click', closeDetails);
     $('editProgramBtn')?.addEventListener('click', () => openProgramForm(program));
@@ -374,58 +498,6 @@ async function openDetails(edeboId) {
   } catch (err) {
     panel.innerHTML = `<div class="error-box">Не вдалося завантажити картку ОП.<br>${escapeHtml(err.message)}</div>`;
   }
-}
-
-function renderSuccession(edeboId) {
-  const section = $('successionSection');
-  const target = $('detailSuccession');
-  if (!section || !target) return;
-
-  const id = String(edeboId);
-  const previous = state.successionByTarget.get(id) || [];
-  const next = state.successionBySource.get(id) || [];
-
-  if (!previous.length && !next.length) {
-    section.style.display = 'none';
-    return;
-  }
-
-  section.style.display = '';
-  const cards = [];
-
-  previous.forEach(rel => {
-    const p = rel.sourceProgram || {};
-    const pid = p.edeboId ?? String(rel.sourceProgramId || '').replace('program-', '');
-    const specialty = formatSuccessionSpecialty(p);
-    cards.push(`
-      <button class="succession-card previous succession-link" data-program-id="${escapeAttr(pid)}" type="button">
-        <div class="succession-direction"><span class="succession-arrow">←</span><span>Попередня ОП</span></div>
-        <div class="succession-title">${escapeHtml(p.nameUk || `ОП ${pid}`)}</div>
-        <div class="succession-id">ID ОП: ${escapeHtml(pid)}</div>
-        ${specialty ? `<div class="succession-specialty">${escapeHtml(specialty)}</div>` : ''}
-      </button>`);
-  });
-
-  next.forEach(rel => {
-    const p = rel.targetProgram || {};
-    const pid = p.edeboId ?? String(rel.targetProgramId || '').replace('program-', '');
-    const specialty = formatSuccessionSpecialty(p);
-    cards.push(`
-      <button class="succession-card next succession-link" data-program-id="${escapeAttr(pid)}" type="button">
-        <div class="succession-direction"><span>Наступна ОП</span><span class="succession-arrow">→</span></div>
-        <div class="succession-title">${escapeHtml(p.nameUk || `ОП ${pid}`)}</div>
-        <div class="succession-id">ID ОП: ${escapeHtml(pid)}</div>
-        ${specialty ? `<div class="succession-specialty">${escapeHtml(specialty)}</div>` : ''}
-      </button>`);
-  });
-
-  target.innerHTML = `<div class="succession-list">${cards.join('')}</div>
-    <div class="succession-note">Зв’язок зафіксовано у зв’язку зі зміною переліку спеціальностей.</div>`;
-
-  target.querySelectorAll('.succession-link').forEach(btn => btn.addEventListener('click', () => {
-    const targetId = btn.dataset.programId;
-    if (targetId) openDetails(targetId);
-  }));
 }
 
 function formatSuccessionSpecialty(programSummary) {

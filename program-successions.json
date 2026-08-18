@@ -1,0 +1,3540 @@
+{
+  "schemaVersion": "1.0",
+  "descriptionUk": "Зв’язки наступності освітніх програм у зв’язку з переходом зі старого переліку спеціальностей на перелік 2024 року. Сформовано зі стовпців P-S вихідного Excel.",
+  "relationCount": 84,
+  "sourceProgramCount": 84,
+  "targetProgramCount": 84,
+  "sourceProgramsWithMultipleTargets": 0,
+  "targetProgramsWithMultipleSources": 0,
+  "relations": [
+    {
+      "id": "succ-1481-69818",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-1481",
+      "targetProgramId": "program-69818",
+      "sourceProgram": {
+        "programId": "program-1481",
+        "edeboId": 1481,
+        "nameUk": "Археологія",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-032"
+        ],
+        "specialtyCodes": [
+          "032"
+        ],
+        "specialtyNamesUk": [
+          "Історія та археологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69818",
+        "edeboId": 69818,
+        "nameUk": "Археологія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B9"
+        ],
+        "specialtyCodes": [
+          "B9"
+        ],
+        "specialtyNamesUk": [
+          "Історія та археологія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        137
+      ]
+    },
+    {
+      "id": "succ-64964-69899",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-64964",
+      "targetProgramId": "program-69899",
+      "sourceProgram": {
+        "programId": "program-64964",
+        "edeboId": 64964,
+        "nameUk": "Аудіовізуальні мистецтва, медіа та виробництво",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-021"
+        ],
+        "specialtyCodes": [
+          "021"
+        ],
+        "specialtyNamesUk": [
+          "Аудіовізуальне мистецтво та виробництво"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69899",
+        "edeboId": 69899,
+        "nameUk": "Аудіовізуальні мистецтва, медіа та виробництво",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B1"
+        ],
+        "specialtyCodes": [
+          "B1"
+        ],
+        "specialtyNamesUk": [
+          "Аудіовізуальне мистецтво та медіавиробництво"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        29
+      ]
+    },
+    {
+      "id": "succ-59558-77062",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-59558",
+      "targetProgramId": "program-77062",
+      "sourceProgram": {
+        "programId": "program-59558",
+        "edeboId": 59558,
+        "nameUk": "Біологія (високі технології)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-091"
+        ],
+        "specialtyCodes": [
+          "091"
+        ],
+        "specialtyNamesUk": [
+          "Біологія та біохімія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-77062",
+        "edeboId": 77062,
+        "nameUk": "Біологія та біоінформатика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E1"
+        ],
+        "specialtyCodes": [
+          "E1"
+        ],
+        "specialtyNamesUk": [
+          "Біологія та біохімія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        177
+      ]
+    },
+    {
+      "id": "succ-20326-76594",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20326",
+      "targetProgramId": "program-76594",
+      "sourceProgram": {
+        "programId": "program-20326",
+        "edeboId": 20326,
+        "nameUk": "Біомедична фізика, інженерія та інформатика",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-105"
+        ],
+        "specialtyCodes": [
+          "105"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76594",
+        "edeboId": 76594,
+        "nameUk": "Біомедична фізика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E6"
+        ],
+        "specialtyCodes": [
+          "E6"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        153
+      ]
+    },
+    {
+      "id": "succ-326-77147",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-326",
+      "targetProgramId": "program-77147",
+      "sourceProgram": {
+        "programId": "program-326",
+        "edeboId": 326,
+        "nameUk": "Високі технології (прикладна фізика та наноматеріали)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-105"
+        ],
+        "specialtyCodes": [
+          "105"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-77147",
+        "edeboId": 77147,
+        "nameUk": "Прикладна фізика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E6"
+        ],
+        "specialtyCodes": [
+          "E6"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        175
+      ]
+    },
+    {
+      "id": "succ-18415-77132",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-18415",
+      "targetProgramId": "program-77132",
+      "sourceProgram": {
+        "programId": "program-18415",
+        "edeboId": 18415,
+        "nameUk": "Високі технології (Хемоінформатика)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-102"
+        ],
+        "specialtyCodes": [
+          "102"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-77132",
+        "edeboId": 77132,
+        "nameUk": "Хемоінформатика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E3"
+        ],
+        "specialtyCodes": [
+          "E3"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        165
+      ]
+    },
+    {
+      "id": "succ-324-77126",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-324",
+      "targetProgramId": "program-77126",
+      "sourceProgram": {
+        "programId": "program-324",
+        "edeboId": 324,
+        "nameUk": "Високі технології (хімія та наноматеріали)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-102"
+        ],
+        "specialtyCodes": [
+          "102"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-77126",
+        "edeboId": 77126,
+        "nameUk": "Медична хімія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E3"
+        ],
+        "specialtyCodes": [
+          "E3"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        176
+      ]
+    },
+    {
+      "id": "succ-23302-84098",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23302",
+      "targetProgramId": "program-84098",
+      "sourceProgram": {
+        "programId": "program-23302",
+        "edeboId": 23302,
+        "nameUk": "Галузевий переклад з німецької та англійської мови; міжкультурний менеджмент",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84098",
+        "edeboId": 84098,
+        "nameUk": "Галузевий переклад з німецької та англійської мови; міжкультурний менеджмент",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        73
+      ]
+    },
+    {
+      "id": "succ-1988-69834",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-1988",
+      "targetProgramId": "program-69834",
+      "sourceProgram": {
+        "programId": "program-1988",
+        "edeboId": 1988,
+        "nameUk": "Геологія",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-103"
+        ],
+        "specialtyCodes": [
+          "103"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69834",
+        "edeboId": 69834,
+        "nameUk": "Геологія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E4"
+        ],
+        "specialtyCodes": [
+          "E4"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        106
+      ]
+    },
+    {
+      "id": "succ-1755-69838",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-1755",
+      "targetProgramId": "program-69838",
+      "sourceProgram": {
+        "programId": "program-1755",
+        "edeboId": 1755,
+        "nameUk": "Геофізика",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-103"
+        ],
+        "specialtyCodes": [
+          "103"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69838",
+        "edeboId": 69838,
+        "nameUk": "Геофізика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E4"
+        ],
+        "specialtyCodes": [
+          "E4"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        107
+      ]
+    },
+    {
+      "id": "succ-2227-86678",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-2227",
+      "targetProgramId": "program-86678",
+      "sourceProgram": {
+        "programId": "program-2227",
+        "edeboId": 2227,
+        "nameUk": "Геоінформаційні системи та технології",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-193"
+        ],
+        "specialtyCodes": [
+          "193"
+        ],
+        "specialtyNamesUk": [
+          "Геодезія та землеустрій"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-86678",
+        "edeboId": 86678,
+        "nameUk": "Геоінформаційні системи та технології",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-G18"
+        ],
+        "specialtyCodes": [
+          "G18"
+        ],
+        "specialtyNamesUk": [
+          "Геодезія та землеустрій"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        103
+      ]
+    },
+    {
+      "id": "succ-1073-69836",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-1073",
+      "targetProgramId": "program-69836",
+      "sourceProgram": {
+        "programId": "program-1073",
+        "edeboId": 1073,
+        "nameUk": "Гідрогеологія",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-103"
+        ],
+        "specialtyCodes": [
+          "103"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69836",
+        "edeboId": 69836,
+        "nameUk": "Гідрогеологія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E4"
+        ],
+        "specialtyCodes": [
+          "E4"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        64
+      ]
+    },
+    {
+      "id": "succ-48871-76679",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-48871",
+      "targetProgramId": "program-76679",
+      "sourceProgram": {
+        "programId": "program-48871",
+        "edeboId": 48871,
+        "nameUk": "Гідрологія та інтегроване управління водними ресурсами",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-103"
+        ],
+        "specialtyCodes": [
+          "103"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76679",
+        "edeboId": 76679,
+        "nameUk": "Гідрологія, водні ресурси і стале водокористування",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E4"
+        ],
+        "specialtyCodes": [
+          "E4"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        142
+      ]
+    },
+    {
+      "id": "succ-26746-69905",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-26746",
+      "targetProgramId": "program-69905",
+      "sourceProgram": {
+        "programId": "program-26746",
+        "edeboId": 26746,
+        "nameUk": "Дипломатія і міжнародне співробітництво",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69905",
+        "edeboId": 69905,
+        "nameUk": "Дипломатія і міжнародне співробітництво",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        7
+      ]
+    },
+    {
+      "id": "succ-40683-77106",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-40683",
+      "targetProgramId": "program-77106",
+      "sourceProgram": {
+        "programId": "program-40683",
+        "edeboId": 40683,
+        "nameUk": "Електроніка (високі технології)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-171"
+        ],
+        "specialtyCodes": [
+          "171"
+        ],
+        "specialtyNamesUk": [
+          "Електроніка"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-77106",
+        "edeboId": 77106,
+        "nameUk": "Електроніка",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-G5"
+        ],
+        "specialtyCodes": [
+          "G5"
+        ],
+        "specialtyNamesUk": [
+          "Електроніка, електронні комунікації, приладобудування та радіотехніка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        168
+      ]
+    },
+    {
+      "id": "succ-23856-76588",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23856",
+      "targetProgramId": "program-76588",
+      "sourceProgram": {
+        "programId": "program-23856",
+        "edeboId": 23856,
+        "nameUk": "Електроніка та інформаційні технології в медицині",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-105"
+        ],
+        "specialtyCodes": [
+          "105"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76588",
+        "edeboId": 76588,
+        "nameUk": "Прикладна біомедична радіофізика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E6"
+        ],
+        "specialtyCodes": [
+          "E6"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        154
+      ]
+    },
+    {
+      "id": "succ-49272-84107",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-49272",
+      "targetProgramId": "program-84107",
+      "sourceProgram": {
+        "programId": "program-49272",
+        "edeboId": 49272,
+        "nameUk": "Загальний і галузевий усний та письмовий переклад з португальської та англійської мов",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84107",
+        "edeboId": 84107,
+        "nameUk": "Загальний і галузевий усний та письмовий переклад з португальської та англійської мов",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        87
+      ]
+    },
+    {
+      "id": "succ-23311-84110",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23311",
+      "targetProgramId": "program-84110",
+      "sourceProgram": {
+        "programId": "program-23311",
+        "edeboId": 23311,
+        "nameUk": "Загальний і галузевий усний та письмовий переклад з французької та англійської мов",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84110",
+        "edeboId": 84110,
+        "nameUk": "Загальний і галузевий усний та письмовий переклад з французької та англійської мов",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        67
+      ]
+    },
+    {
+      "id": "succ-23307-84104",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23307",
+      "targetProgramId": "program-84104",
+      "sourceProgram": {
+        "programId": "program-23307",
+        "edeboId": 23307,
+        "nameUk": "Загальний і галузевий усний та письмовий переклад з іспанської та англійської мов",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84104",
+        "edeboId": 84104,
+        "nameUk": "Загальний і галузевий усний та письмовий переклад з іспанської та англійської мов",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        69
+      ]
+    },
+    {
+      "id": "succ-23309-86686",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23309",
+      "targetProgramId": "program-86686",
+      "sourceProgram": {
+        "programId": "program-23309",
+        "edeboId": 23309,
+        "nameUk": "Загальний і галузевий усний та письмовий переклад з італійської та англійської мов",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-86686",
+        "edeboId": 86686,
+        "nameUk": "Загальний і галузевий усний та письмовий переклад з італійської та англійської мов",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        127
+      ]
+    },
+    {
+      "id": "succ-59116-69984",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-59116",
+      "targetProgramId": "program-69984",
+      "sourceProgram": {
+        "programId": "program-59116",
+        "edeboId": 59116,
+        "nameUk": "Захист інформації в телекомунікаціях",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-172"
+        ],
+        "specialtyCodes": [
+          "172"
+        ],
+        "specialtyNamesUk": [
+          "Електронні комунікації та радіотехніка"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69984",
+        "edeboId": 69984,
+        "nameUk": "Інженерія радіоелектронних систем",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-G5"
+        ],
+        "specialtyCodes": [
+          "G5"
+        ],
+        "specialtyNamesUk": [
+          "Електроніка, електронні комунікації, приладобудування та радіотехніка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        57
+      ]
+    },
+    {
+      "id": "succ-35900-69908",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-35900",
+      "targetProgramId": "program-69908",
+      "sourceProgram": {
+        "programId": "program-35900",
+        "edeboId": 35900,
+        "nameUk": "Зовнішня політика",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69908",
+        "edeboId": 69908,
+        "nameUk": "Зовнішня політика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        186
+      ]
+    },
+    {
+      "id": "succ-34629-76779",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-34629",
+      "targetProgramId": "program-76779",
+      "sourceProgram": {
+        "programId": "program-34629",
+        "edeboId": 34629,
+        "nameUk": "Зовнішня політика та національна безпека",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76779",
+        "edeboId": 76779,
+        "nameUk": "Зовнішня політика та безпекові студії",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        97
+      ]
+    },
+    {
+      "id": "succ-30700-76648",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-30700",
+      "targetProgramId": "program-76648",
+      "sourceProgram": {
+        "programId": "program-30700",
+        "edeboId": 30700,
+        "nameUk": "Картографія, географічні інформаційні системи, дистанційне зондування землі",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-103"
+        ],
+        "specialtyCodes": [
+          "103"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76648",
+        "edeboId": 76648,
+        "nameUk": "Картографія, геоінформаційні системи, дистанційне зондування Землі",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E4"
+        ],
+        "specialtyCodes": [
+          "E4"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        143
+      ]
+    },
+    {
+      "id": "succ-32339-77917",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-32339",
+      "targetProgramId": "program-77917",
+      "sourceProgram": {
+        "programId": "program-32339",
+        "edeboId": 32339,
+        "nameUk": "Клінічна психологія з основами психотерапії",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-053"
+        ],
+        "specialtyCodes": [
+          "053"
+        ],
+        "specialtyNamesUk": [
+          "Психологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-77917",
+        "edeboId": 77917,
+        "nameUk": "Клінічна психологія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C4"
+        ],
+        "specialtyCodes": [
+          "C4"
+        ],
+        "specialtyNamesUk": [
+          "Психологія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        136
+      ]
+    },
+    {
+      "id": "succ-18905-68914",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-18905",
+      "targetProgramId": "program-68914",
+      "sourceProgram": {
+        "programId": "program-18905",
+        "edeboId": 18905,
+        "nameUk": "Комп`ютерна математика",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-111"
+        ],
+        "specialtyCodes": [
+          "111"
+        ],
+        "specialtyNamesUk": [
+          "Математика"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-68914",
+        "edeboId": 68914,
+        "nameUk": "Математика штучного інтелекту",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E7"
+        ],
+        "specialtyCodes": [
+          "E7"
+        ],
+        "specialtyNamesUk": [
+          "Математика"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        26
+      ]
+    },
+    {
+      "id": "succ-18906-77323",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-18906",
+      "targetProgramId": "program-77323",
+      "sourceProgram": {
+        "programId": "program-18906",
+        "edeboId": 18906,
+        "nameUk": "Комп`ютерна механіка",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-111"
+        ],
+        "specialtyCodes": [
+          "111"
+        ],
+        "specialtyNamesUk": [
+          "Математика"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-77323",
+        "edeboId": 77323,
+        "nameUk": "Математика інновацій",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E7"
+        ],
+        "specialtyCodes": [
+          "E7"
+        ],
+        "specialtyNamesUk": [
+          "Математика"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        25
+      ]
+    },
+    {
+      "id": "succ-40185-68925",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-40185",
+      "targetProgramId": "program-68925",
+      "sourceProgram": {
+        "programId": "program-40185",
+        "edeboId": 40185,
+        "nameUk": "Країнознавство (американістика, сходознавство, європейські студії, африканістика) (з обов’язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-68925",
+        "edeboId": 68925,
+        "nameUk": "Країнознавство (американістика, сходознавство, європейські студії, африканістика ) (з обов`язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        48
+      ]
+    },
+    {
+      "id": "succ-23273-84084",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23273",
+      "targetProgramId": "program-84084",
+      "sourceProgram": {
+        "programId": "program-23273",
+        "edeboId": 23273,
+        "nameUk": "Кримськотатарська філологія, англійська мова та переклад",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84084",
+        "edeboId": 84084,
+        "nameUk": "Кримськотатарська філологія, англійська мова та переклад",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        70
+      ]
+    },
+    {
+      "id": "succ-35922-76122",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-35922",
+      "targetProgramId": "program-76122",
+      "sourceProgram": {
+        "programId": "program-35922",
+        "edeboId": 35922,
+        "nameUk": "Ландшафтний дизайн урбанізованого середовища",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-206"
+        ],
+        "specialtyCodes": [
+          "206"
+        ],
+        "specialtyNamesUk": [
+          "Садово-паркове господарство"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76122",
+        "edeboId": 76122,
+        "nameUk": "Ландшафтне планування урбанізованого середовища",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-H3"
+        ],
+        "specialtyCodes": [
+          "H3"
+        ],
+        "specialtyNamesUk": [
+          "Садово-паркове господарство"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        10
+      ]
+    },
+    {
+      "id": "succ-40757-76573",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-40757",
+      "targetProgramId": "program-76573",
+      "sourceProgram": {
+        "programId": "program-40757",
+        "edeboId": 40757,
+        "nameUk": "Медіакомунікації в бізнесі",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-061"
+        ],
+        "specialtyCodes": [
+          "061"
+        ],
+        "specialtyNamesUk": [
+          "Журналістика"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76573",
+        "edeboId": 76573,
+        "nameUk": "Корпоративні медіакомунікації",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C7"
+        ],
+        "specialtyCodes": [
+          "C7"
+        ],
+        "specialtyNamesUk": [
+          "Журналістика"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        3
+      ]
+    },
+    {
+      "id": "succ-20810-76776",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20810",
+      "targetProgramId": "program-76776",
+      "sourceProgram": {
+        "programId": "program-20810",
+        "edeboId": 20810,
+        "nameUk": "Міжнародна журналістика",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76776",
+        "edeboId": 76776,
+        "nameUk": "Міжнародні медіа студії",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        133
+      ]
+    },
+    {
+      "id": "succ-20797-68926",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20797",
+      "targetProgramId": "program-68926",
+      "sourceProgram": {
+        "programId": "program-20797",
+        "edeboId": 20797,
+        "nameUk": "Міжнародне право",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-293"
+        ],
+        "specialtyCodes": [
+          "293"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-68926",
+        "edeboId": 68926,
+        "nameUk": "Міжнародне право",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-D9"
+        ],
+        "specialtyCodes": [
+          "D9"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        96
+      ]
+    },
+    {
+      "id": "succ-20821-69917",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20821",
+      "targetProgramId": "program-69917",
+      "sourceProgram": {
+        "programId": "program-20821",
+        "edeboId": 20821,
+        "nameUk": "Міжнародне право",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-293"
+        ],
+        "specialtyCodes": [
+          "293"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69917",
+        "edeboId": 69917,
+        "nameUk": "Міжнародне право",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-D9"
+        ],
+        "specialtyCodes": [
+          "D9"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        95
+      ]
+    },
+    {
+      "id": "succ-35881-69925",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-35881",
+      "targetProgramId": "program-69925",
+      "sourceProgram": {
+        "programId": "program-35881",
+        "edeboId": 35881,
+        "nameUk": "Міжнародне право",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-293"
+        ],
+        "specialtyCodes": [
+          "293"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69925",
+        "edeboId": 69925,
+        "nameUk": "Міжнародне право",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-D9"
+        ],
+        "specialtyCodes": [
+          "D9"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        90
+      ]
+    },
+    {
+      "id": "succ-20822-69921",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20822",
+      "targetProgramId": "program-69921",
+      "sourceProgram": {
+        "programId": "program-20822",
+        "edeboId": 20822,
+        "nameUk": "Міжнародне приватне право",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-293"
+        ],
+        "specialtyCodes": [
+          "293"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69921",
+        "edeboId": 69921,
+        "nameUk": "Міжнародне приватне право",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-D9"
+        ],
+        "specialtyCodes": [
+          "D9"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        41
+      ]
+    },
+    {
+      "id": "succ-26753-74949",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-26753",
+      "targetProgramId": "program-74949",
+      "sourceProgram": {
+        "programId": "program-26753",
+        "edeboId": 26753,
+        "nameUk": "Міжнародне публічне право",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-293"
+        ],
+        "specialtyCodes": [
+          "293"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-74949",
+        "edeboId": 74949,
+        "nameUk": "Міжнародне публічне право",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-D9"
+        ],
+        "specialtyCodes": [
+          "D9"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        132
+      ]
+    },
+    {
+      "id": "succ-20815-86727",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20815",
+      "targetProgramId": "program-86727",
+      "sourceProgram": {
+        "programId": "program-20815",
+        "edeboId": 20815,
+        "nameUk": "Міжнародний бізнес",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-292"
+        ],
+        "specialtyCodes": [
+          "292"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні економічні відносини"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-86727",
+        "edeboId": 86727,
+        "nameUk": "Міжнародний бізнес",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C1"
+        ],
+        "specialtyCodes": [
+          "C1"
+        ],
+        "specialtyNamesUk": [
+          "Економіка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        39
+      ]
+    },
+    {
+      "id": "succ-31376-86724",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-31376",
+      "targetProgramId": "program-86724",
+      "sourceProgram": {
+        "programId": "program-31376",
+        "edeboId": 31376,
+        "nameUk": "Міжнародний бізнес (з обов’язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-292"
+        ],
+        "specialtyCodes": [
+          "292"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні економічні відносини"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-86724",
+        "edeboId": 86724,
+        "nameUk": "Міжнародний бізнес (з обов’язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C1"
+        ],
+        "specialtyCodes": [
+          "C1"
+        ],
+        "specialtyNamesUk": [
+          "Економіка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        134
+      ]
+    },
+    {
+      "id": "succ-50564-86734",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-50564",
+      "targetProgramId": "program-86734",
+      "sourceProgram": {
+        "programId": "program-50564",
+        "edeboId": 50564,
+        "nameUk": "Міжнародний бізнес (менеджмент та маркетинг)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-292"
+        ],
+        "specialtyCodes": [
+          "292"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні економічні відносини"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-86734",
+        "edeboId": 86734,
+        "nameUk": "Міжнародний бізнес (менеджмент та маркетинг)",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C1"
+        ],
+        "specialtyCodes": [
+          "C1"
+        ],
+        "specialtyNamesUk": [
+          "Економіка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        40
+      ]
+    },
+    {
+      "id": "succ-36444-76747",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-36444",
+      "targetProgramId": "program-76747",
+      "sourceProgram": {
+        "programId": "program-36444",
+        "edeboId": 36444,
+        "nameUk": "Міжнародний бізнес, комерція та фінанси (мова навчання англійська) / International Business, Commerce And Finance",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-292"
+        ],
+        "specialtyCodes": [
+          "292"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні економічні відносини"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76747",
+        "edeboId": 76747,
+        "nameUk": "Міжнародна комерція та інвестиції (мова навчання англійська)/ International Commerce and Investment",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C1"
+        ],
+        "specialtyCodes": [
+          "C1"
+        ],
+        "specialtyNamesUk": [
+          "Економіка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        121
+      ]
+    },
+    {
+      "id": "succ-20806-69901",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20806",
+      "targetProgramId": "program-69901",
+      "sourceProgram": {
+        "programId": "program-20806",
+        "edeboId": 20806,
+        "nameUk": "Міжнародні відносини",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69901",
+        "edeboId": 69901,
+        "nameUk": "Міжнародні відносини",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        59
+      ]
+    },
+    {
+      "id": "succ-40182-68923",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-40182",
+      "targetProgramId": "program-68923",
+      "sourceProgram": {
+        "programId": "program-40182",
+        "edeboId": 40182,
+        "nameUk": "Міжнародні відносини (з обов`язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-68923",
+        "edeboId": 68923,
+        "nameUk": "Міжнародні відносини (з обов’язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        61
+      ]
+    },
+    {
+      "id": "succ-20817-69928",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20817",
+      "targetProgramId": "program-69928",
+      "sourceProgram": {
+        "programId": "program-20817",
+        "edeboId": 20817,
+        "nameUk": "Міжнародні економічні відносини",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-292"
+        ],
+        "specialtyCodes": [
+          "292"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні економічні відносини"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69928",
+        "edeboId": 69928,
+        "nameUk": "Міжнародні економічні відносини",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C1"
+        ],
+        "specialtyCodes": [
+          "C1"
+        ],
+        "specialtyNamesUk": [
+          "Економіка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        5
+      ]
+    },
+    {
+      "id": "succ-31377-76704",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-31377",
+      "targetProgramId": "program-76704",
+      "sourceProgram": {
+        "programId": "program-31377",
+        "edeboId": 31377,
+        "nameUk": "Міжнародні економічні відносини (з обов’язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-292"
+        ],
+        "specialtyCodes": [
+          "292"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні економічні відносини"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76704",
+        "edeboId": 76704,
+        "nameUk": "Міжнародні економічні відносини (з обов’язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C1"
+        ],
+        "specialtyCodes": [
+          "C1"
+        ],
+        "specialtyNamesUk": [
+          "Економіка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        122
+      ]
+    },
+    {
+      "id": "succ-50563-86075",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-50563",
+      "targetProgramId": "program-86075",
+      "sourceProgram": {
+        "programId": "program-50563",
+        "edeboId": 50563,
+        "nameUk": "Міжнародні економічні відносини (комерція та фінанси)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-292"
+        ],
+        "specialtyCodes": [
+          "292"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні економічні відносини"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-86075",
+        "edeboId": 86075,
+        "nameUk": "Міжнародна комерція та інвестиції",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C1"
+        ],
+        "specialtyCodes": [
+          "C1"
+        ],
+        "specialtyNamesUk": [
+          "Економіка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        185
+      ]
+    },
+    {
+      "id": "succ-20809-69903",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20809",
+      "targetProgramId": "program-69903",
+      "sourceProgram": {
+        "programId": "program-20809",
+        "edeboId": 20809,
+        "nameUk": "Міжнародні комунікації",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69903",
+        "edeboId": 69903,
+        "nameUk": "Міжнародні комунікації",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        49
+      ]
+    },
+    {
+      "id": "succ-31374-68924",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-31374",
+      "targetProgramId": "program-68924",
+      "sourceProgram": {
+        "programId": "program-31374",
+        "edeboId": 31374,
+        "nameUk": "Міжнародні комунікації (з обов'язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-68924",
+        "edeboId": 68924,
+        "nameUk": "Міжнародні комунікації (з обов’язковим вивченням двох іноземних мов)",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        37
+      ]
+    },
+    {
+      "id": "succ-35873-76786",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-35873",
+      "targetProgramId": "program-76786",
+      "sourceProgram": {
+        "programId": "program-35873",
+        "edeboId": 35873,
+        "nameUk": "Міжнародні комунікації (Міжнародна журналістика)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76786",
+        "edeboId": 76786,
+        "nameUk": "Міжнародні комунікації (міжнародні медіа студії)",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        38
+      ]
+    },
+    {
+      "id": "succ-20818-86726",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20818",
+      "targetProgramId": "program-86726",
+      "sourceProgram": {
+        "programId": "program-20818",
+        "edeboId": 20818,
+        "nameUk": "Міжнародні фінанси та інвесстиції",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-292"
+        ],
+        "specialtyCodes": [
+          "292"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні економічні відносини"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-86726",
+        "edeboId": 86726,
+        "nameUk": "Міжнародні фінанси та інвестиції",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C1"
+        ],
+        "specialtyCodes": [
+          "C1"
+        ],
+        "specialtyNamesUk": [
+          "Економіка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        8
+      ]
+    },
+    {
+      "id": "succ-30758-69761",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-30758",
+      "targetProgramId": "program-69761",
+      "sourceProgram": {
+        "programId": "program-30758",
+        "edeboId": 30758,
+        "nameUk": "Нанофізика та комп`ютерні технології",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-105"
+        ],
+        "specialtyCodes": [
+          "105"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69761",
+        "edeboId": 69761,
+        "nameUk": "Прикладна фізика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E6"
+        ],
+        "specialtyCodes": [
+          "E6"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        179
+      ]
+    },
+    {
+      "id": "succ-53169-88061",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-53169",
+      "targetProgramId": "program-88061",
+      "sourceProgram": {
+        "programId": "program-53169",
+        "edeboId": 53169,
+        "nameUk": "Новогрецька філологія, англійська мова та переклад",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-88061",
+        "edeboId": 88061,
+        "nameUk": "Новогрецька філологія, англійська мова та переклад",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        9
+      ]
+    },
+    {
+      "id": "succ-23368-84111",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23368",
+      "targetProgramId": "program-84111",
+      "sourceProgram": {
+        "programId": "program-23368",
+        "edeboId": 23368,
+        "nameUk": "ОНП Східна філологія, західноєвропейська мова та переклад: арабська мова і література",
+        "classifierId": null,
+        "specialtyIds": [],
+        "specialtyCodes": [
+          "035.060"
+        ],
+        "specialtyNamesUk": [
+          "035 Філологія 035.060 східні мови та літератури (переклад включно), перша - арабська"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84111",
+        "edeboId": 84111,
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: арабська мова і література",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": null,
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        71
+      ],
+      "sourceProgramIdSourceNote": "(23388 Неправильне), правильне ІD 23368"
+    },
+    {
+      "id": "succ-2183-68880",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-2183",
+      "targetProgramId": "program-68880",
+      "sourceProgram": {
+        "programId": "program-2183",
+        "edeboId": 2183,
+        "nameUk": "ОПП Метеорологія",
+        "classifierId": null,
+        "specialtyIds": [],
+        "specialtyCodes": [
+          "103"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-68880",
+        "edeboId": 68880,
+        "nameUk": "Метеорологія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E4"
+        ],
+        "specialtyCodes": [
+          "E4"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "sourceClassifierId": null,
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        128
+      ],
+      "sourceProgramIdSourceNote": "15829 Не правильне ID, за якою спеціальністю ця програма? Правильне ID 2183"
+    },
+    {
+      "id": "succ-2021-69963",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-2021",
+      "targetProgramId": "program-69963",
+      "sourceProgram": {
+        "programId": "program-2021",
+        "edeboId": 2021,
+        "nameUk": "Політологія",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-052"
+        ],
+        "specialtyCodes": [
+          "052"
+        ],
+        "specialtyNamesUk": [
+          "Політологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69963",
+        "edeboId": 69963,
+        "nameUk": "Політологія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C2"
+        ],
+        "specialtyCodes": [
+          "C2"
+        ],
+        "specialtyNamesUk": [
+          "Політологія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        32
+      ]
+    },
+    {
+      "id": "succ-32342-69964",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-32342",
+      "targetProgramId": "program-69964",
+      "sourceProgram": {
+        "programId": "program-32342",
+        "edeboId": 32342,
+        "nameUk": "Політологія",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-052"
+        ],
+        "specialtyCodes": [
+          "052"
+        ],
+        "specialtyNamesUk": [
+          "Політологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69964",
+        "edeboId": 69964,
+        "nameUk": "Політологія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C2"
+        ],
+        "specialtyCodes": [
+          "C2"
+        ],
+        "specialtyNamesUk": [
+          "Політологія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        33
+      ]
+    },
+    {
+      "id": "succ-18411-84065",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-18411",
+      "targetProgramId": "program-84065",
+      "sourceProgram": {
+        "programId": "program-18411",
+        "edeboId": 18411,
+        "nameUk": "Прикладна (комп’ютерна) лінгвістика та англійська мова",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84065",
+        "edeboId": 84065,
+        "nameUk": "Прикладна (комп’ютерна) лінгвістика та англійська мова",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        47
+      ]
+    },
+    {
+      "id": "succ-20325-69979",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20325",
+      "targetProgramId": "program-69979",
+      "sourceProgram": {
+        "programId": "program-20325",
+        "edeboId": 20325,
+        "nameUk": "Прикладна фізика та наноматеріали",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-105"
+        ],
+        "specialtyCodes": [
+          "105"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69979",
+        "edeboId": 69979,
+        "nameUk": "Прикладна фізика та наноматеріали",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E6"
+        ],
+        "specialtyCodes": [
+          "E6"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        158
+      ]
+    },
+    {
+      "id": "succ-23855-76586",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23855",
+      "targetProgramId": "program-76586",
+      "sourceProgram": {
+        "programId": "program-23855",
+        "edeboId": 23855,
+        "nameUk": "Прикладна фізика, наноелектроніка та комп’ютерні технології",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-105"
+        ],
+        "specialtyCodes": [
+          "105"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76586",
+        "edeboId": 76586,
+        "nameUk": "Прикладна фізика, наноелектроніка та мікропроцесорна техніка",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E6"
+        ],
+        "specialtyCodes": [
+          "E6"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        155
+      ]
+    },
+    {
+      "id": "succ-24689-69938",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-24689",
+      "targetProgramId": "program-69938",
+      "sourceProgram": {
+        "programId": "program-24689",
+        "edeboId": 24689,
+        "nameUk": "Психологія дитинства і сім’ї з основами психотерапії",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-053"
+        ],
+        "specialtyCodes": [
+          "053"
+        ],
+        "specialtyNamesUk": [
+          "Психологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69938",
+        "edeboId": 69938,
+        "nameUk": "Психологія дитинства і сім’ї",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C4"
+        ],
+        "specialtyCodes": [
+          "C4"
+        ],
+        "specialtyNamesUk": [
+          "Психологія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        180
+      ]
+    },
+    {
+      "id": "succ-20812-76777",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-20812",
+      "targetProgramId": "program-76777",
+      "sourceProgram": {
+        "programId": "program-20812",
+        "edeboId": 20812,
+        "nameUk": "Регіональні студії",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-291"
+        ],
+        "specialtyCodes": [
+          "291"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини, суспільні комунікації та регіональні студії"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76777",
+        "edeboId": 76777,
+        "nameUk": "Міжнародне регіонознавство",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C3"
+        ],
+        "specialtyCodes": [
+          "C3"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародні відносини"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        34
+      ]
+    },
+    {
+      "id": "succ-23286-84085",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23286",
+      "targetProgramId": "program-84085",
+      "sourceProgram": {
+        "programId": "program-23286",
+        "edeboId": 23286,
+        "nameUk": "Славістика Центрально-Східної Європи і Балкан: теоретичні та прикладні студії: польська та українська мови і літератури",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84085",
+        "edeboId": 84085,
+        "nameUk": "Славістика Центрально-Східної Європи і Балкан: теоретичні та прикладні студії: польська та українська мови і літератури",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        116
+      ]
+    },
+    {
+      "id": "succ-23293-84090",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23293",
+      "targetProgramId": "program-84090",
+      "sourceProgram": {
+        "programId": "program-23293",
+        "edeboId": 23293,
+        "nameUk": "Сучасна англомовна комунікація та переклад і дві західноєвропейські мови / English Communication Studies and Translation and twoWestern European Languages (викладання іноземними мовами)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84090",
+        "edeboId": 84090,
+        "nameUk": "Сучасна англомовна комунікація та переклад і дві західноєвропейські мови / English Communication Studies and Translation and two Western European Languages (викладання іноземними мовами)",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        110
+      ]
+    },
+    {
+      "id": "succ-25334-68908",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-25334",
+      "targetProgramId": "program-68908",
+      "sourceProgram": {
+        "programId": "program-25334",
+        "edeboId": 25334,
+        "nameUk": "Сходознавство",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-032"
+        ],
+        "specialtyCodes": [
+          "032"
+        ],
+        "specialtyNamesUk": [
+          "Історія та археологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-68908",
+        "edeboId": 68908,
+        "nameUk": "Сходознавство",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B9"
+        ],
+        "specialtyCodes": [
+          "B9"
+        ],
+        "specialtyNamesUk": [
+          "Історія та археологія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        140
+      ]
+    },
+    {
+      "id": "succ-23375-84112",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23375",
+      "targetProgramId": "program-84112",
+      "sourceProgram": {
+        "programId": "program-23375",
+        "edeboId": 23375,
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: китайська мова і література",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84112",
+        "edeboId": 84112,
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: китайська мова і література",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        17
+      ]
+    },
+    {
+      "id": "succ-23377-84113",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23377",
+      "targetProgramId": "program-84113",
+      "sourceProgram": {
+        "programId": "program-23377",
+        "edeboId": 23377,
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: корейська мова і література",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84113",
+        "edeboId": 84113,
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: корейська мова і література",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        98
+      ]
+    },
+    {
+      "id": "succ-23381-84115",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23381",
+      "targetProgramId": "program-84115",
+      "sourceProgram": {
+        "programId": "program-23381",
+        "edeboId": 23381,
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: турецька мова і література",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84115",
+        "edeboId": 84115,
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: турецька мова і література",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        109
+      ]
+    },
+    {
+      "id": "succ-23372-86689",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23372",
+      "targetProgramId": "program-86689",
+      "sourceProgram": {
+        "programId": "program-23372",
+        "edeboId": 23372,
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: індонезійська мова і література",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-86689",
+        "edeboId": 86689,
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: індонезійська мова і література",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        55
+      ]
+    },
+    {
+      "id": "succ-40680-76647",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-40680",
+      "targetProgramId": "program-76647",
+      "sourceProgram": {
+        "programId": "program-40680",
+        "edeboId": 40680,
+        "nameUk": "Управління та екологія водних ресурсів",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-103"
+        ],
+        "specialtyCodes": [
+          "103"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76647",
+        "edeboId": 76647,
+        "nameUk": "Гідрологія, використання та збереження водних ресурсів",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E4"
+        ],
+        "specialtyCodes": [
+          "E4"
+        ],
+        "specialtyNamesUk": [
+          "Науки про Землю"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        113
+      ]
+    },
+    {
+      "id": "succ-23295-68888",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23295",
+      "targetProgramId": "program-68888",
+      "sourceProgram": {
+        "programId": "program-23295",
+        "edeboId": 23295,
+        "nameUk": "Урбаністика та міське планування",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-106"
+        ],
+        "specialtyCodes": [
+          "106"
+        ],
+        "specialtyNamesUk": [
+          "Географія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-68888",
+        "edeboId": 68888,
+        "nameUk": "Урбаністика та міське планування",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-C6"
+        ],
+        "specialtyCodes": [
+          "C6"
+        ],
+        "specialtyNamesUk": [
+          "Географія та регіональні студії"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        89
+      ]
+    },
+    {
+      "id": "succ-23297-84092",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23297",
+      "targetProgramId": "program-84092",
+      "sourceProgram": {
+        "programId": "program-23297",
+        "edeboId": 23297,
+        "nameUk": "Усний та письмовий переклад з англійської та другої західноєвропейської мови",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84092",
+        "edeboId": 84092,
+        "nameUk": "Усний та письмовий переклад з англійської та другої західноєвропейської мови",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        91
+      ]
+    },
+    {
+      "id": "succ-49273-84108",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-49273",
+      "targetProgramId": "program-84108",
+      "sourceProgram": {
+        "programId": "program-49273",
+        "edeboId": 49273,
+        "nameUk": "Франкофонні студії та переклад, англійська мова",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84108",
+        "edeboId": 84108,
+        "nameUk": "Франкофонні студії та переклад, англійська мова",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        46
+      ]
+    },
+    {
+      "id": "succ-60543-87871",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-60543",
+      "targetProgramId": "program-87871",
+      "sourceProgram": {
+        "programId": "program-60543",
+        "edeboId": 60543,
+        "nameUk": "Фізика інформаційних технологій",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-105",
+          "2015-126"
+        ],
+        "specialtyCodes": [
+          "105",
+          "126"
+        ],
+        "specialtyNamesUk": [
+          "Прикладна фізика та наноматеріали",
+          "Інформаційні системи та технології"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-87871",
+        "edeboId": 87871,
+        "nameUk": "Фізика інформаційних технологій",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-F6"
+        ],
+        "specialtyCodes": [
+          "F6"
+        ],
+        "specialtyNamesUk": [
+          "Інформаційні системи і технології"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        172
+      ]
+    },
+    {
+      "id": "succ-23298-84094",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-23298",
+      "targetProgramId": "program-84094",
+      "sourceProgram": {
+        "programId": "program-23298",
+        "edeboId": 23298,
+        "nameUk": "Художній переклад з англійської мови, літературне редагування та менеджмент перекладацьких проектів",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84094",
+        "edeboId": 84094,
+        "nameUk": "Художній переклад з англійської мови, літературне редагування та менеджмент перекладацьких проектів",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        102
+      ]
+    },
+    {
+      "id": "succ-2218-69985",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-2218",
+      "targetProgramId": "program-69985",
+      "sourceProgram": {
+        "programId": "program-2218",
+        "edeboId": 2218,
+        "nameUk": "Хімія",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-102"
+        ],
+        "specialtyCodes": [
+          "102"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69985",
+        "edeboId": 69985,
+        "nameUk": "Хімія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E3"
+        ],
+        "specialtyCodes": [
+          "E3"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        181
+      ]
+    },
+    {
+      "id": "succ-64914-69986",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-64914",
+      "targetProgramId": "program-69986",
+      "sourceProgram": {
+        "programId": "program-64914",
+        "edeboId": 64914,
+        "nameUk": "Хімія",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-102"
+        ],
+        "specialtyCodes": [
+          "102"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69986",
+        "edeboId": 69986,
+        "nameUk": "Хімія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E3"
+        ],
+        "specialtyCodes": [
+          "E3"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        120
+      ]
+    },
+    {
+      "id": "succ-1261-77065",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-1261",
+      "targetProgramId": "program-77065",
+      "sourceProgram": {
+        "programId": "program-1261",
+        "edeboId": 1261,
+        "nameUk": "Хімія (високі технології)",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-102"
+        ],
+        "specialtyCodes": [
+          "102"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-77065",
+        "edeboId": 77065,
+        "nameUk": "Медична хімія",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-E3"
+        ],
+        "specialtyCodes": [
+          "E3"
+        ],
+        "specialtyNamesUk": [
+          "Хімія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        164
+      ]
+    },
+    {
+      "id": "succ-34636-69923",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-34636",
+      "targetProgramId": "program-69923",
+      "sourceProgram": {
+        "programId": "program-34636",
+        "edeboId": 34636,
+        "nameUk": "Європейське бізнесове право (мова навчання українська/англійська) / European Business Law",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-293"
+        ],
+        "specialtyCodes": [
+          "293"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69923",
+        "edeboId": 69923,
+        "nameUk": "Європейське бізнесове право (мова навчання українська/англійська) / European Business Law",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-D9"
+        ],
+        "specialtyCodes": [
+          "D9"
+        ],
+        "specialtyNamesUk": [
+          "Міжнародне право"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        53
+      ]
+    },
+    {
+      "id": "succ-21263-69757",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-21263",
+      "targetProgramId": "program-69757",
+      "sourceProgram": {
+        "programId": "program-21263",
+        "edeboId": 21263,
+        "nameUk": "Інформатика",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-122"
+        ],
+        "specialtyCodes": [
+          "122"
+        ],
+        "specialtyNamesUk": [
+          "Комп’ютерні науки"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69757",
+        "edeboId": 69757,
+        "nameUk": "Інформатика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-F3"
+        ],
+        "specialtyCodes": [
+          "F3"
+        ],
+        "specialtyNamesUk": [
+          "Комп’ютерні науки"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        126
+      ]
+    },
+    {
+      "id": "succ-21330-69973",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-21330",
+      "targetProgramId": "program-69973",
+      "sourceProgram": {
+        "programId": "program-21330",
+        "edeboId": 21330,
+        "nameUk": "Інформатика",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-122"
+        ],
+        "specialtyCodes": [
+          "122"
+        ],
+        "specialtyNamesUk": [
+          "Комп’ютерні науки"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69973",
+        "edeboId": 69973,
+        "nameUk": "Інформатика",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-F3"
+        ],
+        "specialtyCodes": [
+          "F3"
+        ],
+        "specialtyNamesUk": [
+          "Комп’ютерні науки"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        15
+      ]
+    },
+    {
+      "id": "succ-59117-69983",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-59117",
+      "targetProgramId": "program-69983",
+      "sourceProgram": {
+        "programId": "program-59117",
+        "edeboId": 59117,
+        "nameUk": "Інформаційна безпека телекомунікаційних систем і мереж",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-172"
+        ],
+        "specialtyCodes": [
+          "172"
+        ],
+        "specialtyNamesUk": [
+          "Електронні комунікації та радіотехніка"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-69983",
+        "edeboId": 69983,
+        "nameUk": "Електронні комунікації, пристрої та системи",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-G5"
+        ],
+        "specialtyCodes": [
+          "G5"
+        ],
+        "specialtyNamesUk": [
+          "Електроніка, електронні комунікації, приладобудування та радіотехніка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        157
+      ]
+    },
+    {
+      "id": "succ-59115-76591",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-59115",
+      "targetProgramId": "program-76591",
+      "sourceProgram": {
+        "programId": "program-59115",
+        "edeboId": 59115,
+        "nameUk": "Інформаційна безпека телекомунікаційних систем і мереж",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-172"
+        ],
+        "specialtyCodes": [
+          "172"
+        ],
+        "specialtyNamesUk": [
+          "Електронні комунікації та радіотехніка"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76591",
+        "edeboId": 76591,
+        "nameUk": "Радіоелектроніка та електронні комунікації",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-G5"
+        ],
+        "specialtyCodes": [
+          "G5"
+        ],
+        "specialtyNamesUk": [
+          "Електроніка, електронні комунікації, приладобудування та радіотехніка"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        152
+      ]
+    },
+    {
+      "id": "succ-49270-84105",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-49270",
+      "targetProgramId": "program-84105",
+      "sourceProgram": {
+        "programId": "program-49270",
+        "edeboId": 49270,
+        "nameUk": "Іспаномовні студії та переклад, англійська мова",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
+        "specialtyCodes": [
+          "035"
+        ],
+        "specialtyNamesUk": [
+          "Філологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-84105",
+        "edeboId": 84105,
+        "nameUk": "Іспаномовні студії та переклад, англійська мова",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B11"
+        ],
+        "specialtyCodes": [
+          "B11"
+        ],
+        "specialtyNamesUk": [
+          "Філологія (за спеціалізаціями)"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        92
+      ]
+    },
+    {
+      "id": "succ-1689-76003",
+      "relationType": "specialty-classifier-transition",
+      "sourceProgramId": "program-1689",
+      "targetProgramId": "program-76003",
+      "sourceProgram": {
+        "programId": "program-1689",
+        "edeboId": 1689,
+        "nameUk": "Історія мистецтв",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-032"
+        ],
+        "specialtyCodes": [
+          "032"
+        ],
+        "specialtyNamesUk": [
+          "Історія та археологія"
+        ]
+      },
+      "targetProgram": {
+        "programId": "program-76003",
+        "edeboId": 76003,
+        "nameUk": "Візуальна історія та кураторство виставкових проєктів",
+        "classifierId": "specialties-2024",
+        "specialtyIds": [
+          "2024-B9"
+        ],
+        "specialtyCodes": [
+          "B9"
+        ],
+        "specialtyNamesUk": [
+          "Історія та археологія"
+        ]
+      },
+      "sourceClassifierId": "specialties-2015",
+      "targetClassifierId": "specialties-2024",
+      "active": true,
+      "sourceRows": [
+        88
+      ]
+    }
+  ]
+}

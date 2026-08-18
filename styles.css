@@ -181,3 +181,83 @@ tbody tr.selected { background: var(--blue-soft); }
 .succession-id { color:var(--muted); font-size:11px; margin-top:4px; }
 .succession-specialty { margin-top:7px; font-size:12px; color:#334155; }
 .succession-note { margin-top:8px; color:var(--muted); font-size:11px; line-height:1.4; }
+
+
+/* One logical card for successive program versions */
+.program-version-box {
+  margin-top: 16px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 13px;
+  background: #f8fafc;
+}
+.program-version-caption {
+  font-size: 11px;
+  font-weight: 750;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .055em;
+  margin-bottom: 9px;
+}
+.program-version-tabs {
+  display: grid;
+  grid-template-columns: 1fr 28px 1fr;
+  align-items: stretch;
+  gap: 6px;
+}
+.program-version-tab {
+  border: 1px solid var(--line);
+  border-radius: 11px;
+  background: #fff;
+  padding: 10px 11px;
+  text-align: left;
+  color: var(--text);
+  display: grid;
+  gap: 2px;
+}
+.program-version-tab:hover {
+  border-color: #93c5fd;
+  background: #f8fbff;
+}
+.program-version-tab.active {
+  border-color: var(--blue);
+  background: var(--blue-soft);
+  box-shadow: 0 0 0 2px rgba(37,99,235,.06);
+}
+.program-version-tab .version-kicker {
+  font-size: 10px;
+  color: var(--muted);
+  margin: 0;
+}
+.program-version-tab strong {
+  font-size: 15px;
+}
+.program-version-tab small {
+  font-size: 10px;
+  color: var(--muted);
+}
+.version-connector {
+  display: grid;
+  place-items: center;
+  color: var(--blue);
+  font-size: 18px;
+  font-weight: 800;
+}
+.program-version-note {
+  margin-top: 8px;
+  font-size: 10.5px;
+  color: var(--muted);
+  line-height: 1.35;
+}
+.logical-pair-note {
+  color: #2563eb;
+}
+@media (max-width: 520px) {
+  .program-version-tabs {
+    grid-template-columns: 1fr;
+  }
+  .version-connector {
+    transform: rotate(90deg);
+    min-height: 20px;
+  }
+}

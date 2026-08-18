@@ -1,0 +1,15 @@
+{
+  "sourceWorkbook": "Всі ОП_наказ (1)(2).xlsx",
+  "sourceSheet": "Копія аркуша КНУТШ 1",
+  "sourceColumns": {
+    "sourceProgram": "A-I",
+    "targetProgram": "P-S"
+  },
+  "unresolvedRows": [],
+  "duplicateRowsMerged": 0,
+  "relationCount": 84,
+  "sourceProgramCount": 84,
+  "targetProgramCount": 84,
+  "sourceProgramsWithMultipleTargets": 0,
+  "targetProgramsWithMultipleSources": 0
+}
