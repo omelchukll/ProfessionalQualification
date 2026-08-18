@@ -1,0 +1,27 @@
+{
+  "id": "program-2183",
+  "edeboId": 2183,
+  "nameUk": "Метеорологія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-103"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "103",
+  "specialtyNameRaw": "Науки про Землю",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "geography",
+  "unitNameRaw": "Географічний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    128
+  ],
+  "sourceProgramIdSourceNote": "15829 Не правильне ID, за якою спеціальністю ця програма? Правильне ID 2183"
+}
