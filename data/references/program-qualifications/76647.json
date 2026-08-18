@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76647-pq-0032",
+      "qualificationId": "pq-0032",
+      "relationType": "extended",
+      "sourceProgramId": "program-40680",
+      "sourceRelationId": "rel-40680-pq-0032",
+      "extension": {
+        "order": {
+          "number": "906-32",
+          "date": "2026-07-17",
+          "raw": "906-32 від 17.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 113,
+      "sourceQualificationText": "Консультант із природнії ресурсів / Natural resources consultant"
+    },
+    {
+      "id": "rel-76647-pq-0082",
+      "qualificationId": "pq-0082",
+      "relationType": "extended",
+      "sourceProgramId": "program-40680",
+      "sourceRelationId": "rel-40680-pq-0082",
+      "extension": {
+        "order": {
+          "number": "906-32",
+          "date": "2026-07-17",
+          "raw": "906-32 від 17.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 113,
+      "sourceQualificationText": "Фахівець з аналізу якості води / Water quality analyst"
+    }
+  ],
+  "programId": "program-76647",
+  "edeboId": 76647,
+  "sourceRows": [
+    113
+  ]
+}

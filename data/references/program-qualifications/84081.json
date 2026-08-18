@@ -1,0 +1,60 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-84081-pq-0033",
+      "qualificationId": "pq-0033",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1208-32",
+          "date": "2025-12-19",
+          "raw": "1208-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 15828
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 118,
+      "sourceQualificationText": "Координатор громадського мистецтва / Community arts project leader"
+    },
+    {
+      "id": "rel-84081-pq-0036",
+      "qualificationId": "pq-0036",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1208-32",
+          "date": "2025-12-19",
+          "raw": "1208-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 15828
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 118,
+      "sourceQualificationText": "Критик / Critic"
+    },
+    {
+      "id": "rel-84081-pq-0040",
+      "qualificationId": "pq-0040",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1208-32",
+          "date": "2025-12-19",
+          "raw": "1208-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 15828
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 118,
+      "sourceQualificationText": "Літературознавець / Literary schola r"
+    }
+  ],
+  "programId": "program-84081",
+  "edeboId": 84081,
+  "sourceRows": [
+    118
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-86470-pq-0014",
+      "qualificationId": "pq-0014",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1303-32",
+          "date": "2025-12-29",
+          "raw": "1303-32 від 29.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 166,
+      "sourceQualificationText": "Біохімік / Biochemist"
+    }
+  ],
+  "programId": "program-86470",
+  "edeboId": 86470,
+  "sourceRows": [
+    166
+  ]
+}

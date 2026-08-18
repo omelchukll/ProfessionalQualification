@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-88061-pq-0057",
+      "qualificationId": "pq-0057",
+      "relationType": "extended",
+      "sourceProgramId": "program-53169",
+      "sourceRelationId": "rel-53169-pq-0057",
+      "extension": {
+        "order": {
+          "number": "867-32",
+          "date": "2026-07-14",
+          "raw": "867-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 9,
+      "sourceQualificationText": "Перекладач (письмовий переклад, українська - новогрецька мови) / Translator (Ukrainian — Modern Greek languages)"
+    }
+  ],
+  "programId": "program-88061",
+  "edeboId": 88061,
+  "sourceRows": [
+    9
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-84106-pq-0045",
+      "qualificationId": "pq-0045",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1252-32",
+          "date": "2025-12-23",
+          "raw": "1252-32 від 23.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 144,
+      "sourceQualificationText": "Мовознавець / Linguist"
+    },
+    {
+      "id": "rel-84106-pq-0052",
+      "qualificationId": "pq-0052",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1252-32",
+          "date": "2025-12-23",
+          "raw": "1252-32 від 23.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 144,
+      "sourceQualificationText": "Перекладач (мови відповідно до освітньої програми)"
+    }
+  ],
+  "programId": "program-84106",
+  "edeboId": 84106,
+  "sourceRows": [
+    144
+  ]
+}

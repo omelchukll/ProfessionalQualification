@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-77065-pq-0096",
+      "qualificationId": "pq-0096",
+      "relationType": "extended",
+      "sourceProgramId": "program-1261",
+      "sourceRelationId": "rel-1261-pq-0096",
+      "extension": {
+        "order": null
+      },
+      "status": "active",
+      "sourceRow": 164,
+      "sourceQualificationText": "Хімік / Chemist"
+    }
+  ],
+  "programId": "program-77065",
+  "edeboId": 77065,
+  "sourceRows": [
+    164
+  ]
+}

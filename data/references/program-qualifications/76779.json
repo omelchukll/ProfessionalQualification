@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76779-pq-0027",
+      "qualificationId": "pq-0027",
+      "relationType": "extended",
+      "sourceProgramId": "program-34629",
+      "sourceRelationId": "rel-34629-pq-0027",
+      "extension": {
+        "order": {
+          "number": "922-32",
+          "date": "2026-07-27",
+          "raw": "922-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 97,
+      "sourceQualificationText": "Експерт із суспільно-політичних питань)"
+    }
+  ],
+  "programId": "program-76779",
+  "edeboId": 76779,
+  "sourceRows": [
+    97
+  ]
+}

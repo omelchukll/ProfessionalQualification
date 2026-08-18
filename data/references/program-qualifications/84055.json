@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-84055-pq-0054",
+      "qualificationId": "pq-0054",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1143-32",
+          "date": "2025-12-17",
+          "raw": "1143-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": "5652 - це номер сертифікату з іншого університету"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 62,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до освітньої програми) / Translator"
+    }
+  ],
+  "programId": "program-84055",
+  "edeboId": 84055,
+  "sourceRows": [
+    62
+  ]
+}

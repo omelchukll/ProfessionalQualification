@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-77147-pq-0093",
+      "qualificationId": "pq-0093",
+      "relationType": "extended",
+      "sourceProgramId": "program-326",
+      "sourceRelationId": "rel-326-pq-0093",
+      "extension": {
+        "order": null
+      },
+      "status": "active",
+      "sourceRow": 175,
+      "sourceQualificationText": "Фізик / Physicist"
+    }
+  ],
+  "programId": "program-77147",
+  "edeboId": 77147,
+  "sourceRows": [
+    175
+  ]
+}

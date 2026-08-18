@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-77106-pq-0075",
+      "qualificationId": "pq-0075",
+      "relationType": "extended",
+      "sourceProgramId": "program-40683",
+      "sourceRelationId": "rel-40683-pq-0075",
+      "extension": {
+        "order": null
+      },
+      "status": "active",
+      "sourceRow": 168,
+      "sourceQualificationText": "Технік-конструктор (електроніка) / Electronics engineering technician"
+    }
+  ],
+  "programId": "program-77106",
+  "edeboId": 77106,
+  "sourceRows": [
+    168
+  ]
+}

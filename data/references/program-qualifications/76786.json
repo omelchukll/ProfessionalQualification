@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76786-pq-0031",
+      "qualificationId": "pq-0031",
+      "relationType": "extended",
+      "sourceProgramId": "program-35873",
+      "sourceRelationId": "rel-35873-pq-0031",
+      "extension": {
+        "order": {
+          "number": "928-32",
+          "date": "2026-07-27",
+          "raw": "928-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 38,
+      "sourceQualificationText": "Консультант зі зв'язків з громадськістю / Public affairs consultant"
+    }
+  ],
+  "programId": "program-76786",
+  "edeboId": 76786,
+  "sourceRows": [
+    38
+  ]
+}

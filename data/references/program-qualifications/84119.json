@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-84119-pq-0054",
+      "qualificationId": "pq-0054",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1171-32",
+          "date": "2025-12-19",
+          "raw": "1171-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": "4490 - це сертифікат по старій спеціальності"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 85,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до освітньої програми) / Translator"
+    }
+  ],
+  "programId": "program-84119",
+  "edeboId": 84119,
+  "sourceRows": [
+    85
+  ]
+}

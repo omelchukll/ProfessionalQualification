@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-83942-pq-0055",
+      "qualificationId": "pq-0055",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1214-32",
+          "date": "2025-12-19",
+          "raw": "1214-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 15872
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 124,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до совітньої програми) / Translator"
+    },
+    {
+      "id": "rel-83942-pq-0065",
+      "qualificationId": "pq-0065",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1214-32",
+          "date": "2025-12-19",
+          "raw": "1214-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 15872
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 124,
+      "sourceQualificationText": "Редактор літературний"
+    }
+  ],
+  "programId": "program-83942",
+  "edeboId": 83942,
+  "sourceRows": [
+    124
+  ]
+}

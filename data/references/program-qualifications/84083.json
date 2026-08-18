@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-84083-pq-0056",
+      "qualificationId": "pq-0056",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1084-32",
+          "date": "2025-12-12",
+          "raw": "1084-32 від 12.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 18,
+      "sourceQualificationText": "Перекладач (письмовий переклад, українська - англійська мови) / Translator (Ukrainian - English languages)"
+    },
+    {
+      "id": "rel-84083-pq-0098",
+      "qualificationId": "pq-0098",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1084-32",
+          "date": "2025-12-12",
+          "raw": "1084-32 від 12.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 18,
+      "sourceQualificationText": "Юрислінгвіст / Lawyer linguist»"
+    }
+  ],
+  "programId": "program-84083",
+  "edeboId": 84083,
+  "sourceRows": [
+    18
+  ]
+}

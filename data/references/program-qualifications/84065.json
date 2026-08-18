@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-84065-pq-0103",
+      "qualificationId": "pq-0103",
+      "relationType": "extended",
+      "sourceProgramId": "program-18411",
+      "sourceRelationId": "rel-18411-pq-0103",
+      "extension": {
+        "order": {
+          "number": "866-32",
+          "date": "2026-07-14",
+          "raw": "866-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 47,
+      "sourceQualificationText": "Інженер-лінгвіст / Language Engineer"
+    }
+  ],
+  "programId": "program-84065",
+  "edeboId": 84065,
+  "sourceRows": [
+    47
+  ]
+}

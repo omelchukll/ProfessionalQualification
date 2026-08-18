@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-84067-pq-0073",
+      "qualificationId": "pq-0073",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1090-32",
+          "date": "2025-12-15",
+          "raw": "1090-32 від 15.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 22,
+      "sourceQualificationText": "Спічрайтер / Speechwriter"
+    }
+  ],
+  "programId": "program-84067",
+  "edeboId": 84067,
+  "sourceRows": [
+    22
+  ]
+}

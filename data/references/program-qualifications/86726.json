@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-86726-pq-0095",
+      "qualificationId": "pq-0095",
+      "relationType": "extended",
+      "sourceProgramId": "program-20818",
+      "sourceRelationId": "rel-20818-pq-0095",
+      "extension": {
+        "order": {
+          "number": "932-32",
+          "date": "2026-07-27",
+          "raw": "932-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 8,
+      "sourceQualificationText": "Фінансовий аналітик / Financial Analyst"
+    }
+  ],
+  "programId": "program-86726",
+  "edeboId": 86726,
+  "sourceRows": [
+    8
+  ]
+}

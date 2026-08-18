@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76777-pq-0078",
+      "qualificationId": "pq-0078",
+      "relationType": "extended",
+      "sourceProgramId": "program-20812",
+      "sourceRelationId": "rel-20812-pq-0078",
+      "extension": {
+        "order": {
+          "number": "923-32",
+          "date": "2026-07-27",
+          "raw": "923-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 34,
+      "sourceQualificationText": "Усний перекладач / Interpreter"
+    },
+    {
+      "id": "rel-76777-pq-0092",
+      "qualificationId": "pq-0092",
+      "relationType": "extended",
+      "sourceProgramId": "program-20812",
+      "sourceRelationId": "rel-20812-pq-0092",
+      "extension": {
+        "order": {
+          "number": "923-32",
+          "date": "2026-07-27",
+          "raw": "923-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 34,
+      "sourceQualificationText": "Фахівець із закордонних справ / Foreign Affairs Officer"
+    }
+  ],
+  "programId": "program-76777",
+  "edeboId": 76777,
+  "sourceRows": [
+    34
+  ]
+}

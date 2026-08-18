@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-86075-pq-0064",
+      "qualificationId": "pq-0064",
+      "relationType": "extended",
+      "sourceProgramId": "program-50563",
+      "sourceRelationId": "rel-50563-pq-0064",
+      "extension": {
+        "order": {
+          "number": "931-32",
+          "date": "2026-07-27",
+          "raw": "931-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 185,
+      "sourceQualificationText": "Радник з економічних питань / Economic Adviser"
+    }
+  ],
+  "programId": "program-86075",
+  "edeboId": 86075,
+  "sourceRows": [
+    185
+  ]
+}

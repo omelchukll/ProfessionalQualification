@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76704-pq-0055",
+      "qualificationId": "pq-0055",
+      "relationType": "extended",
+      "sourceProgramId": "program-31377",
+      "sourceRelationId": "rel-31377-pq-0055",
+      "extension": {
+        "order": {
+          "number": "920-32",
+          "date": "2026-07-27",
+          "raw": "920-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 122,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до совітньої програми) / Translator"
+    },
+    {
+      "id": "rel-76704-pq-0087",
+      "qualificationId": "pq-0087",
+      "relationType": "extended",
+      "sourceProgramId": "program-31377",
+      "sourceRelationId": "rel-31377-pq-0087",
+      "extension": {
+        "order": {
+          "number": "920-32",
+          "date": "2026-07-27",
+          "raw": "920-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 122,
+      "sourceQualificationText": "Фахівець з економічної політики / Economic policy officer"
+    }
+  ],
+  "programId": "program-76704",
+  "edeboId": 76704,
+  "sourceRows": [
+    122
+  ]
+}

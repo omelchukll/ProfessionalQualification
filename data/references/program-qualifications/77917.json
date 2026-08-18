@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-77917-pq-0063",
+      "qualificationId": "pq-0063",
+      "relationType": "extended",
+      "sourceProgramId": "program-32339",
+      "sourceRelationId": "rel-32339-pq-0063",
+      "extension": {
+        "order": null
+      },
+      "status": "active",
+      "sourceRow": 136,
+      "sourceQualificationText": "Психолог"
+    }
+  ],
+  "programId": "program-77917",
+  "edeboId": 77917,
+  "sourceRows": [
+    136
+  ]
+}

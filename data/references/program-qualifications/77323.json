@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-77323-pq-0003",
+      "qualificationId": "pq-0003",
+      "relationType": "extended",
+      "sourceProgramId": "program-18906",
+      "sourceRelationId": "rel-18906-pq-0003",
+      "extension": {
+        "order": {
+          "number": "895-32",
+          "date": "2026-07-15",
+          "raw": "895-32 від 15.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 25,
+      "sourceQualificationText": "Аналітик напруження матеріалів / Material stress analyst"
+    }
+  ],
+  "programId": "program-77323",
+  "edeboId": 77323,
+  "sourceRows": [
+    25
+  ]
+}

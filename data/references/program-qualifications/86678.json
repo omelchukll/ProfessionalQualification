@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-86678-pq-0086",
+      "qualificationId": "pq-0086",
+      "relationType": "extended",
+      "sourceProgramId": "program-2227",
+      "sourceRelationId": "rel-2227-pq-0086",
+      "extension": {
+        "order": {
+          "number": "880-32",
+          "date": "2026-07-14",
+          "raw": "880-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 103,
+      "sourceQualificationText": "Фахівець з геоінформаційних систем / Geographic information systems specialist»"
+    }
+  ],
+  "programId": "program-86678",
+  "edeboId": 86678,
+  "sourceRows": [
+    103
+  ]
+}

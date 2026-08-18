@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76684-pq-0025",
+      "qualificationId": "pq-0025",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1295-32",
+          "date": "2025-12-26",
+          "raw": "1295-32 від 26.12.2025, внесено зміни, наказ № 15-32 від 13.01.2026"
+        },
+        "nakDecisionOrCertificate": "2839 - це за старою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 170,
+      "sourceQualificationText": "Експерт з географічних інформаційних систем / Geographic information systems expert"
+    },
+    {
+      "id": "rel-76684-pq-0049",
+      "qualificationId": "pq-0049",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1295-32",
+          "date": "2025-12-26",
+          "raw": "1295-32 від 26.12.2025, внесено зміни, наказ № 15-32 від 13.01.2026"
+        },
+        "nakDecisionOrCertificate": "2839 - це за старою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 170,
+      "sourceQualificationText": "Науковець-картограф / Cartographic research scientist"
+    }
+  ],
+  "programId": "program-76684",
+  "edeboId": 76684,
+  "sourceRows": [
+    170
+  ]
+}

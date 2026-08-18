@@ -1,0 +1,94 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76534-pq-0035",
+      "qualificationId": "pq-0035",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1335-32",
+          "date": "2025-12-30",
+          "raw": "1335-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 129,
+      "sourceQualificationText": "Креативний менеджер / Creative manager"
+    },
+    {
+      "id": "rel-76534-pq-0043",
+      "qualificationId": "pq-0043",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1335-32",
+          "date": "2025-12-30",
+          "raw": "1335-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 129,
+      "sourceQualificationText": "Менеджер вебконтенту / Web content manager"
+    },
+    {
+      "id": "rel-76534-pq-0060",
+      "qualificationId": "pq-0060",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1335-32",
+          "date": "2025-12-30",
+          "raw": "1335-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 129,
+      "sourceQualificationText": "Прессекретар / Spokesperson"
+    },
+    {
+      "id": "rel-76534-pq-0062",
+      "qualificationId": "pq-0062",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1335-32",
+          "date": "2025-12-30",
+          "raw": "1335-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 129,
+      "sourceQualificationText": "Продюсер / Producer"
+    },
+    {
+      "id": "rel-76534-pq-0072",
+      "qualificationId": "pq-0072",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1335-32",
+          "date": "2025-12-30",
+          "raw": "1335-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 129,
+      "sourceQualificationText": "Спеціаліст зі зв'язків з громадськістю / Public relations officer"
+    }
+  ],
+  "programId": "program-76534",
+  "edeboId": 76534,
+  "sourceRows": [
+    129
+  ]
+}

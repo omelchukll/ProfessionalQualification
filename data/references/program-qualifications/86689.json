@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-86689-pq-0079",
+      "qualificationId": "pq-0079",
+      "relationType": "extended",
+      "sourceProgramId": "program-23372",
+      "sourceRelationId": "rel-23372-pq-0079",
+      "extension": {
+        "order": {
+          "number": "854-32",
+          "date": "2026-07-14",
+          "raw": "854-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 55,
+      "sourceQualificationText": "Усний перекладач (мови відповідно до освітньої програми) / Interpreter"
+    }
+  ],
+  "programId": "program-86689",
+  "edeboId": 86689,
+  "sourceRows": [
+    55
+  ]
+}

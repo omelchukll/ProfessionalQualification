@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-85056-pq-0019",
+      "qualificationId": "pq-0019",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1282-32",
+          "date": "2025-12-26",
+          "raw": "1282-32 від 26.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 161,
+      "sourceQualificationText": "Геофізик / Geophysicist"
+    }
+  ],
+  "programId": "program-85056",
+  "edeboId": 85056,
+  "sourceRows": [
+    161
+  ]
+}

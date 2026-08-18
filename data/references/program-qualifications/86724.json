@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-86724-pq-0009",
+      "qualificationId": "pq-0009",
+      "relationType": "extended",
+      "sourceProgramId": "program-31376",
+      "sourceRelationId": "rel-31376-pq-0009",
+      "extension": {
+        "order": {
+          "number": "933-32",
+          "date": "2026-07-27",
+          "raw": "933-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 134,
+      "sourceQualificationText": "Бізнес менеджер / Business manager"
+    },
+    {
+      "id": "rel-86724-pq-0055",
+      "qualificationId": "pq-0055",
+      "relationType": "extended",
+      "sourceProgramId": "program-31376",
+      "sourceRelationId": "rel-31376-pq-0055",
+      "extension": {
+        "order": {
+          "number": "933-32",
+          "date": "2026-07-27",
+          "raw": "933-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 134,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до совітньої програми) / Translator"
+    }
+  ],
+  "programId": "program-86724",
+  "edeboId": 86724,
+  "sourceRows": [
+    134
+  ]
+}

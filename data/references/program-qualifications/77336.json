@@ -1,0 +1,60 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-77336-pq-0001",
+      "qualificationId": "pq-0001",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1264-32",
+          "date": "2025-12-25",
+          "raw": "1264-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": 15749
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 148,
+      "sourceQualificationText": "Актуарій"
+    },
+    {
+      "id": "rel-77336-pq-0002",
+      "qualificationId": "pq-0002",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1264-32",
+          "date": "2025-12-25",
+          "raw": "1264-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": 15749
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 148,
+      "sourceQualificationText": "Аналітик даних"
+    },
+    {
+      "id": "rel-77336-pq-0041",
+      "qualificationId": "pq-0041",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1264-32",
+          "date": "2025-12-25",
+          "raw": "1264-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": 15749
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 148,
+      "sourceQualificationText": "Математик"
+    }
+  ],
+  "programId": "program-77336",
+  "edeboId": 77336,
+  "sourceRows": [
+    148
+  ]
+}

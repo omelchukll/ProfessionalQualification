@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76588-pq-0101",
+      "qualificationId": "pq-0101",
+      "relationType": "extended",
+      "sourceProgramId": "program-23856",
+      "sourceRelationId": "rel-23856-pq-0101",
+      "extension": {
+        "order": null
+      },
+      "status": "active",
+      "sourceRow": 154,
+      "sourceQualificationText": "Інженер"
+    }
+  ],
+  "programId": "program-76588",
+  "edeboId": 76588,
+  "sourceRows": [
+    154
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76648-pq-0030",
+      "qualificationId": "pq-0030",
+      "relationType": "extended",
+      "sourceProgramId": "program-30700",
+      "sourceRelationId": "rel-30700-pq-0030",
+      "extension": {
+        "order": {
+          "number": "904-32",
+          "date": "2026-07-17",
+          "raw": "904-32 від 17.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 143,
+      "sourceQualificationText": "Картограф"
+    },
+    {
+      "id": "rel-76648-pq-0085",
+      "qualificationId": "pq-0085",
+      "relationType": "extended",
+      "sourceProgramId": "program-30700",
+      "sourceRelationId": "rel-30700-pq-0085",
+      "extension": {
+        "order": {
+          "number": "904-32",
+          "date": "2026-07-17",
+          "raw": "904-32 від 17.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 143,
+      "sourceQualificationText": "Фахівець з географічних інформаційних систем / Geographic information systems specialist"
+    }
+  ],
+  "programId": "program-76648",
+  "edeboId": 76648,
+  "sourceRows": [
+    143
+  ]
+}

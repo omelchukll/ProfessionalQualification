@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-86727-pq-0010",
+      "qualificationId": "pq-0010",
+      "relationType": "extended",
+      "sourceProgramId": "program-20815",
+      "sourceRelationId": "rel-20815-pq-0010",
+      "extension": {
+        "order": {
+          "number": "930-32",
+          "date": "2026-07-27",
+          "raw": "930-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 39,
+      "sourceQualificationText": "Бізнес-аналітик / Business analyst"
+    },
+    {
+      "id": "rel-86727-pq-0078",
+      "qualificationId": "pq-0078",
+      "relationType": "extended",
+      "sourceProgramId": "program-20815",
+      "sourceRelationId": "rel-20815-pq-0078",
+      "extension": {
+        "order": {
+          "number": "930-32",
+          "date": "2026-07-27",
+          "raw": "930-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 39,
+      "sourceQualificationText": "Усний перекладач / Interpreter"
+    }
+  ],
+  "programId": "program-86727",
+  "edeboId": 86727,
+  "sourceRows": [
+    39
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-83969-pq-0052",
+      "qualificationId": "pq-0052",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1180-32",
+          "date": "2025-12-19",
+          "raw": "1180-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": "12210 - це сертифікат за старою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 94,
+      "sourceQualificationText": "Перекладач (мови відповідно до освітньої програми)"
+    }
+  ],
+  "programId": "program-83969",
+  "edeboId": 83969,
+  "sourceRows": [
+    94
+  ]
+}

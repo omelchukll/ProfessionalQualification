@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-84098-pq-0052",
+      "qualificationId": "pq-0052",
+      "relationType": "extended",
+      "sourceProgramId": "program-23302",
+      "sourceRelationId": "rel-23302-pq-0052",
+      "extension": {
+        "order": {
+          "number": "861-32",
+          "date": "2026-07-14",
+          "raw": "861-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 73,
+      "sourceQualificationText": "Перекладач (мови відповідно до освітньої програми)"
+    }
+  ],
+  "programId": "program-84098",
+  "edeboId": 84098,
+  "sourceRows": [
+    73
+  ]
+}

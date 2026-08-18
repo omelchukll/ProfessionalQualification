@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76747-pq-0023",
+      "qualificationId": "pq-0023",
+      "relationType": "extended",
+      "sourceProgramId": "program-36444",
+      "sourceRelationId": "rel-36444-pq-0023",
+      "extension": {
+        "order": {
+          "number": "925-32",
+          "date": "2026-07-27",
+          "raw": "925-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 121,
+      "sourceQualificationText": "Економіст / Economist"
+    }
+  ],
+  "programId": "program-76747",
+  "edeboId": 76747,
+  "sourceRows": [
+    121
+  ]
+}

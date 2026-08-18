@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76679-pq-0026",
+      "qualificationId": "pq-0026",
+      "relationType": "extended",
+      "sourceProgramId": "program-48871",
+      "sourceRelationId": "rel-48871-pq-0026",
+      "extension": {
+        "order": {
+          "number": "717-32",
+          "date": "2026-06-22",
+          "raw": "717-32 від 22.06.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 142,
+      "sourceQualificationText": "Експерт із природних ресурсів"
+    }
+  ],
+  "programId": "program-76679",
+  "edeboId": 76679,
+  "sourceRows": [
+    142
+  ]
+}

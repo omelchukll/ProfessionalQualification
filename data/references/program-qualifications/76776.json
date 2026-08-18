@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76776-pq-0042",
+      "qualificationId": "pq-0042",
+      "relationType": "extended",
+      "sourceProgramId": "program-20810",
+      "sourceRelationId": "rel-20810-pq-0042",
+      "extension": {
+        "order": {
+          "number": "924-32",
+          "date": "2026-07-27",
+          "raw": "924-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 133,
+      "sourceQualificationText": "Медіазнавець / Media scientist"
+    }
+  ],
+  "programId": "program-76776",
+  "edeboId": 76776,
+  "sourceRows": [
+    133
+  ]
+}

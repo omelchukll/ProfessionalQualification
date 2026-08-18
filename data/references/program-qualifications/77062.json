@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-77062-pq-0006",
+      "qualificationId": "pq-0006",
+      "relationType": "extended",
+      "sourceProgramId": "program-59558",
+      "sourceRelationId": "rel-59558-pq-0006",
+      "extension": {
+        "order": null
+      },
+      "status": "active",
+      "sourceRow": 177,
+      "sourceQualificationText": "Асистент біолога / Biology technician"
+    }
+  ],
+  "programId": "program-77062",
+  "edeboId": 77062,
+  "sourceRows": [
+    177
+  ]
+}

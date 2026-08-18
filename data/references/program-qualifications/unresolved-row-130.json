@@ -1,0 +1,54 @@
+{
+  "programId": null,
+  "edeboId": null,
+  "unresolved": true,
+  "sourceProgramIdRaw": "31595 Не правильне ID, за якою спеціальністю ця програма",
+  "programNameUk": "ОНП Українська філологія та західноєвропейська мова",
+  "qualifications": [
+    {
+      "qualificationId": "pq-0040",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1230-32",
+          "date": "2025-12-22",
+          "raw": "1230-32 від 22.12.2025"
+        },
+        "nakDecisionOrCertificate": "15826 за новою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "sourceQualificationText": "Літературознавець / Literary scholar"
+    },
+    {
+      "qualificationId": "pq-0042",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1230-32",
+          "date": "2025-12-22",
+          "raw": "1230-32 від 22.12.2025"
+        },
+        "nakDecisionOrCertificate": "15826 за новою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "sourceQualificationText": "Медіазнавець / Media scientist"
+    },
+    {
+      "qualificationId": "pq-0066",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1230-32",
+          "date": "2025-12-22",
+          "raw": "1230-32 від 22.12.2025"
+        },
+        "nakDecisionOrCertificate": "15826 за новою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "sourceQualificationText": "Редактор науковий"
+    }
+  ],
+  "sourceRows": [
+    130
+  ]
+}
