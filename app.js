@@ -3,8 +3,8 @@ const PATHS = {
   levels: './data/references/education-levels.json',
   units: './data/references/units.json',
   specialties: './data/references/specialties.json',
-  program: id => `./data/programs/${id}.json`,
-  programQualifications: id => `./data/program-qualifications/${id}.json`
+  program: id => `./data/references/programs/${id}.json`,
+  programQualifications: id => `./data/references/program-qualifications/${id}.json`
 };
 
 const state = {
