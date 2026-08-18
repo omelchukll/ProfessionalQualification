@@ -1,0 +1,28 @@
+{
+  "id": "program-86657",
+  "edeboId": 86657,
+  "nameUk": "Переклад з італійської та з англійської мов",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.052"
+  ],
+  "specialtyCodeRaw": "B11.052",
+  "specialtyNameRaw": "В11 Філологія B11.052 Романські мови та літератури (переклад включно), перша - італійська",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    101
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "program-86689",
+  "edeboId": 86689,
+  "nameUk": "Східна філологія, західноєвропейська мова та переклад: індонезійська мова і література",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.064"
+  ],
+  "specialtyCodeRaw": "B11.064",
+  "specialtyNameRaw": "В11 Філологія B11.064 Східні мови та літератури (переклад включно), перша - індонезійська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23372",
+  "sourceRows": [
+    55
+  ]
+}

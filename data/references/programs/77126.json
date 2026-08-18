@@ -1,0 +1,27 @@
+{
+  "id": "program-77126",
+  "edeboId": 77126,
+  "nameUk": "Медична хімія",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E3",
+  "specialtyNameRaw": "Хімія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-324",
+  "sourceRows": [
+    176
+  ]
+}

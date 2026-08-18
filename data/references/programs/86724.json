@@ -1,0 +1,29 @@
+{
+  "id": "program-86724",
+  "edeboId": 86724,
+  "nameUk": "Міжнародний бізнес (з обов’язковим вивченням двох іноземних мов)",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C1"
+  ],
+  "specializationCodes": [
+    "C1.02"
+  ],
+  "specialtyCodeRaw": "C1.02",
+  "specialtyNameRaw": "C1 Економіка та міжнародні економічні відносини C1.02 Міжнародні економічні відносини",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-31376",
+  "sourceRows": [
+    134
+  ]
+}

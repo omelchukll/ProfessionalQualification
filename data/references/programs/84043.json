@@ -1,0 +1,28 @@
+{
+  "id": "program-84043",
+  "edeboId": 84043,
+  "nameUk": "Переклад із португальської та з англійської мов",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.053"
+  ],
+  "specialtyCodeRaw": "B11.053",
+  "specialtyNameRaw": "В11 Філологія B11.053 Романські мови та літератури (переклад включно), перша - португальська",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    104
+  ]
+}

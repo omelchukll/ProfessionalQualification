@@ -1,0 +1,26 @@
+{
+  "id": "program-85056",
+  "edeboId": 85056,
+  "nameUk": "Промислова геофізика і петрофізика",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E4"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E4",
+  "specialtyNameRaw": "Науки про Землю",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": null,
+  "unitNameRaw": null,
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    161
+  ]
+}

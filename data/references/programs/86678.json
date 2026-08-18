@@ -1,0 +1,27 @@
+{
+  "id": "program-86678",
+  "edeboId": 86678,
+  "nameUk": "Геоінформаційні системи та технології",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-G18"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "G18",
+  "specialtyNameRaw": "Геодезія та землеустрій",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "geology",
+  "unitNameRaw": "ННІ \"Інститут геології\"",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-2227",
+  "sourceRows": [
+    103
+  ]
+}

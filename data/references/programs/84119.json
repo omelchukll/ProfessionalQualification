@@ -1,0 +1,28 @@
+{
+  "id": "program-84119",
+  "edeboId": 84119,
+  "nameUk": "Фольклористика, міжкультурна комунікація, іноземна мова",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.09"
+  ],
+  "specialtyCodeRaw": "B11.09",
+  "specialtyNameRaw": "В11 Філологія B11.09 Фольклористика",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Заочна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    85
+  ]
+}

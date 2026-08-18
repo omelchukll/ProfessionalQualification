@@ -1,0 +1,28 @@
+{
+  "id": "program-84114",
+  "edeboId": 84114,
+  "nameUk": "Східна філологія, західноєвропейська мова та переклад: перська мова і література",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.067"
+  ],
+  "specialtyCodeRaw": "B11.067",
+  "specialtyNameRaw": "В11 Філологія B11.067 Східні мови та літератури (переклад включно), перша - перська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    131
+  ]
+}

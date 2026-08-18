@@ -1,0 +1,26 @@
+{
+  "id": "program-83961",
+  "edeboId": 83961,
+  "nameUk": "Переклад з англійської та другої західноєвропейської мови",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "B11",
+  "specialtyNameRaw": "Філологія (германські мови та літератури (переклад включно), перша - англійська)",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    111
+  ]
+}

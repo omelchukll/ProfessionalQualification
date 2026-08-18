@@ -1,0 +1,28 @@
+{
+  "id": "program-83969",
+  "edeboId": 83969,
+  "nameUk": "Переклад з іспанської та з англійської мов",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.051"
+  ],
+  "specialtyCodeRaw": "B11.051",
+  "specialtyNameRaw": "В11 Філологія B11.051 Романські мови та літератури (переклад включно), перша - іспанська",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    94
+  ]
+}

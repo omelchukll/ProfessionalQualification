@@ -1,0 +1,29 @@
+{
+  "id": "program-84104",
+  "edeboId": 84104,
+  "nameUk": "Загальний і галузевий усний та письмовий переклад з іспанської та англійської мов",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.051"
+  ],
+  "specialtyCodeRaw": "B11.051",
+  "specialtyNameRaw": "В11 Філологія B11.051 Романські мови та літератури (переклад включно), перша - іспанська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23307",
+  "sourceRows": [
+    69
+  ]
+}

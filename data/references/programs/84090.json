@@ -1,0 +1,29 @@
+{
+  "id": "program-84090",
+  "edeboId": 84090,
+  "nameUk": "Сучасна англомовна комунікація та переклад і дві західноєвропейські мови / English Communication Studies and Translation and two Western European Languages (викладання іноземними мовами)",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.041"
+  ],
+  "specialtyCodeRaw": "B11.041",
+  "specialtyNameRaw": "В11 Філологія B11.041 Германські мови та літератури (переклад включно), перша - англійська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23293",
+  "sourceRows": [
+    110
+  ]
+}

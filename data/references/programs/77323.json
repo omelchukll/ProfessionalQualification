@@ -1,0 +1,27 @@
+{
+  "id": "program-77323",
+  "edeboId": 77323,
+  "nameUk": "Математика інновацій",
+  "programLabel": null,
+  "programType": "unspecified",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E7"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E7",
+  "specialtyNameRaw": "Математика",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "mm",
+  "unitNameRaw": "Механіко-математичний ф-т",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-18906",
+  "sourceRows": [
+    25
+  ]
+}

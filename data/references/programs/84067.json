@@ -1,0 +1,26 @@
+{
+  "id": "program-84067",
+  "edeboId": 84067,
+  "nameUk": "Прикладні східнослов’янські студії та англійська мова: технології мовного впливу і переклад",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "B11",
+  "specialtyNameRaw": "Філологія Прикладна лінгвістика",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "philology",
+  "unitNameRaw": "Інститут філології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    22
+  ]
+}

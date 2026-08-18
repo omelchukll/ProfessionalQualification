@@ -1,0 +1,29 @@
+{
+  "id": "program-88061",
+  "edeboId": 88061,
+  "nameUk": "Новогрецька філологія, англійська мова та переклад",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.081"
+  ],
+  "specialtyCodeRaw": "B11.081",
+  "specialtyNameRaw": "В11 Філологія B11.081 Новогрецька мова і література (переклад включно)",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "philology",
+  "unitNameRaw": "Інститут філології",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-53169",
+  "sourceRows": [
+    9
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "program-77132",
+  "edeboId": 77132,
+  "nameUk": "Хемоінформатика",
+  "programLabel": null,
+  "programType": "unspecified",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E3",
+  "specialtyNameRaw": "Хімія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-18415",
+  "sourceRows": [
+    165
+  ]
+}

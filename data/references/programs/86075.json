@@ -1,0 +1,29 @@
+{
+  "id": "program-86075",
+  "edeboId": 86075,
+  "nameUk": "Міжнародна комерція та інвестиції",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C1"
+  ],
+  "specializationCodes": [
+    "C1.02"
+  ],
+  "specialtyCodeRaw": "C1.02",
+  "specialtyNameRaw": "C1 Економіка та міжнародні економічні відносини C1.02 Міжнародні економічні відносини",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-50563",
+  "sourceRows": [
+    185
+  ]
+}

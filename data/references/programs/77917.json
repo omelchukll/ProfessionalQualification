@@ -1,0 +1,27 @@
+{
+  "id": "program-77917",
+  "edeboId": 77917,
+  "nameUk": "Клінічна психологія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C4"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C4",
+  "specialtyNameRaw": "Психологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "psychology",
+  "unitNameRaw": "Ф-т психології",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-32339",
+  "sourceRows": [
+    136
+  ]
+}

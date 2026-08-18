@@ -1,0 +1,29 @@
+{
+  "id": "program-84084",
+  "edeboId": 84084,
+  "nameUk": "Кримськотатарська філологія, англійська мова та переклад",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.02"
+  ],
+  "specialtyCodeRaw": "B11.02",
+  "specialtyNameRaw": "В11 Філологія B11.02 Кримськотатарська мова та література",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23273",
+  "sourceRows": [
+    70
+  ]
+}

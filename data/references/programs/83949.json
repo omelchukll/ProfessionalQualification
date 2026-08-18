@@ -1,0 +1,28 @@
+{
+  "id": "program-83949",
+  "edeboId": 83949,
+  "nameUk": "Кримськотатарська мова і література, англійська мова та переклад",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.02"
+  ],
+  "specialtyCodeRaw": "035.02",
+  "specialtyNameRaw": "Філологія (кримськотатарська мова та література)",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "philology",
+  "unitNameRaw": "Інститут філології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    125
+  ]
+}

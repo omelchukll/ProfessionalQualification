@@ -1,0 +1,26 @@
+{
+  "id": "program-83942",
+  "edeboId": 83942,
+  "nameUk": "Українська і англійська мови: переклад та редагування",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "B11",
+  "specialtyNameRaw": "Філологія (українська мова і література)",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "philology",
+  "unitNameRaw": "Інститут філології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    124
+  ]
+}

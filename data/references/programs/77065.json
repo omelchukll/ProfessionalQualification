@@ -1,0 +1,27 @@
+{
+  "id": "program-77065",
+  "edeboId": 77065,
+  "nameUk": "Медична хімія",
+  "programLabel": null,
+  "programType": "unspecified",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E3",
+  "specialtyNameRaw": "Хімія",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-1261",
+  "sourceRows": [
+    164
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "program-84098",
+  "edeboId": 84098,
+  "nameUk": "Галузевий переклад з німецької та англійської мови; міжкультурний менеджмент",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.043"
+  ],
+  "specialtyCodeRaw": "B11.043",
+  "specialtyNameRaw": "В11 Філологія B11.043 Германські мови та літератури (переклад включно), перша - німецька",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23302",
+  "sourceRows": [
+    73
+  ]
+}

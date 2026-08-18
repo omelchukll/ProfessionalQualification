@@ -1,0 +1,26 @@
+{
+  "id": "program-83951",
+  "edeboId": 83951,
+  "nameUk": "Польська мова і література, англійська та литовська мови",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "B11",
+  "specialtyNameRaw": "Слов`янські мови та літератури (переклад включно), перша - польська",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    114
+  ]
+}

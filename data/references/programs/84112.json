@@ -1,0 +1,29 @@
+{
+  "id": "program-84112",
+  "edeboId": 84112,
+  "nameUk": "Східна філологія, західноєвропейська мова та переклад: китайська мова і література",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.065"
+  ],
+  "specialtyCodeRaw": "B11.065",
+  "specialtyNameRaw": "В11 Філологія B11.065 Східні мови та літератури (переклад включно), перша - китайська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Заочна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23375",
+  "sourceRows": [
+    17
+  ]
+}

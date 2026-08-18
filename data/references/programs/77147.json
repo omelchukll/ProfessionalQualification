@@ -1,0 +1,27 @@
+{
+  "id": "program-77147",
+  "edeboId": 77147,
+  "nameUk": "Прикладна фізика",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E6"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E6",
+  "specialtyNameRaw": "Прикладна фізика та наноматеріали",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-326",
+  "sourceRows": [
+    175
+  ]
+}

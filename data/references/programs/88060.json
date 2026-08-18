@@ -1,0 +1,28 @@
+{
+  "id": "program-88060",
+  "edeboId": 88060,
+  "nameUk": "Східна філологія, західноєвропейська мова та переклад: в'єтнамська мова і література",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.061"
+  ],
+  "specialtyCodeRaw": "B11.061",
+  "specialtyNameRaw": "В11 Філологія B11.061 Східні мови та літератури (переклад включно), перша - в’єтнамська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    86
+  ]
+}

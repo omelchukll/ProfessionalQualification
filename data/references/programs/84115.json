@@ -1,0 +1,29 @@
+{
+  "id": "program-84115",
+  "edeboId": 84115,
+  "nameUk": "Східна філологія, західноєвропейська мова та переклад: турецька мова і література",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.068"
+  ],
+  "specialtyCodeRaw": "B11.068",
+  "specialtyNameRaw": "В11 Філологія B11.068 Східні мови та літератури (переклад включно), перша - турецька",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23381",
+  "sourceRows": [
+    109
+  ]
+}

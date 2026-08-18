@@ -1,0 +1,28 @@
+{
+  "id": "program-84061",
+  "edeboId": 84061,
+  "nameUk": "Японська мова і література та переклад, англійська мова",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.069"
+  ],
+  "specialtyCodeRaw": "B11.069",
+  "specialtyNameRaw": "В11 Філологія B11.069 Східні мови та літератури (переклад включно), перша - японська",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    79
+  ]
+}

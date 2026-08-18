@@ -1,0 +1,29 @@
+{
+  "id": "program-84110",
+  "edeboId": 84110,
+  "nameUk": "Загальний і галузевий усний та письмовий переклад з французької та англійської мов",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.055"
+  ],
+  "specialtyCodeRaw": "B11.055",
+  "specialtyNameRaw": "В11 Філологія B11.055 Романські мови та літератури (переклад включно), перша - французька",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23311",
+  "sourceRows": [
+    67
+  ]
+}

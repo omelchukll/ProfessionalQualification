@@ -1,0 +1,29 @@
+{
+  "id": "program-84092",
+  "edeboId": 84092,
+  "nameUk": "Усний та письмовий переклад з англійської та другої західноєвропейської мови",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.041"
+  ],
+  "specialtyCodeRaw": "B11.041",
+  "specialtyNameRaw": "В11 Філологія B11.041 Германські мови та літератури (переклад включно), перша - англійська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23297",
+  "sourceRows": [
+    91
+  ]
+}

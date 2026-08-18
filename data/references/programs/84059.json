@@ -1,0 +1,28 @@
+{
+  "id": "program-84059",
+  "edeboId": 84059,
+  "nameUk": "Турецька мова і література та переклад, англійська мова",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.068"
+  ],
+  "specialtyCodeRaw": "B11.068",
+  "specialtyNameRaw": "В11 Філологія B11.068 Східні мови та літератури (переклад включно), перша - турецька",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    117
+  ]
+}

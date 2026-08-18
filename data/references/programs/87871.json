@@ -1,0 +1,27 @@
+{
+  "id": "program-87871",
+  "edeboId": 87871,
+  "nameUk": "Фізика інформаційних технологій",
+  "programLabel": null,
+  "programType": "unspecified",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-F6"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "F6",
+  "specialtyNameRaw": "Інформаційні системи і технології",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-60543",
+  "sourceRows": [
+    172
+  ]
+}

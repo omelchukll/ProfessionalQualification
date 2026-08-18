@@ -1,0 +1,29 @@
+{
+  "id": "program-84113",
+  "edeboId": 84113,
+  "nameUk": "Східна філологія, західноєвропейська мова та переклад: корейська мова і література",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.066"
+  ],
+  "specialtyCodeRaw": "B11.066",
+  "specialtyNameRaw": "В11 Філологія B11.066 Східні мови та літератури (переклад включно), перша - корейська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23377",
+  "sourceRows": [
+    98
+  ]
+}

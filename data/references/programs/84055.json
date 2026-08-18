@@ -1,0 +1,28 @@
+{
+  "id": "program-84055",
+  "edeboId": 84055,
+  "nameUk": "Корейська мова і література та переклад, англійська мова",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B11"
+  ],
+  "specializationCodes": [
+    "B11.066"
+  ],
+  "specialtyCodeRaw": "B11.066",
+  "specialtyNameRaw": "В11 Філологія B11.066 Східні мови та літератури (переклад включно), перша - корейська",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    62
+  ]
+}
