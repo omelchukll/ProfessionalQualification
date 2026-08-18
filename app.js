@@ -58,6 +58,40 @@ function unwrapArray(doc, key) {
   return [];
 }
 
+function normalizeEdeboId(value) {
+  if (value === null || value === undefined) return value;
+  if (typeof value === 'number' && Number.isFinite(value)) return value;
+
+  const raw = String(value).trim();
+
+  // Explicit corrections recorded in the source workbook.
+  // Examples:
+  // "15829 ... Правильне ID 2183" -> 2183
+  // "(23388 Неправильне), правильне ID 23368" -> 23368
+  const correct = raw.match(/правильн\w*\s*(?:іd|id)\s*[:№\-–— ]*\s*(\d+)/i);
+  if (correct) return Number(correct[1]);
+
+  if (/^\d+$/.test(raw)) return Number(raw);
+  if (/^\d+\.0$/.test(raw)) return Number(raw.slice(0, -2));
+
+  return value;
+}
+
+function normalizeIndexProgramIds(programs) {
+  return programs.map(p => {
+    const normalized = normalizeEdeboId(p.edeboId);
+    if (String(normalized) === String(p.edeboId)) return p;
+
+    const copy = { ...p };
+    copy.sourceEdeboIdRaw = p.edeboId;
+    copy.edeboId = normalized;
+    copy.programId = `program-${normalized}`;
+    copy.searchText = String(copy.searchText || '')
+      .replace(String(p.edeboId).toLocaleLowerCase('uk-UA'), String(normalized));
+    return copy;
+  });
+}
+
 function decodeBase64Utf8(value) {
   const binary = atob((value || '').replace(/\n/g, ''));
   const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
@@ -159,7 +193,10 @@ async function init() {
     ]);
 
     state.indexDoc = indexDoc;
-    state.index = unwrapArray(indexDoc, 'programs');
+    state.index = normalizeIndexProgramIds(unwrapArray(indexDoc, 'programs'));
+    state.index.filter(p => p.sourceEdeboIdRaw).forEach(p =>
+      console.warn('Normalized legacy EDEBO ID:', p.sourceEdeboIdRaw, '→', p.edeboId)
+    );
     unwrapArray(levelsDoc, 'educationLevels').forEach(x => state.levels.set(x.id, x));
     unwrapArray(unitsDoc, 'units').forEach(x => state.units.set(x.id, x));
     unwrapArray(specialtiesDoc, 'specialties').forEach(x => state.specialties.set(x.id, x));
@@ -455,6 +492,7 @@ function renderTable() {
 }
 
 async function openDetails(edeboId, options = {}) {
+  edeboId = normalizeEdeboId(edeboId);
   state.selectedId = String(edeboId);
   renderTable();
   const panel = $('detailsPanel');
@@ -1031,7 +1069,7 @@ async function reloadData() {
     getJson(PATHS.successions).catch(() => ({ relations: [] }))
   ]);
   state.indexDoc = indexDoc;
-  state.index = unwrapArray(indexDoc, 'programs');
+  state.index = normalizeIndexProgramIds(unwrapArray(indexDoc, 'programs'));
   state.qualifications.clear();
   unwrapArray(qualificationsDoc, 'qualifications').forEach(x => state.qualifications.set(x.id, x));
   state.successions = unwrapArray(successionsDoc, 'relations');
@@ -1369,7 +1407,7 @@ async function exportProgramsToExcel(programEntries) {
 }
 
 async function buildLegacyExcelRow(entry) {
-  const id = String(entry.edeboId);
+  const id = String(normalizeEdeboId(entry.edeboId));
   const [program, pqDoc] = await Promise.all([
     getJson(PATHS.program(id)),
     getJson(PATHS.programQualifications(id)).catch(() => ({ qualifications: [] }))
