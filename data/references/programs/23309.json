@@ -1,0 +1,28 @@
+{
+  "id": "program-23309",
+  "edeboId": 23309,
+  "nameUk": "Загальний і галузевий усний та письмовий переклад з італійської та англійської мов",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.052"
+  ],
+  "specialtyCodeRaw": "035.052",
+  "specialtyNameRaw": "Філологія 035.052 романські мови та літератури (переклад включно), перша - італійська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    127
+  ]
+}

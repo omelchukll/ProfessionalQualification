@@ -1,0 +1,26 @@
+{
+  "id": "program-1955",
+  "edeboId": 1955,
+  "nameUk": "Програмна інженерія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-121"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "121",
+  "specialtyNameRaw": "Інженерія програмного забезпечення",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "csc",
+  "unitNameRaw": "Ф-т комп`ютерних наук та кібернетики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    14
+  ]
+}

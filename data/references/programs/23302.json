@@ -1,0 +1,28 @@
+{
+  "id": "program-23302",
+  "edeboId": 23302,
+  "nameUk": "Галузевий переклад з німецької та англійської мови; міжкультурний менеджмент",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.043"
+  ],
+  "specialtyCodeRaw": "035.043",
+  "specialtyNameRaw": "Філологія (германські мови та літератури (переклад включно), перша - німецька)",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    73
+  ]
+}

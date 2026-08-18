@@ -1,0 +1,26 @@
+{
+  "id": "program-17481",
+  "edeboId": 17481,
+  "nameUk": "Біологія",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-091"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "91",
+  "specialtyNameRaw": "Біологія та біохімія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "bm",
+  "unitNameRaw": "ННЦ \"Інститут біології та медицини\"",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    54
+  ]
+}

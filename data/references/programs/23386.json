@@ -1,0 +1,28 @@
+{
+  "id": "program-23386",
+  "edeboId": 23386,
+  "nameUk": "Прикладна лінгвістика (редакторсько-перекладацька та експертна діяльність)",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.10"
+  ],
+  "specialtyCodeRaw": "035 035.10",
+  "specialtyNameRaw": "Філологія Прикладна лінгвістика",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    81
+  ]
+}

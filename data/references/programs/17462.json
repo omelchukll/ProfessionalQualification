@@ -1,0 +1,26 @@
+{
+  "id": "program-17462",
+  "edeboId": 17462,
+  "nameUk": "Ландшафтний дизайн та озеленення",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-206"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "206",
+  "specialtyNameRaw": "Садово-паркове господарство",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "bm",
+  "unitNameRaw": "ННЦ \"Інститут біології та медицини\"",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    60
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "program-1810",
+  "edeboId": 1810,
+  "nameUk": "Прикладна математика",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-113"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "113",
+  "specialtyNameRaw": "Прикладнна математика",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "csc",
+  "unitNameRaw": "Ф-т комп`ютерних наук та кібернетики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    11
+  ]
+}

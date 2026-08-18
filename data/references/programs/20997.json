@@ -1,0 +1,26 @@
+{
+  "id": "program-20997",
+  "edeboId": 20997,
+  "nameUk": "Економічна географія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-106"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "106",
+  "specialtyNameRaw": "Географія",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "geography",
+  "unitNameRaw": "Географічний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    65
+  ]
+}

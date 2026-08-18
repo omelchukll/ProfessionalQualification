@@ -1,0 +1,26 @@
+{
+  "id": "program-1689",
+  "edeboId": 1689,
+  "nameUk": "Історія мистецтв",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-032"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "32",
+  "specialtyNameRaw": "Історія та археологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "history",
+  "unitNameRaw": "Історичний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    88
+  ]
+}

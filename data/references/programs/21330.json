@@ -1,0 +1,26 @@
+{
+  "id": "program-21330",
+  "edeboId": 21330,
+  "nameUk": "Інформатика",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-122"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "122",
+  "specialtyNameRaw": "Комп`ютерні науки",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "csc",
+  "unitNameRaw": "Ф-т комп`ютерних наук та кібернетики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    15
+  ]
+}

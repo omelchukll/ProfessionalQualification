@@ -1,0 +1,28 @@
+{
+  "id": "program-23286",
+  "edeboId": 23286,
+  "nameUk": "Славістика Центрально-Східної Європи і Балкан: теоретичні та прикладні студії: польська та українська мови і літератури",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.033"
+  ],
+  "specialtyCodeRaw": "035.033",
+  "specialtyNameRaw": "035 Філологія 035.033 слов’янські мови та літератури (переклад включно), перша - польська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    116
+  ]
+}

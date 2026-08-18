@@ -1,0 +1,26 @@
+{
+  "id": "program-20818",
+  "edeboId": 20818,
+  "nameUk": "Міжнародні фінанси та інвесстиції",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-292"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "292",
+  "specialtyNameRaw": "Міжнародні економічні відносини",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    8
+  ]
+}

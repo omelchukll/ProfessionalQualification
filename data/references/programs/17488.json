@@ -1,0 +1,26 @@
+{
+  "id": "program-17488",
+  "edeboId": 17488,
+  "nameUk": "Біотехнологія",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-162"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "162",
+  "specialtyNameRaw": "Біотехнології та біоінженерія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "bm",
+  "unitNameRaw": "ННЦ \"Інститут біології та медицини\"",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    52
+  ]
+}

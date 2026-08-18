@@ -1,0 +1,26 @@
+{
+  "id": "program-2022",
+  "edeboId": 2022,
+  "nameUk": "Сценарна майстерність і режисура кіно та телебачення",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-021"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "21",
+  "specialtyNameRaw": "Аудіовізуальне мистецтво та виробництво",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "journalism",
+  "unitNameRaw": "Інститут журналістики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    145
+  ]
+}

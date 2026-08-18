@@ -1,0 +1,26 @@
+{
+  "id": "program-1891",
+  "edeboId": 1891,
+  "nameUk": "Статистика",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-112"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "112",
+  "specialtyNameRaw": "Статистика",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "mm",
+  "unitNameRaw": "Механіко-математичний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    23
+  ]
+}

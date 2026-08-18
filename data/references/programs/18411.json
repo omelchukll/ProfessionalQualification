@@ -1,0 +1,28 @@
+{
+  "id": "program-18411",
+  "edeboId": 18411,
+  "nameUk": "Прикладна (комп’ютерна) лінгвістика та англійська мова",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.10"
+  ],
+  "specialtyCodeRaw": "035 035.10",
+  "specialtyNameRaw": "Філологія Прикладна лінгвістика",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "philology",
+  "unitNameRaw": "Інститут філології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    47
+  ]
+}

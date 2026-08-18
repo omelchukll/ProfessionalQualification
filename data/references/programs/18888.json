@@ -1,0 +1,26 @@
+{
+  "id": "program-18888",
+  "edeboId": 18888,
+  "nameUk": "Інформаційна безпека телекомунікаційних систем і мереж",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-172"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "172",
+  "specialtyNameRaw": "Телекомунікації та радіотехніка",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": null,
+  "unitNameRaw": null,
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    159
+  ]
+}

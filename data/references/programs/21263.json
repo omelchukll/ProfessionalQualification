@@ -1,0 +1,26 @@
+{
+  "id": "program-21263",
+  "edeboId": 21263,
+  "nameUk": "Інформатика",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-122"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "122",
+  "specialtyNameRaw": "Комп`ютерні науки",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна, заочна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "csc",
+  "unitNameRaw": "Ф-т комп`ютерних наук та кібернетики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    126
+  ]
+}

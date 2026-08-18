@@ -1,0 +1,28 @@
+{
+  "id": "program-23382",
+  "edeboId": 23382,
+  "nameUk": "Східна філологія, західноєвропейська мова та переклад: японська мова і література",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.069"
+  ],
+  "specialtyCodeRaw": "035.069",
+  "specialtyNameRaw": "035 Філологія 035.069 східні мови та літератури (переклад включно), перша - японська",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    93
+  ]
+}

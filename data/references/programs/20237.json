@@ -1,0 +1,26 @@
+{
+  "id": "program-20237",
+  "edeboId": 20237,
+  "nameUk": "Оцінка землі та нерухомого майна",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-193"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "193",
+  "specialtyNameRaw": "Геодезія та землеустрій",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "geology",
+  "unitNameRaw": "ННІ \"Інститут геології\"",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    160
+  ]
+}

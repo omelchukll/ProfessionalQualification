@@ -1,0 +1,26 @@
+{
+  "id": "program-20822",
+  "edeboId": 20822,
+  "nameUk": "Міжнародне приватне право",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-293"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "293",
+  "specialtyNameRaw": "293 Міжнародне право",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    41
+  ]
+}
