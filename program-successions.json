@@ -2199,9 +2199,11 @@
       "sourceProgram": {
         "programId": "program-23368",
         "edeboId": 23368,
-        "nameUk": "ОНП Східна філологія, західноєвропейська мова та переклад: арабська мова і література",
-        "classifierId": null,
-        "specialtyIds": [],
+        "nameUk": "Східна філологія, західноєвропейська мова та переклад: арабська мова і література",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-035"
+        ],
         "specialtyCodes": [
           "035.060"
         ],
@@ -2224,7 +2226,7 @@
           "Філологія (за спеціалізаціями)"
         ]
       },
-      "sourceClassifierId": null,
+      "sourceClassifierId": "specialties-2015",
       "targetClassifierId": "specialties-2024",
       "active": true,
       "sourceRows": [
@@ -2240,9 +2242,11 @@
       "sourceProgram": {
         "programId": "program-2183",
         "edeboId": 2183,
-        "nameUk": "ОПП Метеорологія",
-        "classifierId": null,
-        "specialtyIds": [],
+        "nameUk": "Метеорологія",
+        "classifierId": "specialties-2015",
+        "specialtyIds": [
+          "2015-103"
+        ],
         "specialtyCodes": [
           "103"
         ],
@@ -2265,7 +2269,7 @@
           "Науки про Землю"
         ]
       },
-      "sourceClassifierId": null,
+      "sourceClassifierId": "specialties-2015",
       "targetClassifierId": "specialties-2024",
       "active": true,
       "sourceRows": [
