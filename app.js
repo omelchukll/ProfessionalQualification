@@ -68,11 +68,11 @@ function normalizeEdeboId(value) {
   if (raw.includes('15829') && raw.includes('2183')) return 2183;
   if (raw.includes('23388') && raw.includes('23368')) return 23368;
 
-  // Якщо ID уже нормальний
+  // Уже нормальний ID
   if (/^\d+$/.test(raw)) return Number(raw);
   if (/^\d+\.0$/.test(raw)) return Number(raw.slice(0, -2));
 
-  // Загальний випадок: "... правильне ID 12345"
+  // Загальний випадок: "... Правильне ID 12345"
   const matches = [...raw.matchAll(/правильн\p{L}*\s*(?:іd|id)\D*(\d+)/giu)];
   if (matches.length) {
     return Number(matches[matches.length - 1][1]);
