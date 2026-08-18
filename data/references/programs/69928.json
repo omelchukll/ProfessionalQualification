@@ -1,0 +1,29 @@
+{
+  "id": "program-69928",
+  "edeboId": 69928,
+  "nameUk": "Міжнародні економічні відносини",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C1"
+  ],
+  "specializationCodes": [
+    "C1.02"
+  ],
+  "specialtyCodeRaw": "C1.02",
+  "specialtyNameRaw": "C1 Економіка та міжнародні економічні відносини C1.02 Міжнародні економічні відносини",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Заочна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 2 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-20817",
+  "sourceRows": [
+    5
+  ]
+}

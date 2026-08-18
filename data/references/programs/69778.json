@@ -1,0 +1,26 @@
+{
+  "id": "program-69778",
+  "edeboId": 69778,
+  "nameUk": "Менеджмент інноваційної діяльності",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-D3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "D3",
+  "specialtyNameRaw": "Менеджмент",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "economics",
+  "unitNameRaw": "Економічний факультет",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    84
+  ]
+}

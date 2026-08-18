@@ -1,0 +1,26 @@
+{
+  "id": "program-64960",
+  "edeboId": 64960,
+  "nameUk": "Електронні прилади і системи",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-171"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "171",
+  "specialtyNameRaw": "Електроніка",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    178
+  ]
+}

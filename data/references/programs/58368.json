@@ -1,0 +1,26 @@
+{
+  "id": "program-58368",
+  "edeboId": 58368,
+  "nameUk": "Біологія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-091"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "91",
+  "specialtyNameRaw": "Біологія та біохімія",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "bm",
+  "unitNameRaw": "ННЦІБМ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    75
+  ]
+}

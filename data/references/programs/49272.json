@@ -1,0 +1,28 @@
+{
+  "id": "program-49272",
+  "edeboId": 49272,
+  "nameUk": "Загальний і галузевий усний та письмовий переклад з португальської та англійської мов",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.053"
+  ],
+  "specialtyCodeRaw": "035.053",
+  "specialtyNameRaw": "Філологія (романські мови та літератури (переклад включно), перша - португальська)",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    87
+  ]
+}

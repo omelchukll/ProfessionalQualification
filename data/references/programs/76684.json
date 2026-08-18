@@ -1,0 +1,26 @@
+{
+  "id": "program-76684",
+  "edeboId": 76684,
+  "nameUk": "Картографія та геоінформаційні системи",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E4"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E4",
+  "specialtyNameRaw": "Науки про Землю",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "geography",
+  "unitNameRaw": "Географічний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    170
+  ]
+}

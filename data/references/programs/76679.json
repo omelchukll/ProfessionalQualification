@@ -1,0 +1,27 @@
+{
+  "id": "program-76679",
+  "edeboId": 76679,
+  "nameUk": "Гідрологія, водні ресурси і стале водокористування",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E4"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E4",
+  "specialtyNameRaw": "Науки про Землю",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "geography",
+  "unitNameRaw": "Географічний ф-т",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-48871",
+  "sourceRows": [
+    142
+  ]
+}

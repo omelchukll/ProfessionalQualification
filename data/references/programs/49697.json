@@ -1,0 +1,26 @@
+{
+  "id": "program-49697",
+  "edeboId": 49697,
+  "nameUk": "Україно – Європейські правничі студії (Програма подвійного дипломування з Університетом ім.Миколаса Ромеріса в м.Вільнюс, Литва)(мова навчання англійська) / Ukrainian and European Legal Studies (Double Diploma Program in Association with the Mykolas Romeris University (Vilnius, Lithuania)",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-081"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "81",
+  "specialtyNameRaw": "Право",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "law",
+  "unitNameRaw": "ННІП",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    100
+  ]
+}

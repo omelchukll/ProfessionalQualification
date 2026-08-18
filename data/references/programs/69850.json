@@ -1,0 +1,26 @@
+{
+  "id": "program-69850",
+  "edeboId": 69850,
+  "nameUk": "Право",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-D8"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "D8",
+  "specialtyNameRaw": "Право",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "law",
+  "unitNameRaw": "ННІП",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    80
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "program-69938",
+  "edeboId": 69938,
+  "nameUk": "Психологія дитинства і сім’ї",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C4"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C4",
+  "specialtyNameRaw": "Психологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "psychology",
+  "unitNameRaw": "Ф-т психології",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-24689",
+  "sourceRows": [
+    180
+  ]
+}

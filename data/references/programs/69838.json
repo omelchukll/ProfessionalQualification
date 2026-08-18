@@ -1,0 +1,27 @@
+{
+  "id": "program-69838",
+  "edeboId": 69838,
+  "nameUk": "Геофізика",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E4"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E4",
+  "specialtyNameRaw": "Науки про Землю",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Дена",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "geology",
+  "unitNameRaw": "ННІ \"Інститут геології\"",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-1755",
+  "sourceRows": [
+    107
+  ]
+}

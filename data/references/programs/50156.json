@@ -1,0 +1,26 @@
+{
+  "id": "program-50156",
+  "edeboId": 50156,
+  "nameUk": "Гендерні студії (програма з можливістю подвійного дипломування з Лундським університетом, Швеція)",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-054"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "54",
+  "specialtyNameRaw": "Соціологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "sociology",
+  "unitNameRaw": "Ф-т соціології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    50
+  ]
+}

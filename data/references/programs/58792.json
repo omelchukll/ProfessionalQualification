@@ -1,0 +1,26 @@
+{
+  "id": "program-58792",
+  "edeboId": 58792,
+  "nameUk": "Біотехнологія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-162"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "162",
+  "specialtyNameRaw": "Біотехнології та біоінженерія",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "bm",
+  "unitNameRaw": "ННЦІБМ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    146
+  ]
+}

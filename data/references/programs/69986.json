@@ -1,0 +1,27 @@
+{
+  "id": "program-69986",
+  "edeboId": 69986,
+  "nameUk": "Хімія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E3",
+  "specialtyNameRaw": "Хімія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "зао",
+  "volumeAndDuration": null,
+  "unitId": "chemistry",
+  "unitNameRaw": "Хімічний факультет",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-64914",
+  "sourceRows": [
+    120
+  ]
+}

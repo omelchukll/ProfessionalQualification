@@ -1,0 +1,26 @@
+{
+  "id": "program-68882",
+  "edeboId": 68882,
+  "nameUk": "Геоекологія та екосистемні послуги",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E4"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E4",
+  "specialtyNameRaw": "Науки про Землю",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "geography",
+  "unitNameRaw": "Географічний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    171
+  ]
+}

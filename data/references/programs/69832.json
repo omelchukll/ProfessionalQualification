@@ -1,0 +1,26 @@
+{
+  "id": "program-69832",
+  "edeboId": 69832,
+  "nameUk": "Прикладна та теоретична статистика",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E8"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E8",
+  "specialtyNameRaw": "Статистика",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "mm",
+  "unitNameRaw": "Механіко-математичний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    149
+  ]
+}

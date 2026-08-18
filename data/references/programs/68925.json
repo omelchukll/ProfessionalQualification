@@ -1,0 +1,27 @@
+{
+  "id": "program-68925",
+  "edeboId": 68925,
+  "nameUk": "Країнознавство (американістика, сходознавство, європейські студії, африканістика ) (з обов`язковим вивченням двох іноземних мов)",
+  "programLabel": null,
+  "programType": "unspecified",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C3",
+  "specialtyNameRaw": "Міжнародні відносини",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-40185",
+  "sourceRows": [
+    48
+  ]
+}

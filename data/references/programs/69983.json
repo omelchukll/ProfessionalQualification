@@ -1,0 +1,27 @@
+{
+  "id": "program-69983",
+  "edeboId": 69983,
+  "nameUk": "Електронні комунікації, пристрої та системи",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-G5"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "G5",
+  "specialtyNameRaw": "Електроніка, електронні комунікації, приладобудування та радіотехніка",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "recs",
+  "unitNameRaw": "Ф-т радіофізики, електроніки та комп`ютерних систем",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-59117",
+  "sourceRows": [
+    157
+  ]
+}

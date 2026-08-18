@@ -1,0 +1,27 @@
+{
+  "id": "program-76588",
+  "edeboId": 76588,
+  "nameUk": "Прикладна біомедична радіофізика",
+  "programLabel": null,
+  "programType": "unspecified",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E6"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E6",
+  "specialtyNameRaw": "Прикладна фізика та наноматеріали",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "recs",
+  "unitNameRaw": "Ф-т радіофізики, електроніки та комп`ютерних систем",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23856",
+  "sourceRows": [
+    154
+  ]
+}

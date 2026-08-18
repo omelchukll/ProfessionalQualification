@@ -1,0 +1,26 @@
+{
+  "id": "program-59558",
+  "edeboId": 59558,
+  "nameUk": "Біологія (високі технології)",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-091"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "91",
+  "specialtyNameRaw": "Біологія та біохімія",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    177
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "program-76591",
+  "edeboId": 76591,
+  "nameUk": "Радіоелектроніка та електронні комунікації",
+  "programLabel": null,
+  "programType": "unspecified",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-G5"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "G5",
+  "specialtyNameRaw": "Електроніка, електронні комунікації, приладобудування та радіотехніка",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "recs",
+  "unitNameRaw": "Ф-т радіофізики, електроніки та комп`ютерних систем",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-59115",
+  "sourceRows": [
+    152
+  ]
+}

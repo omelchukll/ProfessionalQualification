@@ -1,0 +1,27 @@
+{
+  "id": "program-69818",
+  "edeboId": 69818,
+  "nameUk": "Археологія",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B9"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "B9",
+  "specialtyNameRaw": "Історія та археологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "history",
+  "unitNameRaw": "Історичний ф-т",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-1481",
+  "sourceRows": [
+    137
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "program-51430",
+  "edeboId": 51430,
+  "nameUk": "Прикладна соціологія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-054"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "54",
+  "specialtyNameRaw": "ОПП Соціологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Заочна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "sociology",
+  "unitNameRaw": "Ф-т соціології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    72
+  ]
+}

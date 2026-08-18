@@ -1,0 +1,26 @@
+{
+  "id": "program-59115",
+  "edeboId": 59115,
+  "nameUk": "Інформаційна безпека телекомунікаційних систем і мереж",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-172"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "172",
+  "specialtyNameRaw": "Телекомунікації та радіотехніка",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "recs",
+  "unitNameRaw": "Ф-т радіофізики, електроніки та комп`ютерних систем",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    152
+  ]
+}

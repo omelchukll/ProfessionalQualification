@@ -1,0 +1,27 @@
+{
+  "id": "program-69963",
+  "edeboId": 69963,
+  "nameUk": "Політологія",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C2"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C2",
+  "specialtyNameRaw": "Політологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philosophy",
+  "unitNameRaw": "Філософський ф-т",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-2021",
+  "sourceRows": [
+    32
+  ]
+}

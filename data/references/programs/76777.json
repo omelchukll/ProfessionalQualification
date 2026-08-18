@@ -1,0 +1,27 @@
+{
+  "id": "program-76777",
+  "edeboId": 76777,
+  "nameUk": "Міжнародне регіонознавство",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C3",
+  "specialtyNameRaw": "Міжнародні відносини",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-20812",
+  "sourceRows": [
+    34
+  ]
+}

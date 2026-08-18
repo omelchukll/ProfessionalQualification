@@ -1,0 +1,26 @@
+{
+  "id": "program-69776",
+  "edeboId": 69776,
+  "nameUk": "Менеджмент організацій",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-D3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "D3",
+  "specialtyNameRaw": "Менеджмент",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "economics",
+  "unitNameRaw": "Економічний факультет",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    82
+  ]
+}

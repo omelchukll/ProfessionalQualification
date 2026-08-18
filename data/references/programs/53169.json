@@ -1,0 +1,28 @@
+{
+  "id": "program-53169",
+  "edeboId": 53169,
+  "nameUk": "Новогрецька філологія, англійська мова та переклад",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.08"
+  ],
+  "specialtyCodeRaw": "035.08",
+  "specialtyNameRaw": "Філологія (класичні мови та літератури (переклад ключно))",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "philology",
+  "unitNameRaw": "Інститут філології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    9
+  ]
+}

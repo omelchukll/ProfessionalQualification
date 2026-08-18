@@ -1,0 +1,26 @@
+{
+  "id": "program-64964",
+  "edeboId": 64964,
+  "nameUk": "Аудіовізуальні мистецтва, медіа та виробництво",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-021"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "21",
+  "specialtyNameRaw": "Аудіовізуальне мистецтво та виробництво",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "journalism",
+  "unitNameRaw": "Інститут журналістики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    29
+  ]
+}

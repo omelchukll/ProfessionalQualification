@@ -1,0 +1,27 @@
+{
+  "id": "program-69761",
+  "edeboId": 69761,
+  "nameUk": "Прикладна фізика",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E6"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E6",
+  "specialtyNameRaw": "Прикладна фізика та наноматеріали",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-30758",
+  "sourceRows": [
+    179
+  ]
+}

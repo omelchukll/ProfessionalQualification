@@ -1,0 +1,26 @@
+{
+  "id": "program-76534",
+  "edeboId": 76534,
+  "nameUk": "Журналістика",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C7"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C7",
+  "specialtyNameRaw": "Журналістика",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "journalism",
+  "unitNameRaw": "ННІЖ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    129
+  ]
+}

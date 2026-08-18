@@ -1,0 +1,26 @@
+{
+  "id": "program-49273",
+  "edeboId": 49273,
+  "nameUk": "Франкофонні студії та переклад, англійська мова",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "35",
+  "specialtyNameRaw": "Філологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    46
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "program-69931",
+  "edeboId": 69931,
+  "nameUk": "Біологія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E1"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E1",
+  "specialtyNameRaw": "Біологія та біохімія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "bm",
+  "unitNameRaw": "ННЦІБМ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    66
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "program-76594",
+  "edeboId": 76594,
+  "nameUk": "Біомедична фізика",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E6"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E6",
+  "specialtyNameRaw": "Прикладна фізика та наноматеріали",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "recs",
+  "unitNameRaw": "Ф-т радіофізики, електроніки та комп`ютерних систем",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-20326",
+  "sourceRows": [
+    153
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "program-69899",
+  "edeboId": 69899,
+  "nameUk": "Аудіовізуальні мистецтва, медіа та виробництво",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-B1"
+  ],
+  "specializationCodes": [
+    "B1.02"
+  ],
+  "specialtyCodeRaw": "B1.02",
+  "specialtyNameRaw": "B1 Аудіовізуальне мистецтво та медіавиробництво B1.02 Кіно-, медіавиробництво",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "journalism",
+  "unitNameRaw": "Інститут журналістики",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-64964",
+  "sourceRows": [
+    29
+  ]
+}

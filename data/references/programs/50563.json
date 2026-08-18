@@ -1,0 +1,26 @@
+{
+  "id": "program-50563",
+  "edeboId": 50563,
+  "nameUk": "Міжнародні економічні відносини (комерція та фінанси)",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-292"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "292",
+  "specialtyNameRaw": "Міжнародні економічні відносини",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    185
+  ]
+}

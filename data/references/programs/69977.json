@@ -1,0 +1,26 @@
+{
+  "id": "program-69977",
+  "edeboId": 69977,
+  "nameUk": "Математичні методи штучного інтелекту",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-F3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "F3",
+  "specialtyNameRaw": "Комп'ютерні науки",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "csc",
+  "unitNameRaw": "Факультет комп'ютерних наук та кібернетики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    19
+  ]
+}

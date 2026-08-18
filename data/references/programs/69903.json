@@ -1,0 +1,27 @@
+{
+  "id": "program-69903",
+  "edeboId": 69903,
+  "nameUk": "Міжнародні комунікації",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C3",
+  "specialtyNameRaw": "Міжнародні відносини",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-20809",
+  "sourceRows": [
+    49
+  ]
+}

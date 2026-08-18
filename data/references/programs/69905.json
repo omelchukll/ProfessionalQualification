@@ -1,0 +1,27 @@
+{
+  "id": "program-69905",
+  "edeboId": 69905,
+  "nameUk": "Дипломатія і міжнародне співробітництво",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C3",
+  "specialtyNameRaw": "Міжнародні відносини",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-26746",
+  "sourceRows": [
+    7
+  ]
+}

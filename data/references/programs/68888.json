@@ -1,0 +1,27 @@
+{
+  "id": "program-68888",
+  "edeboId": 68888,
+  "nameUk": "Урбаністика та міське планування",
+  "programLabel": null,
+  "programType": "unspecified",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C6"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C6",
+  "specialtyNameRaw": "Географія та регіональні студії",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "geography",
+  "unitNameRaw": "Географічний ф-т",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-23295",
+  "sourceRows": [
+    89
+  ]
+}

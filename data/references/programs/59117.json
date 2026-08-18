@@ -1,0 +1,26 @@
+{
+  "id": "program-59117",
+  "edeboId": 59117,
+  "nameUk": "Інформаційна безпека телекомунікаційних систем і мереж",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-172"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "172",
+  "specialtyNameRaw": "Електронні комунікації та радіотехніка",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "recs",
+  "unitNameRaw": "Ф-т радіофізики, електроніки та комп`ютерних систем",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    157
+  ]
+}

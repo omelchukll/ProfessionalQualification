@@ -1,0 +1,27 @@
+{
+  "id": "program-77062",
+  "edeboId": 77062,
+  "nameUk": "Біологія та біоінформатика",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E1"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E1",
+  "specialtyNameRaw": "Біологія та біохімія",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-59558",
+  "sourceRows": [
+    177
+  ]
+}

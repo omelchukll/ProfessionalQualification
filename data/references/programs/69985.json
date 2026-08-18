@@ -1,0 +1,27 @@
+{
+  "id": "program-69985",
+  "edeboId": 69985,
+  "nameUk": "Хімія",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-E3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "E3",
+  "specialtyNameRaw": "Хімія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "chemistry",
+  "unitNameRaw": "Хімічний ф-т",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-2218",
+  "sourceRows": [
+    181
+  ]
+}

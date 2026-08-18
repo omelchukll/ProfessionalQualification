@@ -1,0 +1,27 @@
+{
+  "id": "program-68926",
+  "edeboId": 68926,
+  "nameUk": "Міжнародне право",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-D9"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "D9",
+  "specialtyNameRaw": "Міжнародне право",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-20797",
+  "sourceRows": [
+    96
+  ]
+}

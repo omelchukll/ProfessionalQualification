@@ -1,0 +1,27 @@
+{
+  "id": "program-69901",
+  "edeboId": 69901,
+  "nameUk": "Міжнародні відносини",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-C3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "C3",
+  "specialtyNameRaw": "Міжнародні відносини",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-20806",
+  "sourceRows": [
+    59
+  ]
+}

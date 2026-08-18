@@ -1,0 +1,27 @@
+{
+  "id": "program-76122",
+  "edeboId": 76122,
+  "nameUk": "Ландшафтне планування урбанізованого середовища",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2024",
+  "specialtyIds": [
+    "2024-H3"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "H3",
+  "specialtyNameRaw": "H3 Садово-паркове господарство",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "bm",
+  "unitNameRaw": "ННЦ \"Інститут біології та медицини\"",
+  "status": "active",
+  "metadataOrigin": "inherited-from-source-program",
+  "inheritedFromProgramId": "program-35922",
+  "sourceRows": [
+    10
+  ]
+}
