@@ -12,8 +12,8 @@ const PATHS = {
 const REPO_PATHS = {
   index: 'data/index.json',
   qualifications: 'data/references/qualifications.json',
-  program: id => `./data/references/programs/${normalizeEdeboId(id)}.json`,
-  programQualifications: id => `./data/references/program-qualifications/${normalizeEdeboId(id)}.json`
+  program: id => `data/references/programs/${normalizeEdeboId(id)}.json`,
+  programQualifications: id => `data/references/program-qualifications/${normalizeEdeboId(id)}.json`
 };
 
 const state = {
