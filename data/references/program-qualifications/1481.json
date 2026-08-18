@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1481-pq-0004",
+      "qualificationId": "pq-0004",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1236-32",
+          "date": "2025-12-22",
+          "raw": "1236-32 від 22.12.2025"
+        },
+        "nakDecisionOrCertificate": 4986
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 137,
+      "sourceQualificationText": "Археолог / Archaeologist"
+    }
+  ],
+  "programId": "program-1481",
+  "edeboId": 1481,
+  "sourceRows": [
+    137
+  ]
+}

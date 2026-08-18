@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-326-pq-0093",
+      "qualificationId": "pq-0093",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1294-32",
+          "date": "2025-12-26",
+          "raw": "1294-32 від 26.12.2025"
+        },
+        "nakDecisionOrCertificate": 4604
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 175,
+      "sourceQualificationText": "Фізик / Physicist"
+    }
+  ],
+  "programId": "program-326",
+  "edeboId": 326,
+  "sourceRows": [
+    175
+  ]
+}

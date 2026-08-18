@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-436-pq-0001",
+      "qualificationId": "pq-0001",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1117-32",
+          "date": "2025-12-16",
+          "raw": "1117-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 3500
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 42,
+      "sourceQualificationText": "Актуарій"
+    },
+    {
+      "id": "rel-436-pq-0041",
+      "qualificationId": "pq-0041",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1117-32",
+          "date": "2025-12-16",
+          "raw": "1117-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 3500
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 42,
+      "sourceQualificationText": "Математик"
+    }
+  ],
+  "programId": "program-436",
+  "edeboId": 436,
+  "sourceRows": [
+    42
+  ]
+}

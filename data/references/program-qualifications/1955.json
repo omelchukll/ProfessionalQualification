@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1955-pq-0068",
+      "qualificationId": "pq-0068",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1059-32",
+          "date": "2025-12-10",
+          "raw": "1059-32 від 10.12.2025"
+        },
+        "nakDecisionOrCertificate": 529
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 14,
+      "sourceQualificationText": "Розробник програмного забезпечення / Software Developer"
+    }
+  ],
+  "programId": "program-1955",
+  "edeboId": 1955,
+  "sourceRows": [
+    14
+  ]
+}

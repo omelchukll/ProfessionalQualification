@@ -1,0 +1,27 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-26753-pq-0099",
+      "qualificationId": "pq-0099",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1305-32",
+          "date": "2025-12-29",
+          "raw": "1305-32 від 29.12.2025"
+        },
+        "nakDecisionOrCertificate": 4068
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 4,
+      "sourceQualificationText": "Юрист-міжнародник"
+    }
+  ],
+  "programId": "program-26753",
+  "edeboId": 26753,
+  "sourceRows": [
+    4,
+    132
+  ]
+}

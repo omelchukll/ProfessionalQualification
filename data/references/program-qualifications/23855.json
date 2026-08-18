@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-23855-pq-0101",
+      "qualificationId": "pq-0101",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1277-32",
+          "date": "2025-12-25",
+          "raw": "1277-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": 4607
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 155,
+      "sourceQualificationText": "Інженер"
+    }
+  ],
+  "programId": "program-23855",
+  "edeboId": 23855,
+  "sourceRows": [
+    155
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1180-pq-0104",
+      "qualificationId": "pq-0104",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1229-32",
+          "date": "2025-12-22",
+          "raw": "1229-32 від 22.12.2025"
+        },
+        "nakDecisionOrCertificate": 4985
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 139,
+      "sourceQualificationText": "Історик / Historian"
+    }
+  ],
+  "programId": "program-1180",
+  "edeboId": 1180,
+  "sourceRows": [
+    139
+  ]
+}

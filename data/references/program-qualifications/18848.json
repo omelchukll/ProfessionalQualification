@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-18848-pq-0033",
+      "qualificationId": "pq-0033",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1209-32",
+          "date": "2025-12-19",
+          "raw": "1209-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 4498
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 119,
+      "sourceQualificationText": "Координатор громадського мистецтва / Community arts project leader"
+    },
+    {
+      "id": "rel-18848-pq-0040",
+      "qualificationId": "pq-0040",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1209-32",
+          "date": "2025-12-19",
+          "raw": "1209-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 4498
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 119,
+      "sourceQualificationText": "Літературознавець / Literary schola r"
+    }
+  ],
+  "programId": "program-18848",
+  "edeboId": 18848,
+  "sourceRows": [
+    119
+  ]
+}

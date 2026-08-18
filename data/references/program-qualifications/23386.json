@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-23386-pq-0045",
+      "qualificationId": "pq-0045",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1167-32",
+          "date": "2025-12-19",
+          "raw": "1167-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": "4608 - це сертифікат Біомедична фізика, інженерія та інформатика"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 81,
+      "sourceQualificationText": "Мовознавець / Linguist"
+    },
+    {
+      "id": "rel-23386-pq-0055",
+      "qualificationId": "pq-0055",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1167-32",
+          "date": "2025-12-19",
+          "raw": "1167-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": "4608 - це сертифікат Біомедична фізика, інженерія та інформатика"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 81,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до совітньої програми) / Translator"
+    }
+  ],
+  "programId": "program-23386",
+  "edeboId": 23386,
+  "sourceRows": [
+    81
+  ]
+}

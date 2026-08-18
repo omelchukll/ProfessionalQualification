@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1184-pq-0090",
+      "qualificationId": "pq-0090",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1066-32",
+          "date": "2025-12-11",
+          "raw": "1066-32 від 11.12.2025"
+        },
+        "nakDecisionOrCertificate": 3633
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 16,
+      "sourceQualificationText": "Фахівець з інформаційних технологій"
+    }
+  ],
+  "programId": "program-1184",
+  "edeboId": 1184,
+  "sourceRows": [
+    16
+  ]
+}

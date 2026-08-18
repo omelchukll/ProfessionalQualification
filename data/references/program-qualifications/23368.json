@@ -1,0 +1,44 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-23368-pq-0045",
+      "qualificationId": "pq-0045",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1157-32",
+          "date": "2025-12-19",
+          "raw": "1157-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 5619
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 71,
+      "sourceQualificationText": "Мовознавець / Linguist"
+    },
+    {
+      "id": "rel-23368-pq-0052",
+      "qualificationId": "pq-0052",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1157-32",
+          "date": "2025-12-19",
+          "raw": "1157-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 5619
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 71,
+      "sourceQualificationText": "Перекладач (мови відповідно до освітньої програми)"
+    }
+  ],
+  "programId": "program-23368",
+  "edeboId": 23368,
+  "sourceRows": [
+    71
+  ],
+  "sourceProgramIdSourceNote": "(23388 Неправильне), правильне ІD 23368"
+}

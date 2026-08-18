@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-23295-pq-0058",
+      "qualificationId": "pq-0058",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1175-32",
+          "date": "2025-12-19",
+          "raw": "1175-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 3727
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 89,
+      "sourceQualificationText": "Планувальник міст / Urban planner"
+    }
+  ],
+  "programId": "program-23295",
+  "edeboId": 23295,
+  "sourceRows": [
+    89
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-2183-pq-0076",
+      "qualificationId": "pq-0076",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1239-32",
+          "date": "2025-12-23",
+          "raw": "1239-32 від 23.12.2025"
+        },
+        "nakDecisionOrCertificate": "4610- за старою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 128,
+      "sourceQualificationText": "Технік-метеоролог / Meteorology technician"
+    }
+  ],
+  "programId": "program-2183",
+  "edeboId": 2183,
+  "sourceRows": [
+    128
+  ],
+  "sourceProgramIdSourceNote": "15829 Не правильне ID, за якою спеціальністю ця програма? Правильне ID 2183"
+}

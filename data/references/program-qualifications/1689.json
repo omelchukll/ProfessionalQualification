@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1689-pq-0037",
+      "qualificationId": "pq-0037",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1174-32",
+          "date": "2025-12-19",
+          "raw": "1174-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 5858
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 88,
+      "sourceQualificationText": "Куратор виставок / Exhibition curator"
+    }
+  ],
+  "programId": "program-1689",
+  "edeboId": 1689,
+  "sourceRows": [
+    88
+  ]
+}

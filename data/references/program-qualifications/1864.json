@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1864-pq-0047",
+      "qualificationId": "pq-0047",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1292-32",
+          "date": "2025-12-26",
+          "raw": "1292-32 від 26.12.2025"
+        },
+        "nakDecisionOrCertificate": 3984
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 173,
+      "sourceQualificationText": "Музичний продюсер / Music producer"
+    }
+  ],
+  "programId": "program-1864",
+  "edeboId": 1864,
+  "sourceRows": [
+    173
+  ]
+}

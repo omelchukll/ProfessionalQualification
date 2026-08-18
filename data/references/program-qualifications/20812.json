@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-20812-pq-0078",
+      "qualificationId": "pq-0078",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1107-32",
+          "date": "2025-12-15",
+          "raw": "1107-32 від 15.12.2025"
+        },
+        "nakDecisionOrCertificate": 3471
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 34,
+      "sourceQualificationText": "Усний перекладач / Interpreter"
+    },
+    {
+      "id": "rel-20812-pq-0092",
+      "qualificationId": "pq-0092",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1107-32",
+          "date": "2025-12-15",
+          "raw": "1107-32 від 15.12.2025"
+        },
+        "nakDecisionOrCertificate": 3471
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 34,
+      "sourceQualificationText": "Фахівець із закордонних справ / Foreign Affairs Officer"
+    }
+  ],
+  "programId": "program-20812",
+  "edeboId": 20812,
+  "sourceRows": [
+    34
+  ]
+}

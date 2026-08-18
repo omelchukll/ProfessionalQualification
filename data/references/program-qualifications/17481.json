@@ -1,0 +1,230 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-17481-pq-0008",
+      "qualificationId": "pq-0008",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Ботанік"
+    },
+    {
+      "id": "rel-17481-pq-0011",
+      "qualificationId": "pq-0011",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Біолог-дослідник"
+    },
+    {
+      "id": "rel-17481-pq-0013",
+      "qualificationId": "pq-0013",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Біофізик"
+    },
+    {
+      "id": "rel-17481-pq-0014",
+      "qualificationId": "pq-0014",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Біохімік"
+    },
+    {
+      "id": "rel-17481-pq-0015",
+      "qualificationId": "pq-0015",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Вірусолог"
+    },
+    {
+      "id": "rel-17481-pq-0016",
+      "qualificationId": "pq-0016",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Генетик"
+    },
+    {
+      "id": "rel-17481-pq-0021",
+      "qualificationId": "pq-0021",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Гістолог"
+    },
+    {
+      "id": "rel-17481-pq-0028",
+      "qualificationId": "pq-0028",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Ембріолог"
+    },
+    {
+      "id": "rel-17481-pq-0029",
+      "qualificationId": "pq-0029",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Зоолог"
+    },
+    {
+      "id": "rel-17481-pq-0046",
+      "qualificationId": "pq-0046",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Молекулярний біолог"
+    },
+    {
+      "id": "rel-17481-pq-0048",
+      "qualificationId": "pq-0048",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Мікробіолог"
+    },
+    {
+      "id": "rel-17481-pq-0094",
+      "qualificationId": "pq-0094",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Фізіолог"
+    },
+    {
+      "id": "rel-17481-pq-0100",
+      "qualificationId": "pq-0100",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1132-32",
+          "date": "2025-12-17",
+          "raw": "1132-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 54,
+      "sourceQualificationText": "Імунолог"
+    }
+  ],
+  "programId": "program-17481",
+  "edeboId": 17481,
+  "sourceRows": [
+    54
+  ]
+}

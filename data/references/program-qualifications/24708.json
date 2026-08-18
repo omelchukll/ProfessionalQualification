@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-24708-pq-0050",
+      "qualificationId": "pq-0050",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1261-32",
+          "date": "2025-12-25",
+          "raw": "1261-32 від 25.12.2025, внесено зміни наказ №18-32 від 13.01.2026"
+        },
+        "nakDecisionOrCertificate": 263
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 150,
+      "sourceQualificationText": "Науковець-музеєзнавець"
+    }
+  ],
+  "programId": "program-24708",
+  "edeboId": 24708,
+  "sourceRows": [
+    150
+  ]
+}

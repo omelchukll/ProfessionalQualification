@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1891-pq-0005",
+      "qualificationId": "pq-0005",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1091-32",
+          "date": "2025-12-15",
+          "raw": "1091-32 від 15.12.2025"
+        },
+        "nakDecisionOrCertificate": 1589
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 23,
+      "sourceQualificationText": "Асистент актуарія / Actuarial assistant"
+    },
+    {
+      "id": "rel-1891-pq-0007",
+      "qualificationId": "pq-0007",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1091-32",
+          "date": "2025-12-15",
+          "raw": "1091-32 від 15.12.2025"
+        },
+        "nakDecisionOrCertificate": 1589
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 23,
+      "sourceQualificationText": "Асистент зі статистики / Statistical assistant"
+    }
+  ],
+  "programId": "program-1891",
+  "edeboId": 1891,
+  "sourceRows": [
+    23
+  ]
+}

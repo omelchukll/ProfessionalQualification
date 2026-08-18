@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-20818-pq-0095",
+      "qualificationId": "pq-0095",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1047-32",
+          "date": "2025-12-09",
+          "raw": "1047-32 від 09.12.2025"
+        },
+        "nakDecisionOrCertificate": 3613
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 8,
+      "sourceQualificationText": "Фінансовий аналітик / Financial Analyst"
+    }
+  ],
+  "programId": "program-20818",
+  "edeboId": 20818,
+  "sourceRows": [
+    8
+  ]
+}

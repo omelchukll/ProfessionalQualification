@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1419-pq-0038",
+      "qualificationId": "pq-0038",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1280-32",
+          "date": "2025-12-26",
+          "raw": "1280-32 від 26.12.2025"
+        },
+        "nakDecisionOrCertificate": 3987
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 151,
+      "sourceQualificationText": "Кінооператор"
+    }
+  ],
+  "programId": "program-1419",
+  "edeboId": 1419,
+  "sourceRows": [
+    151
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1988-pq-0018",
+      "qualificationId": "pq-0018",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1195-32",
+          "date": "2025-12-19",
+          "raw": "1195-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 262
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 106,
+      "sourceQualificationText": "Геолог / Geologist"
+    }
+  ],
+  "programId": "program-1988",
+  "edeboId": 1988,
+  "sourceRows": [
+    106
+  ]
+}

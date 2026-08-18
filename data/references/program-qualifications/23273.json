@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-23273-pq-0079",
+      "qualificationId": "pq-0079",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1156-32",
+          "date": "2025-12-19",
+          "raw": "1156-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 4495
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 70,
+      "sourceQualificationText": "Усний перекладач (мови відповідно до освітньої програми) / Interpreter"
+    }
+  ],
+  "programId": "program-23273",
+  "edeboId": 23273,
+  "sourceRows": [
+    70
+  ]
+}

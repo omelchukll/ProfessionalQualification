@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-17462-pq-0091",
+      "qualificationId": "pq-0091",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1141-32",
+          "date": "2025-12-17",
+          "raw": "1141-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": 8592
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 60,
+      "sourceQualificationText": "Фахівець садово-паркового господарства"
+    }
+  ],
+  "programId": "program-17462",
+  "edeboId": 17462,
+  "sourceRows": [
+    60
+  ]
+}

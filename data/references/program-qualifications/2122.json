@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-2122-pq-0041",
+      "qualificationId": "pq-0041",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1057-32",
+          "date": "2025-12-10",
+          "raw": "1057-32 від 10.12.2025"
+        },
+        "nakDecisionOrCertificate": 3974
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 12,
+      "sourceQualificationText": "Математик"
+    }
+  ],
+  "programId": "program-2122",
+  "edeboId": 2122,
+  "sourceRows": [
+    12
+  ]
+}

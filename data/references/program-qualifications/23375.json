@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-23375-pq-0045",
+      "qualificationId": "pq-0045",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1083-32",
+          "date": "2025-12-12",
+          "raw": "1083-32 від 12.12.2025"
+        },
+        "nakDecisionOrCertificate": 4357
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 17,
+      "sourceQualificationText": "Мовознавець / Linguist"
+    },
+    {
+      "id": "rel-23375-pq-0080",
+      "qualificationId": "pq-0080",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1083-32",
+          "date": "2025-12-12",
+          "raw": "1083-32 від 12.12.2025"
+        },
+        "nakDecisionOrCertificate": 4357
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 17,
+      "sourceQualificationText": "Усний перекладач (українська-китайська мови) / Interpreter (Ukrainian — Chinese languages)"
+    }
+  ],
+  "programId": "program-23375",
+  "edeboId": 23375,
+  "sourceRows": [
+    17
+  ]
+}

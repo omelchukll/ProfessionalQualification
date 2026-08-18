@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-434-pq-0102",
+      "qualificationId": "pq-0102",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1137-32",
+          "date": "2025-12-17",
+          "raw": "1137-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": "5255 - це іншого університету"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 56,
+      "sourceQualificationText": "Інженер-дослідник"
+    }
+  ],
+  "programId": "program-434",
+  "edeboId": 434,
+  "sourceRows": [
+    56
+  ]
+}

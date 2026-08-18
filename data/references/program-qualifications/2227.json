@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-2227-pq-0086",
+      "qualificationId": "pq-0086",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1192-32",
+          "date": "2025-12-19",
+          "raw": "1192-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": "539 - це не той сертифікат"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 103,
+      "sourceQualificationText": "Фахівець з геоінформаційних систем / Geographic information systems specialist»"
+    }
+  ],
+  "programId": "program-2227",
+  "edeboId": 2227,
+  "sourceRows": [
+    103
+  ]
+}

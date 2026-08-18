@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-2224-pq-0084",
+      "qualificationId": "pq-0084",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1096-32",
+          "date": "2025-12-15",
+          "raw": "1096-32 від 15.12.2025"
+        },
+        "nakDecisionOrCertificate": 5190
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 28,
+      "sourceQualificationText": "Фахівець з видавничо-поліграфічного виробництва"
+    }
+  ],
+  "programId": "program-2224",
+  "edeboId": 2224,
+  "sourceRows": [
+    28
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1574-pq-0097",
+      "qualificationId": "pq-0097",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1343-32",
+          "date": "2025-12-30",
+          "raw": "1343-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": "4275 - це сертифікат Франкофонні студії та переклад, англійська мова"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 184,
+      "sourceQualificationText": "Юрисконсульт (радник юридичний)"
+    }
+  ],
+  "programId": "program-1574",
+  "edeboId": 1574,
+  "sourceRows": [
+    184
+  ]
+}

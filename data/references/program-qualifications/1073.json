@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1073-pq-0020",
+      "qualificationId": "pq-0020",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1149-32",
+          "date": "2025-12-18",
+          "raw": "1149-32 від 18.12.2025"
+        },
+        "nakDecisionOrCertificate": 271
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 64,
+      "sourceQualificationText": "Гідрогеолог / Hydrogeologist"
+    }
+  ],
+  "programId": "program-1073",
+  "edeboId": 1073,
+  "sourceRows": [
+    64
+  ]
+}

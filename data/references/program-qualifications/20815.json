@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-20815-pq-0010",
+      "qualificationId": "pq-0010",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1115-32",
+          "date": "2025-12-16",
+          "raw": "1115-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 2764
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 39,
+      "sourceQualificationText": "Бізнес-аналітик / Business analyst"
+    },
+    {
+      "id": "rel-20815-pq-0078",
+      "qualificationId": "pq-0078",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1115-32",
+          "date": "2025-12-16",
+          "raw": "1115-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 2764
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 39,
+      "sourceQualificationText": "Усний перекладач / Interpreter"
+    }
+  ],
+  "programId": "program-20815",
+  "edeboId": 20815,
+  "sourceRows": [
+    39
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-20997-pq-0017",
+      "qualificationId": "pq-0017",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1150-32",
+          "date": "2025-12-18",
+          "raw": "1150-32 від 18.12.2025"
+        },
+        "nakDecisionOrCertificate": 1948
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 65,
+      "sourceQualificationText": "Географ-економіст / Economic geographer"
+    }
+  ],
+  "programId": "program-20997",
+  "edeboId": 20997,
+  "sourceRows": [
+    65
+  ]
+}

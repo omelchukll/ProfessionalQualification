@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1684-pq-0041",
+      "qualificationId": "pq-0041",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1120-32",
+          "date": "2025-12-16",
+          "raw": "1120-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 3498
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 45,
+      "sourceQualificationText": "Математик"
+    }
+  ],
+  "programId": "program-1684",
+  "edeboId": 1684,
+  "sourceRows": [
+    45
+  ]
+}

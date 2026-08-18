@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-17488-pq-0012",
+      "qualificationId": "pq-0012",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1130-32",
+          "date": "2025-12-17",
+          "raw": "1130-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": 3600
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 52,
+      "sourceQualificationText": "Біотехнолог"
+    }
+  ],
+  "programId": "program-17488",
+  "edeboId": 17488,
+  "sourceRows": [
+    52
+  ]
+}

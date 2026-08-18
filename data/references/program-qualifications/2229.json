@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-2229-pq-0083",
+      "qualificationId": "pq-0083",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1139-32",
+          "date": "2025-12-17",
+          "raw": "1139-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": "Акред. спеціальність"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 58,
+      "sourceQualificationText": "Фахівець з біотехнології"
+    }
+  ],
+  "programId": "program-2229",
+  "edeboId": 2229,
+  "sourceRows": [
+    58
+  ]
+}

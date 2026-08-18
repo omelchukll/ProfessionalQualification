@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-30700-pq-0030",
+      "qualificationId": "pq-0030",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1237-32",
+          "date": "2025-12-22",
+          "raw": "1237-32 від 22.12.2025"
+        },
+        "nakDecisionOrCertificate": 4613
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 143,
+      "sourceQualificationText": "Картограф"
+    },
+    {
+      "id": "rel-30700-pq-0085",
+      "qualificationId": "pq-0085",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1237-32",
+          "date": "2025-12-22",
+          "raw": "1237-32 від 22.12.2025"
+        },
+        "nakDecisionOrCertificate": 4613
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 143,
+      "sourceQualificationText": "Фахівець з географічних інформаційних систем / Geographic information systems specialist"
+    }
+  ],
+  "programId": "program-30700",
+  "edeboId": 30700,
+  "sourceRows": [
+    143
+  ]
+}

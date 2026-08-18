@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1525-pq-0097",
+      "qualificationId": "pq-0097",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1302-32",
+          "date": "2025-12-29",
+          "raw": "1302-32 від 29.12.2025"
+        },
+        "nakDecisionOrCertificate": "3025 - це сертифікат Біоінформатика і структурна біологія"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 167,
+      "sourceQualificationText": "Юрисконсульт (радник юридичний)"
+    }
+  ],
+  "programId": "program-1525",
+  "edeboId": 1525,
+  "sourceRows": [
+    167
+  ]
+}

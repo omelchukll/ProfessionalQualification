@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-2218-pq-0096",
+      "qualificationId": "pq-0096",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1333-32",
+          "date": "2025-12-30",
+          "raw": "1333-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": 4615
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 181,
+      "sourceQualificationText": "Хімік / Chemist"
+    }
+  ],
+  "programId": "program-2218",
+  "edeboId": 2218,
+  "sourceRows": [
+    181
+  ]
+}

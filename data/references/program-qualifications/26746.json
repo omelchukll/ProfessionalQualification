@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-26746-pq-0092",
+      "qualificationId": "pq-0092",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1046-32",
+          "date": "2025-12-09",
+          "raw": "1046-32 від 09.12.2025"
+        },
+        "nakDecisionOrCertificate": 2760
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 7,
+      "sourceQualificationText": "Фахівець із закордонних справ / Foreign Affairs Officer"
+    }
+  ],
+  "programId": "program-26746",
+  "edeboId": 26746,
+  "sourceRows": [
+    7
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-23311-pq-0052",
+      "qualificationId": "pq-0052",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1153-32",
+          "date": "2025-12-19",
+          "raw": "1153-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 8123
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 67,
+      "sourceQualificationText": "Перекладач (мови відповідно до освітньої програми)"
+    }
+  ],
+  "programId": "program-23311",
+  "edeboId": 23311,
+  "sourceRows": [
+    67
+  ]
+}

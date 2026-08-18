@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-20817-pq-0064",
+      "qualificationId": "pq-0064",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1044-32",
+          "date": "2025-12-09",
+          "raw": "1044-32 від 09.12.2025"
+        },
+        "nakDecisionOrCertificate": 2771
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 5,
+      "sourceQualificationText": "Радник з економічних питань / Economic Adviser"
+    },
+    {
+      "id": "rel-20817-pq-0078",
+      "qualificationId": "pq-0078",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1044-32",
+          "date": "2025-12-09",
+          "raw": "1044-32 від 09.12.2025"
+        },
+        "nakDecisionOrCertificate": 2771
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 5,
+      "sourceQualificationText": "Усний перекладач / Interpreter"
+    }
+  ],
+  "programId": "program-20817",
+  "edeboId": 20817,
+  "sourceRows": [
+    5
+  ]
+}

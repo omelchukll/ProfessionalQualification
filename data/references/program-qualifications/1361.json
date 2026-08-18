@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1361-pq-0063",
+      "qualificationId": "pq-0063",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1279-32",
+          "date": "2025-12-26",
+          "raw": "1279-32 від 26.12.2025"
+        },
+        "nakDecisionOrCertificate": 3152
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 163,
+      "sourceQualificationText": "Психолог / Psychologist"
+    }
+  ],
+  "programId": "program-1361",
+  "edeboId": 1361,
+  "sourceRows": [
+    163
+  ]
+}

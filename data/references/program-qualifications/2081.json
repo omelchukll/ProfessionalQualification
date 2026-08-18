@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-2081-pq-0070",
+      "qualificationId": "pq-0070",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1099-32",
+          "date": "2025-12-15",
+          "raw": "1099-32 від 15.12.2025"
+        },
+        "nakDecisionOrCertificate": 2849
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 31,
+      "sourceQualificationText": "Соціолог"
+    }
+  ],
+  "programId": "program-2081",
+  "edeboId": 2081,
+  "sourceRows": [
+    31
+  ]
+}

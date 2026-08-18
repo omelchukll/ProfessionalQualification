@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-1755-pq-0019",
+      "qualificationId": "pq-0019",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1196-32",
+          "date": "2025-12-19",
+          "raw": "1196-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 264
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 107,
+      "sourceQualificationText": "Геофізик / Geophysicist"
+    }
+  ],
+  "programId": "program-1755",
+  "edeboId": 1755,
+  "sourceRows": [
+    107
+  ]
+}

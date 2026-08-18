@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-20810-pq-0042",
+      "qualificationId": "pq-0042",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1231-32",
+          "date": "2025-12-22",
+          "raw": "1231-32 від 22.12.2025"
+        },
+        "nakDecisionOrCertificate": 2763
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 133,
+      "sourceQualificationText": "Медіазнавець / Media scientist"
+    }
+  ],
+  "programId": "program-20810",
+  "edeboId": 20810,
+  "sourceRows": [
+    133
+  ]
+}

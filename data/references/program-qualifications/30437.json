@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-30437-pq-0104",
+      "qualificationId": "pq-0104",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1197-32",
+          "date": "2025-12-19",
+          "raw": "1197-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 7192
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 108,
+      "sourceQualificationText": "Історик / Historian"
+    }
+  ],
+  "programId": "program-30437",
+  "edeboId": 30437,
+  "sourceRows": [
+    108
+  ]
+}

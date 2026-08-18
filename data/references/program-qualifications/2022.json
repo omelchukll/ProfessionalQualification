@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-2022-pq-0067",
+      "qualificationId": "pq-0067",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1262-32",
+          "date": "2025-12-25",
+          "raw": "1262-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": 3986
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 145,
+      "sourceQualificationText": "Режисер відео та кіно / Video and motion picture director"
+    }
+  ],
+  "programId": "program-2022",
+  "edeboId": 2022,
+  "sourceRows": [
+    145
+  ]
+}
