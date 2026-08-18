@@ -35,8 +35,13 @@
           <span class="search-icon">⌕</span>
           <input id="globalSearch" type="search" placeholder="Пошук за назвою ОП, ID, ПК, спеціальністю…" autocomplete="off" />
         </div>
-        <div class="topbar-meta">
+        <div class="topbar-actions">
           <span class="badge subtle" id="visibleCount">0 ОП</span>
+          <span class="edit-state readonly" id="editState">Лише перегляд</span>
+          <button class="btn secondary compact" id="exportExcelBtn">⬇ Excel</button>
+          <button class="btn secondary compact" id="githubSettings">Редагування</button>
+          <button class="btn primary compact editor-only" id="addProgramBtn">+ ОП</button>
+          <button class="btn primary compact editor-only" id="addQualificationBtn">+ ПК</button>
         </div>
       </header>
 
@@ -149,7 +154,11 @@
         <h2 id="detailName"></h2>
         <div class="detail-id" id="detailId"></div>
       </div>
-      <button class="icon-btn" id="closeDetails" title="Закрити">×</button>
+      <div class="details-actions">
+        <button class="btn secondary compact editor-only" id="editProgramBtn">Редагувати</button>
+        <button class="btn danger compact editor-only" id="deleteProgramBtn">Видалити</button>
+        <button class="icon-btn" id="closeDetails" title="Закрити">×</button>
+      </div>
     </div>
 
     <div class="detail-meta" id="detailMeta"></div>
@@ -157,16 +166,40 @@
     <div class="detail-section">
       <div class="section-title-row">
         <h3>Професійні кваліфікації</h3>
-        <span class="badge" id="detailQualificationCount"></span>
+        <div class="section-actions">
+          <span class="badge" id="detailQualificationCount"></span>
+          <button class="btn primary compact editor-only" id="addRelationBtn">+ Додати</button>
+        </div>
       </div>
       <div id="detailQualifications"></div>
     </div>
 
+    <div class="detail-section" id="successionSection">
+      <h3>Наступність освітньої програми</h3>
+      <div id="detailSuccession"></div>
+    </div>
+
     <div class="detail-section" id="extensionSection">
-      <h3>Поширення</h3>
+      <h3>Поширення професійних кваліфікацій</h3>
       <div id="detailExtensions"></div>
     </div>
   </template>
+
+  <div class="modal-backdrop hidden" id="modalBackdrop">
+    <div class="modal" role="dialog" aria-modal="true">
+      <div class="modal-head">
+        <div>
+          <div class="eyebrow" id="modalEyebrow"></div>
+          <h2 id="modalTitle"></h2>
+        </div>
+        <button class="icon-btn" id="modalClose">×</button>
+      </div>
+      <div class="modal-body" id="modalBody"></div>
+      <div class="modal-foot" id="modalFoot"></div>
+    </div>
+  </div>
+
+  <div class="toast-container" id="toasts"></div>
 
   <script src="app.js" defer></script>
 </body>
