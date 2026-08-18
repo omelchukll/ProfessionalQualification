@@ -5,15 +5,15 @@ const PATHS = {
   specialties: './data/references/specialties.json',
   qualifications: './data/references/qualifications.json',
   successions: './data/program-successions.json',
-  program: id => `./data/references/programs/${id}.json`,
-  programQualifications: id => `./data/references/program-qualifications/${id}.json`
+  program: id => `./data/references/programs/${normalizeEdeboId(id)}.json`,
+  programQualifications: id => `./data/references/program-qualifications/${normalizeEdeboId(id)}.json`
 };
 
 const REPO_PATHS = {
   index: 'data/index.json',
   qualifications: 'data/references/qualifications.json',
-  program: id => `data/references/programs/${id}.json`,
-  programQualifications: id => `data/references/program-qualifications/${id}.json`
+  program: id => `./data/references/programs/${normalizeEdeboId(id)}.json`,
+  programQualifications: id => `./data/references/program-qualifications/${normalizeEdeboId(id)}.json`
 };
 
 const state = {
