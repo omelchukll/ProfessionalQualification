@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Реєстр професійних кваліфікацій</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">ПК</div>
+        <div>
+          <div class="brand-title">Реєстр професійних кваліфікацій</div>
+          <div class="brand-subtitle">КНУ імені Тараса Шевченка</div>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <button class="nav-item active" data-view="programs">Освітні програми</button>
+        <button class="nav-item" data-view="qualifications">Професійні кваліфікації</button>
+        <button class="nav-item" data-view="attention">Потребують уваги</button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="status-dot"></div>
+        <span id="dataStatus">Завантаження даних…</span>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="search-wrap">
+          <span class="search-icon">⌕</span>
+          <input id="globalSearch" type="search" placeholder="Пошук за назвою ОП, ID, ПК, спеціальністю…" autocomplete="off" />
+        </div>
+        <div class="topbar-meta">
+          <span class="badge subtle" id="visibleCount">0 ОП</span>
+        </div>
+      </header>
+
+      <section class="content">
+        <div class="filters-card">
+          <div class="filters-grid">
+            <label>
+              <span>Перелік спеціальностей</span>
+              <select id="filterListYear">
+                <option value="">Усі</option>
+                <option value="2015">2015</option>
+                <option value="2024">2024</option>
+              </select>
+            </label>
+            <label>
+              <span>Рівень освіти</span>
+              <select id="filterLevel"><option value="">Усі</option></select>
+            </label>
+            <label>
+              <span>Підрозділ</span>
+              <select id="filterUnit"><option value="">Усі</option></select>
+            </label>
+            <label>
+              <span>Статус ПК</span>
+              <select id="filterQualificationStatus">
+                <option value="">Усі</option>
+                <option value="approved">Погоджено</option>
+                <option value="extended">Поширено</option>
+                <option value="mixed">Погоджено + поширено</option>
+                <option value="none">Без ПК</option>
+              </select>
+            </label>
+            <label>
+              <span>Наявність ПК</span>
+              <select id="filterHasQualifications">
+                <option value="">Усі</option>
+                <option value="yes">Має ПК</option>
+                <option value="no">Не має ПК</option>
+              </select>
+            </label>
+            <button id="resetFilters" class="btn secondary">Скинути фільтри</button>
+          </div>
+        </div>
+
+        <div class="stats-grid">
+          <div class="stat-card"><div class="stat-label">Усі ОП</div><div class="stat-value" id="statAll">0</div></div>
+          <div class="stat-card"><div class="stat-label">З ПК</div><div class="stat-value" id="statWith">0</div></div>
+          <div class="stat-card"><div class="stat-label">Поширені ПК</div><div class="stat-value" id="statExtended">0</div></div>
+          <div class="stat-card"><div class="stat-label">Без ПК</div><div class="stat-value" id="statWithout">0</div></div>
+        </div>
+
+        <div class="workspace">
+          <section class="table-card">
+            <div class="table-toolbar">
+              <div>
+                <h2 id="tableTitle">Освітні програми</h2>
+                <p id="tableSubtitle">Пошук і фільтрація реєстру</p>
+              </div>
+              <div class="page-size-wrap">
+                <span>На сторінці</span>
+                <select id="pageSize">
+                  <option>10</option>
+                  <option selected>20</option>
+                  <option>50</option>
+                  <option>100</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="table-scroll">
+              <table>
+                <thead>
+                  <tr>
+                    <th data-sort="edeboId">ID ОП</th>
+                    <th data-sort="nameUk">Назва освітньої програми</th>
+                    <th data-sort="specialtyCodeRaw">Спеціальність</th>
+                    <th data-sort="educationLevelId">Рівень</th>
+                    <th data-sort="unitNameUk">Підрозділ</th>
+                    <th data-sort="qualificationCount">ПК</th>
+                    <th data-sort="qualificationStatus">Статус</th>
+                  </tr>
+                </thead>
+                <tbody id="programRows"></tbody>
+              </table>
+            </div>
+
+            <div class="pagination">
+              <button class="btn secondary compact" id="prevPage">←</button>
+              <span id="pageInfo">1 / 1</span>
+              <button class="btn secondary compact" id="nextPage">→</button>
+            </div>
+          </section>
+
+          <aside class="details-card empty" id="detailsPanel">
+            <div class="empty-state">
+              <div class="empty-icon">⌘</div>
+              <h3>Оберіть освітню програму</h3>
+              <p>Тут з’явиться картка ОП, її професійні кваліфікації та інформація про поширення.</p>
+            </div>
+          </aside>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <template id="detailsTemplate">
+    <div class="details-header">
+      <div>
+        <div class="eyebrow">Освітня програма</div>
+        <h2 id="detailName"></h2>
+        <div class="detail-id" id="detailId"></div>
+      </div>
+      <button class="icon-btn" id="closeDetails" title="Закрити">×</button>
+    </div>
+
+    <div class="detail-meta" id="detailMeta"></div>
+
+    <div class="detail-section">
+      <div class="section-title-row">
+        <h3>Професійні кваліфікації</h3>
+        <span class="badge" id="detailQualificationCount"></span>
+      </div>
+      <div id="detailQualifications"></div>
+    </div>
+
+    <div class="detail-section" id="extensionSection">
+      <h3>Поширення</h3>
+      <div id="detailExtensions"></div>
+    </div>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
