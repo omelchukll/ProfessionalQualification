@@ -1,0 +1,26 @@
+{
+  "id": "program-433",
+  "edeboId": 433,
+  "nameUk": "Медіапродюсування",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-061"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "61",
+  "specialtyNameRaw": "Журналістика",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "journalism",
+  "unitNameRaw": "Інститут журналістики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    30
+  ]
+}

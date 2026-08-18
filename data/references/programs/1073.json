@@ -1,0 +1,26 @@
+{
+  "id": "program-1073",
+  "edeboId": 1073,
+  "nameUk": "Гідрогеологія",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-103"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "103",
+  "specialtyNameRaw": "Науки про Землю",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "geology",
+  "unitNameRaw": "ННІ \"Інститут геології\"",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    64
+  ]
+}

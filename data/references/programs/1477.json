@@ -1,0 +1,26 @@
+{
+  "id": "program-1477",
+  "edeboId": 1477,
+  "nameUk": "Програмне забезпечення систем",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-121"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "121",
+  "specialtyNameRaw": "Інженерія програмного забезпечення",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "csc",
+  "unitNameRaw": "Ф-т комп`ютерних наук та кібернетики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    13
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "program-1261",
+  "edeboId": 1261,
+  "nameUk": "Хімія (високі технології)",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-102"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "102",
+  "specialtyNameRaw": "Хімія",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    164
+  ]
+}

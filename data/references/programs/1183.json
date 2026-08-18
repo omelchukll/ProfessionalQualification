@@ -1,0 +1,26 @@
+{
+  "id": "program-1183",
+  "edeboId": 1183,
+  "nameUk": "Прикладна та теоретична статистика",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-112"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "112",
+  "specialtyNameRaw": "Статистика",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": null,
+  "unitNameRaw": null,
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    43
+  ]
+}

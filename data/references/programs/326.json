@@ -1,0 +1,26 @@
+{
+  "id": "program-326",
+  "edeboId": 326,
+  "nameUk": "Високі технології (прикладна фізика та наноматеріали)",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-105"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "105",
+  "specialtyNameRaw": "Прикладна фізика та наноматеріали",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    175
+  ]
+}

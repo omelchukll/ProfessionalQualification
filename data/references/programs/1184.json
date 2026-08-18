@@ -1,0 +1,26 @@
+{
+  "id": "program-1184",
+  "edeboId": 1184,
+  "nameUk": "Системний аналіз",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-124"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "124",
+  "specialtyNameRaw": "Системний аналіз",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "csc",
+  "unitNameRaw": "Ф-т комп`ютерних наук та кібернетики",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    16
+  ]
+}

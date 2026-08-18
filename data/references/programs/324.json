@@ -1,0 +1,26 @@
+{
+  "id": "program-324",
+  "edeboId": 324,
+  "nameUk": "Високі технології (хімія та наноматеріали)",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-102"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "102",
+  "specialtyNameRaw": "Хімія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    176
+  ]
+}

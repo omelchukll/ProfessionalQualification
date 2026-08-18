@@ -1,0 +1,26 @@
+{
+  "id": "program-434",
+  "edeboId": 434,
+  "nameUk": "Комп’ютерні системи та мережі",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-123"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "123",
+  "specialtyNameRaw": "Комп`ютерна інженерія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "recs",
+  "unitNameRaw": "Ф-т радіофізики, електроніки та комп`ютерних систем",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    56
+  ]
+}

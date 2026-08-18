@@ -1,0 +1,26 @@
+{
+  "id": "program-1418",
+  "edeboId": 1418,
+  "nameUk": "Інженерія програмного забезпечення",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-121"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "121",
+  "specialtyNameRaw": "Інженерія програмного забезпечення",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "it",
+  "unitNameRaw": "Ф-т інформаційних технологій",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    76
+  ]
+}

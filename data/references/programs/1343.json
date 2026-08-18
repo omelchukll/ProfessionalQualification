@@ -1,0 +1,26 @@
+{
+  "id": "program-1343",
+  "edeboId": 1343,
+  "nameUk": "Математика",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-111"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "111",
+  "specialtyNameRaw": "Математика",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "mm",
+  "unitNameRaw": "Механіко-математичний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    24
+  ]
+}
