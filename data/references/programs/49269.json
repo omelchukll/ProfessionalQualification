@@ -1,0 +1,28 @@
+{
+  "id": "program-49269",
+  "edeboId": 49269,
+  "nameUk": "Германська філологія і переклад (шведська мова та англійська мова)",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.044"
+  ],
+  "specialtyCodeRaw": "035.044",
+  "specialtyNameRaw": "Філологія (германські мови та літератури (переклад включно), перша - шведська)",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "philology",
+  "unitNameRaw": "Інститут філології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    77
+  ]
+}

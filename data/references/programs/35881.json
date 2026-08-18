@@ -1,0 +1,26 @@
+{
+  "id": "program-35881",
+  "edeboId": 35881,
+  "nameUk": "Міжнародне право",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-293"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "293",
+  "specialtyNameRaw": "Міжнародне право",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Заочна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    90
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "program-23855",
+  "edeboId": 23855,
+  "nameUk": "Прикладна фізика, наноелектроніка та комп’ютерні технології",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-105"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "105",
+  "specialtyNameRaw": "Прикладна фізика та наноматеріали",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "recs",
+  "unitNameRaw": "Ф-т радіофізики, електроніки та комп`ютерних систем",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    155
+  ]
+}

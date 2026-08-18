@@ -1,0 +1,28 @@
+{
+  "id": "program-49268",
+  "edeboId": 49268,
+  "nameUk": "Міжкультурна германістика (німецька та англійська мови)",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-035"
+  ],
+  "specializationCodes": [
+    "035.043"
+  ],
+  "specialtyCodeRaw": "035.043",
+  "specialtyNameRaw": "035 Філологія 035.043 германські мови та літератури (переклад включно), перша - німецька",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    112
+  ]
+}

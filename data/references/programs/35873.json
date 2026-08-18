@@ -1,0 +1,26 @@
+{
+  "id": "program-35873",
+  "edeboId": 35873,
+  "nameUk": "Міжнародні комунікації (Міжнародна журналістика)",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-291"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "291",
+  "specialtyNameRaw": "291 Міжнародні відносини, суспільні комунікації та регіональні студії",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    38
+  ]
+}

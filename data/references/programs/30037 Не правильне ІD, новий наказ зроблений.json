@@ -1,0 +1,24 @@
+{
+  "id": "program-30037 Не правильне ІD, новий наказ зроблений",
+  "edeboId": "30037 Не правильне ІD, новий наказ зроблений",
+  "nameUk": "Інтелектуальна власність",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": null,
+  "specialtyIds": [],
+  "specializationCodes": [],
+  "specialtyCodeRaw": null,
+  "specialtyNameRaw": null,
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "law",
+  "unitNameRaw": "ННІП",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    63
+  ]
+}

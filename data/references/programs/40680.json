@@ -1,0 +1,26 @@
+{
+  "id": "program-40680",
+  "edeboId": 40680,
+  "nameUk": "Управління та екологія водних ресурсів",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-103"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "103",
+  "specialtyNameRaw": "Науки про Землю",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "geography",
+  "unitNameRaw": "Географічний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    113
+  ]
+}

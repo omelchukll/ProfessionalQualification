@@ -1,0 +1,26 @@
+{
+  "id": "program-35922",
+  "edeboId": 35922,
+  "nameUk": "Ландшафтний дизайн урбанізованого середовища",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-206"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "206",
+  "specialtyNameRaw": "Садово-паркове господарство",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "bm",
+  "unitNameRaw": "ННЦ \"Інститут біології та медицини\"",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    10
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "program-34636",
+  "edeboId": 34636,
+  "nameUk": "Європейське бізнесове право (мова навчання українська/англійська) / European Business Law",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-293"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "293",
+  "specialtyNameRaw": "Міжнародне право",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    53
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "program-40683",
+  "edeboId": 40683,
+  "nameUk": "Електроніка (високі технології)",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-171"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "171",
+  "specialtyNameRaw": "Електроніка",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    168
+  ]
+}

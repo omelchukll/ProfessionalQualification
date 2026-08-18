@@ -1,0 +1,27 @@
+{
+  "id": "program-26753",
+  "edeboId": 26753,
+  "nameUk": "Міжнародне публічне право",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-293"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "293",
+  "specialtyNameRaw": "Міжнародне право",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "ir",
+  "unitNameRaw": "Інститут міжнародних відносин",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    4,
+    132
+  ]
+}

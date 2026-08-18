@@ -1,0 +1,26 @@
+{
+  "id": "program-24708",
+  "edeboId": 24708,
+  "nameUk": "Музеєзнавство, пам`яткознавство",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-027"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "27",
+  "specialtyNameRaw": "Музеєзнавство, пам`яткознавство",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "history",
+  "unitNameRaw": "Історичний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    150
+  ]
+}

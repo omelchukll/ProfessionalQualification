@@ -1,0 +1,26 @@
+{
+  "id": "program-30428",
+  "edeboId": 30428,
+  "nameUk": "Історія України та культурна антропологія (з поглибленим вивченням іноземних мов)",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-032"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "32",
+  "specialtyNameRaw": "Історія та археологія",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "history",
+  "unitNameRaw": "Історичний ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    138
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "program-31595 Не правильне ID, за якою спеціальністю ця програма",
+  "edeboId": "31595 Не правильне ID, за якою спеціальністю ця програма",
+  "nameUk": "Українська філологія та західноєвропейська мова",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": null,
+  "specialtyIds": [],
+  "specializationCodes": [],
+  "specialtyCodeRaw": null,
+  "specialtyNameRaw": null,
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philology",
+  "unitNameRaw": "ННІФ",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    130
+  ]
+}

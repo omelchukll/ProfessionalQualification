@@ -1,0 +1,26 @@
+{
+  "id": "program-32342",
+  "edeboId": 32342,
+  "nameUk": "Політологія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-052"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "52",
+  "specialtyNameRaw": "Політологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": null,
+  "volumeAndDuration": null,
+  "unitId": "philosophy",
+  "unitNameRaw": "Філософський ф-т",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    33
+  ]
+}

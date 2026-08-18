@@ -1,0 +1,26 @@
+{
+  "id": "program-23857",
+  "edeboId": 23857,
+  "nameUk": "Еконофізика",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-105"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "105",
+  "specialtyNameRaw": "Прикладна фізика та наноматеріали",
+  "educationLevelId": "bachelor",
+  "educationLevelRaw": "Перший",
+  "degreeRaw": "Бакалавр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "recs",
+  "unitNameRaw": "Ф-т радіофізики, електроніки та комп`ютерних систем",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    156
+  ]
+}

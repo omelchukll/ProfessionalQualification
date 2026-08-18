@@ -1,0 +1,26 @@
+{
+  "id": "program-40583",
+  "edeboId": 40583,
+  "nameUk": "Біоінформатика і структурна біологія",
+  "programLabel": "ОНП",
+  "programType": "scientific",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-091"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "91",
+  "specialtyNameRaw": "Біологія та біохімія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "120 кредитів ЄКТС; 2 роки",
+  "unitId": "ht",
+  "unitNameRaw": "Інститут високих технологій",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    174
+  ]
+}

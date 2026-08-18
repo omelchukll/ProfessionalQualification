@@ -1,0 +1,26 @@
+{
+  "id": "program-24689",
+  "edeboId": 24689,
+  "nameUk": "Психологія дитинства і сім’ї з основами психотерапії",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-053"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "53",
+  "specialtyNameRaw": "Психологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Денна",
+  "volumeAndDuration": "240 кредитів ЄКТС; 4 роки",
+  "unitId": "psychology",
+  "unitNameRaw": "Ф-т психології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    180
+  ]
+}

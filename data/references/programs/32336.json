@@ -1,0 +1,26 @@
+{
+  "id": "program-32336",
+  "edeboId": 32336,
+  "nameUk": "Психологія",
+  "programLabel": "ОПП",
+  "programType": "professional",
+  "classifierId": "specialties-2015",
+  "specialtyIds": [
+    "2015-053"
+  ],
+  "specializationCodes": [],
+  "specialtyCodeRaw": "53",
+  "specialtyNameRaw": "Психологія",
+  "educationLevelId": "master",
+  "educationLevelRaw": "Другий",
+  "degreeRaw": "Магістр",
+  "studyForm": "Заочна",
+  "volumeAndDuration": "90 кредитів ЄКТС; 1,5 роки",
+  "unitId": "psychology",
+  "unitNameRaw": "Ф-т психології",
+  "status": "active",
+  "metadataOrigin": "direct",
+  "sourceRows": [
+    2
+  ]
+}
