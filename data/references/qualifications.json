@@ -1,0 +1,664 @@
+{
+  "schemaVersion": "1.0",
+  "source": {
+    "workbook": "Всі ОП_наказ (1)(1).xlsx",
+    "sheet": "Копія аркуша КНУТШ 1",
+    "column": "M",
+    "header": "Зареєстрована ПК"
+  },
+  "count": 104,
+  "qualifications": [
+    {
+      "id": "pq-0001",
+      "nameUk": "Актуарій",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0002",
+      "nameUk": "Аналітик даних",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0003",
+      "nameUk": "Аналітик напруження матеріалів",
+      "nameEn": "Material stress analyst",
+      "active": true
+    },
+    {
+      "id": "pq-0004",
+      "nameUk": "Археолог",
+      "nameEn": "Archaeologist",
+      "active": true
+    },
+    {
+      "id": "pq-0005",
+      "nameUk": "Асистент актуарія",
+      "nameEn": "Actuarial assistant",
+      "active": true
+    },
+    {
+      "id": "pq-0006",
+      "nameUk": "Асистент біолога",
+      "nameEn": "Biology technician",
+      "active": true,
+      "sourceVariants": [
+        "Асистент біолога",
+        "Асистент біолога / Biology technician"
+      ]
+    },
+    {
+      "id": "pq-0007",
+      "nameUk": "Асистент зі статистики",
+      "nameEn": "Statistical assistant",
+      "active": true
+    },
+    {
+      "id": "pq-0008",
+      "nameUk": "Ботанік",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0009",
+      "nameUk": "Бізнес менеджер",
+      "nameEn": "Business manager",
+      "active": true
+    },
+    {
+      "id": "pq-0010",
+      "nameUk": "Бізнес-аналітик",
+      "nameEn": "Business analyst",
+      "active": true
+    },
+    {
+      "id": "pq-0011",
+      "nameUk": "Біолог-дослідник",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0012",
+      "nameUk": "Біотехнолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0013",
+      "nameUk": "Біофізик",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0014",
+      "nameUk": "Біохімік",
+      "nameEn": "Biochemist",
+      "active": true,
+      "sourceVariants": [
+        "Біохімік",
+        "Біохімік / Biochemist"
+      ]
+    },
+    {
+      "id": "pq-0015",
+      "nameUk": "Вірусолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0016",
+      "nameUk": "Генетик",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0017",
+      "nameUk": "Географ-економіст",
+      "nameEn": "Economic geographer",
+      "active": true
+    },
+    {
+      "id": "pq-0018",
+      "nameUk": "Геолог",
+      "nameEn": "Geologist",
+      "active": true
+    },
+    {
+      "id": "pq-0019",
+      "nameUk": "Геофізик",
+      "nameEn": "Geophysicist",
+      "active": true
+    },
+    {
+      "id": "pq-0020",
+      "nameUk": "Гідрогеолог",
+      "nameEn": "Hydrogeologist",
+      "active": true
+    },
+    {
+      "id": "pq-0021",
+      "nameUk": "Гістолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0022",
+      "nameUk": "Дослідник-біоінформатик",
+      "nameEn": "Bioinformatics scientist",
+      "active": true
+    },
+    {
+      "id": "pq-0023",
+      "nameUk": "Економіст",
+      "nameEn": "Economist",
+      "active": true
+    },
+    {
+      "id": "pq-0024",
+      "nameUk": "Екскурсовод",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0025",
+      "nameUk": "Експерт з географічних інформаційних систем",
+      "nameEn": "Geographic information systems expert",
+      "active": true
+    },
+    {
+      "id": "pq-0026",
+      "nameUk": "Експерт із природних ресурсів",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0027",
+      "nameUk": "Експерт із суспільно-політичних питань",
+      "nameEn": null,
+      "active": true,
+      "sourceVariants": [
+        "Експерт із суспільно-політичних питань",
+        "Експерт із суспільно-політичних питань)"
+      ]
+    },
+    {
+      "id": "pq-0028",
+      "nameUk": "Ембріолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0029",
+      "nameUk": "Зоолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0030",
+      "nameUk": "Картограф",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0031",
+      "nameUk": "Консультант зі зв'язків з громадськістю",
+      "nameEn": "Public affairs consultant",
+      "active": true
+    },
+    {
+      "id": "pq-0032",
+      "nameUk": "Консультант із природнії ресурсів",
+      "nameEn": "Natural resources consultant",
+      "active": true
+    },
+    {
+      "id": "pq-0033",
+      "nameUk": "Координатор громадського мистецтва",
+      "nameEn": "Community arts project leader",
+      "active": true
+    },
+    {
+      "id": "pq-0034",
+      "nameUk": "Координатор екологічних програм",
+      "nameEn": "Environmental Programme Coordinator",
+      "active": true
+    },
+    {
+      "id": "pq-0035",
+      "nameUk": "Креативний менеджер",
+      "nameEn": "Creative manager",
+      "active": true
+    },
+    {
+      "id": "pq-0036",
+      "nameUk": "Критик",
+      "nameEn": "Critic",
+      "active": true
+    },
+    {
+      "id": "pq-0037",
+      "nameUk": "Куратор виставок",
+      "nameEn": "Exhibition curator",
+      "active": true
+    },
+    {
+      "id": "pq-0038",
+      "nameUk": "Кінооператор",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0039",
+      "nameUk": "Кінорежисер",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0040",
+      "nameUk": "Літературознавець",
+      "nameEn": "Literary scholar",
+      "active": true,
+      "sourceVariants": [
+        "Літературознавець / Literary schola r",
+        "Літературознавець / Literary scholar"
+      ]
+    },
+    {
+      "id": "pq-0041",
+      "nameUk": "Математик",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0042",
+      "nameUk": "Медіазнавець",
+      "nameEn": "Media scientist",
+      "active": true
+    },
+    {
+      "id": "pq-0043",
+      "nameUk": "Менеджер вебконтенту",
+      "nameEn": "Web content manager",
+      "active": true
+    },
+    {
+      "id": "pq-0044",
+      "nameUk": "Менеджер проєктів",
+      "nameEn": "Project manager",
+      "active": true
+    },
+    {
+      "id": "pq-0045",
+      "nameUk": "Мовознавець",
+      "nameEn": "Linguist",
+      "active": true
+    },
+    {
+      "id": "pq-0046",
+      "nameUk": "Молекулярний біолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0047",
+      "nameUk": "Музичний продюсер",
+      "nameEn": "Music producer",
+      "active": true
+    },
+    {
+      "id": "pq-0048",
+      "nameUk": "Мікробіолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0049",
+      "nameUk": "Науковець-картограф",
+      "nameEn": "Cartographic research scientist",
+      "active": true
+    },
+    {
+      "id": "pq-0050",
+      "nameUk": "Науковець-музеєзнавець",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0051",
+      "nameUk": "Науковець-історик",
+      "nameEn": "Historical scientist",
+      "active": true
+    },
+    {
+      "id": "pq-0052",
+      "nameUk": "Перекладач (мови відповідно до освітньої програми)",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0053",
+      "nameUk": "Перекладач (письмовий переклад)",
+      "nameEn": "Translator",
+      "active": true
+    },
+    {
+      "id": "pq-0054",
+      "nameUk": "Перекладач (письмовий переклад, мови відповідно до освітньої програми)",
+      "nameEn": "Translator",
+      "active": true
+    },
+    {
+      "id": "pq-0055",
+      "nameUk": "Перекладач (письмовий переклад, мови відповідно до совітньої програми)",
+      "nameEn": "Translator",
+      "active": true
+    },
+    {
+      "id": "pq-0056",
+      "nameUk": "Перекладач (письмовий переклад, українська - англійська мови)",
+      "nameEn": "Translator (Ukrainian - English languages)",
+      "active": true
+    },
+    {
+      "id": "pq-0057",
+      "nameUk": "Перекладач (письмовий переклад, українська - новогрецька мови)",
+      "nameEn": "Translator (Ukrainian — Modern Greek languages)",
+      "active": true
+    },
+    {
+      "id": "pq-0058",
+      "nameUk": "Планувальник міст",
+      "nameEn": "Urban planner",
+      "active": true
+    },
+    {
+      "id": "pq-0059",
+      "nameUk": "Політичний аналітик",
+      "nameEn": "Political analyst",
+      "active": true
+    },
+    {
+      "id": "pq-0060",
+      "nameUk": "Прессекретар",
+      "nameEn": "Spokesperson",
+      "active": true
+    },
+    {
+      "id": "pq-0061",
+      "nameUk": "Природоохоронник-дослідник",
+      "nameEn": "Conservation scientist",
+      "active": true
+    },
+    {
+      "id": "pq-0062",
+      "nameUk": "Продюсер",
+      "nameEn": "Producer",
+      "active": true
+    },
+    {
+      "id": "pq-0063",
+      "nameUk": "Психолог",
+      "nameEn": "Psychologist",
+      "active": true,
+      "sourceVariants": [
+        "Психолог / Psychologist",
+        "Психолог"
+      ]
+    },
+    {
+      "id": "pq-0064",
+      "nameUk": "Радник з економічних питань",
+      "nameEn": "Economic Adviser",
+      "active": true
+    },
+    {
+      "id": "pq-0065",
+      "nameUk": "Редактор літературний",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0066",
+      "nameUk": "Редактор науковий",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0067",
+      "nameUk": "Режисер відео та кіно",
+      "nameEn": "Video and motion picture director",
+      "active": true
+    },
+    {
+      "id": "pq-0068",
+      "nameUk": "Розробник програмного забезпечення",
+      "nameEn": "Software Developer",
+      "active": true
+    },
+    {
+      "id": "pq-0069",
+      "nameUk": "Розробник штучного інтелекту",
+      "nameEn": "Artificial Intelligence Designer",
+      "active": true
+    },
+    {
+      "id": "pq-0070",
+      "nameUk": "Соціолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0071",
+      "nameUk": "Спеціаліст з комунікацій",
+      "nameEn": "Communications officer",
+      "active": true
+    },
+    {
+      "id": "pq-0072",
+      "nameUk": "Спеціаліст зі зв’язків з громадськістю",
+      "nameEn": "Public relations officer",
+      "active": true,
+      "sourceVariants": [
+        "Спеціаліст зі зв’язків з громадськістю / Public relations officer",
+        "Спеціаліст зі зв'язків з громадськістю / Public relations officer"
+      ]
+    },
+    {
+      "id": "pq-0073",
+      "nameUk": "Спічрайтер",
+      "nameEn": "Speechwriter",
+      "active": true
+    },
+    {
+      "id": "pq-0074",
+      "nameUk": "Статистик",
+      "nameEn": "Statistician",
+      "active": true
+    },
+    {
+      "id": "pq-0075",
+      "nameUk": "Технік-конструктор (електроніка)",
+      "nameEn": "Electronics engineering technician",
+      "active": true
+    },
+    {
+      "id": "pq-0076",
+      "nameUk": "Технік-метеоролог",
+      "nameEn": "Meteorology technician",
+      "active": true
+    },
+    {
+      "id": "pq-0077",
+      "nameUk": "Технік-фізик",
+      "nameEn": "Physics Technician",
+      "active": true
+    },
+    {
+      "id": "pq-0078",
+      "nameUk": "Усний перекладач",
+      "nameEn": "Interpreter",
+      "active": true
+    },
+    {
+      "id": "pq-0079",
+      "nameUk": "Усний перекладач (мови відповідно до освітньої програми)",
+      "nameEn": "Interpreter",
+      "active": true
+    },
+    {
+      "id": "pq-0080",
+      "nameUk": "Усний перекладач (українська-китайська мови)",
+      "nameEn": "Interpreter (Ukrainian — Chinese languages)",
+      "active": true
+    },
+    {
+      "id": "pq-0081",
+      "nameUk": "Фахівець електронних комунікацій",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0082",
+      "nameUk": "Фахівець з аналізу якості води",
+      "nameEn": "Water quality analyst",
+      "active": true
+    },
+    {
+      "id": "pq-0083",
+      "nameUk": "Фахівець з біотехнології",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0084",
+      "nameUk": "Фахівець з видавничо-поліграфічного виробництва",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0085",
+      "nameUk": "Фахівець з географічних інформаційних систем",
+      "nameEn": "Geographic information systems specialist",
+      "active": true
+    },
+    {
+      "id": "pq-0086",
+      "nameUk": "Фахівець з геоінформаційних систем",
+      "nameEn": "Geographic information systems specialist",
+      "active": true
+    },
+    {
+      "id": "pq-0087",
+      "nameUk": "Фахівець з економічної політики",
+      "nameEn": "Economic policy officer",
+      "active": true
+    },
+    {
+      "id": "pq-0088",
+      "nameUk": "Фахівець з ландшафтного дизайну",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0089",
+      "nameUk": "Фахівець з міжнародних відносин",
+      "nameEn": "International relations officer",
+      "active": true
+    },
+    {
+      "id": "pq-0090",
+      "nameUk": "Фахівець з інформаційних технологій",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0091",
+      "nameUk": "Фахівець садово-паркового господарства",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0092",
+      "nameUk": "Фахівець із закордонних справ",
+      "nameEn": "Foreign Affairs Officer",
+      "active": true,
+      "sourceVariants": [
+        "Фахівець із закордонних справ / Foreign Affairs Officer",
+        "Фахівець із закордонних справ / Foreign affairs officer"
+      ]
+    },
+    {
+      "id": "pq-0093",
+      "nameUk": "Фізик",
+      "nameEn": "Physicist",
+      "active": true
+    },
+    {
+      "id": "pq-0094",
+      "nameUk": "Фізіолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0095",
+      "nameUk": "Фінансовий аналітик",
+      "nameEn": "Financial Analyst",
+      "active": true
+    },
+    {
+      "id": "pq-0096",
+      "nameUk": "Хімік",
+      "nameEn": "Chemist",
+      "active": true
+    },
+    {
+      "id": "pq-0097",
+      "nameUk": "Юрисконсульт (радник юридичний)",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0098",
+      "nameUk": "Юрислінгвіст",
+      "nameEn": "Lawyer linguist",
+      "active": true
+    },
+    {
+      "id": "pq-0099",
+      "nameUk": "Юрист-міжнародник",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0100",
+      "nameUk": "Імунолог",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0101",
+      "nameUk": "Інженер",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0102",
+      "nameUk": "Інженер-дослідник",
+      "nameEn": null,
+      "active": true
+    },
+    {
+      "id": "pq-0103",
+      "nameUk": "Інженер-лінгвіст",
+      "nameEn": "Language Engineer",
+      "active": true
+    },
+    {
+      "id": "pq-0104",
+      "nameUk": "Історик",
+      "nameEn": "Historian",
+      "active": true
+    }
+  ]
+}

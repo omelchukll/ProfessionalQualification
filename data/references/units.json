@@ -1,0 +1,209 @@
+[
+  {
+    "id": "geography",
+    "type": "faculty",
+    "nameUk": "Географічний факультет",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/geography/",
+    "active": true,
+    "order": 1
+  },
+  {
+    "id": "economics",
+    "type": "faculty",
+    "nameUk": "Економічний факультет",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/economics/",
+    "active": true,
+    "order": 2
+  },
+  {
+    "id": "history",
+    "type": "faculty",
+    "nameUk": "Історичний факультет",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/history/",
+    "active": true,
+    "order": 3
+  },
+  {
+    "id": "mm",
+    "type": "faculty",
+    "nameUk": "Механіко-математичний факультет",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/mm/",
+    "active": true,
+    "order": 4
+  },
+  {
+    "id": "it",
+    "type": "faculty",
+    "nameUk": "Факультет інформаційних технологій",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/it/",
+    "active": true,
+    "order": 5
+  },
+  {
+    "id": "csc",
+    "type": "faculty",
+    "nameUk": "Факультет комп'ютерних наук та кібернетики",
+    "shortNameUk": "ФКНК",
+    "url": "https://knu.ua/ua/departments/csc/",
+    "active": true,
+    "order": 6
+  },
+  {
+    "id": "psychology",
+    "type": "faculty",
+    "nameUk": "Факультет психології",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/psychology/",
+    "active": true,
+    "order": 7
+  },
+  {
+    "id": "recs",
+    "type": "faculty",
+    "nameUk": "Факультет радіофізики, електроніки та комп’ютерних систем",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/recs/",
+    "active": true,
+    "order": 8
+  },
+  {
+    "id": "sociology",
+    "type": "faculty",
+    "nameUk": "Факультет соціології",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/sociology/",
+    "active": true,
+    "order": 9
+  },
+  {
+    "id": "physics",
+    "type": "faculty",
+    "nameUk": "Фізичний факультет",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/physics/",
+    "active": true,
+    "order": 10
+  },
+  {
+    "id": "philosophy",
+    "type": "faculty",
+    "nameUk": "Філософський факультет",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/philosophy/",
+    "active": true,
+    "order": 11
+  },
+  {
+    "id": "chemistry",
+    "type": "faculty",
+    "nameUk": "Хімічний факультет",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/chemistry/",
+    "active": true,
+    "order": 12
+  },
+  {
+    "id": "military",
+    "type": "institute",
+    "nameUk": "Військовий інститут",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/military/",
+    "active": true,
+    "order": 13
+  },
+  {
+    "id": "ce",
+    "type": "institute",
+    "nameUk": "Інститут післядипломної освіти",
+    "shortNameUk": "ІПО",
+    "url": "https://knu.ua/ua/departments/ce/",
+    "active": true,
+    "order": 14
+  },
+  {
+    "id": "msgu",
+    "type": "institute",
+    "nameUk": "Інститут Управління державної охорони України",
+    "shortNameUk": null,
+    "url": "https://knu.ua/ua/departments/msgu/",
+    "active": true,
+    "order": 15
+  },
+  {
+    "id": "ht",
+    "type": "institute",
+    "nameUk": "Навчально-науковий інститут високих технологій",
+    "shortNameUk": "ННІВТ",
+    "url": "https://knu.ua/ua/departments/ht/",
+    "active": true,
+    "order": 16
+  },
+  {
+    "id": "geology",
+    "type": "institute",
+    "nameUk": "Навчально-науковий інститут «Інститут геології»",
+    "shortNameUk": "ННІ «Інститут геології»",
+    "url": "https://knu.ua/ua/departments/geology/",
+    "active": true,
+    "order": 17
+  },
+  {
+    "id": "journalism",
+    "type": "institute",
+    "nameUk": "Навчально-науковий інститут журналістики",
+    "shortNameUk": "ННІ журналістики",
+    "url": "https://knu.ua/ua/departments/journalism/",
+    "active": true,
+    "order": 18
+  },
+  {
+    "id": "ir",
+    "type": "institute",
+    "nameUk": "Навчально-науковий інститут міжнародних відносин",
+    "shortNameUk": "ННІ міжнародних відносин",
+    "url": "https://knu.ua/ua/departments/ir/",
+    "active": true,
+    "order": 19
+  },
+  {
+    "id": "law",
+    "type": "institute",
+    "nameUk": "Навчально-науковий інститут права",
+    "shortNameUk": "ННІ права",
+    "url": "https://knu.ua/ua/departments/law/",
+    "active": true,
+    "order": 20
+  },
+  {
+    "id": "philology",
+    "type": "institute",
+    "nameUk": "Навчально-науковий інститут філології",
+    "shortNameUk": "ННІ філології",
+    "url": "https://knu.ua/ua/departments/philology/",
+    "active": true,
+    "order": 21
+  },
+  {
+    "id": "ipacs",
+    "type": "institute",
+    "nameUk": "Навчально-науковий інститут публічного управління та державної служби",
+    "shortNameUk": "ННІ ПУДС",
+    "url": "https://knu.ua/ua/departments/ipacs/",
+    "active": true,
+    "order": 22
+  },
+  {
+    "id": "bm",
+    "type": "institute",
+    "nameUk": "Навчально-науковий центр «Інститут біології та медицини»",
+    "shortNameUk": "ННЦ «Інститут біології та медицини»",
+    "url": "https://knu.ua/ua/departments/bm/",
+    "active": true,
+    "order": 23
+  }
+]

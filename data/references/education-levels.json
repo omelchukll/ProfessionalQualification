@@ -1,0 +1,29 @@
+[
+  {
+    "id": "bachelor",
+    "code": "BACHELOR",
+    "nameUk": "Бакалавр",
+    "nameEn": "Bachelor",
+    "degree": "bachelor",
+    "order": 1,
+    "active": true
+  },
+  {
+    "id": "master",
+    "code": "MASTER",
+    "nameUk": "Магістр",
+    "nameEn": "Master",
+    "degree": "master",
+    "order": 2,
+    "active": true
+  },
+  {
+    "id": "phd",
+    "code": "PHD",
+    "nameUk": "Доктор філософії",
+    "nameEn": "Doctor of Philosophy",
+    "degree": "phd",
+    "order": 3,
+    "active": true
+  }
+]
