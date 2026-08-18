@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-68914-pq-0090",
+      "qualificationId": "pq-0090",
+      "relationType": "extended",
+      "sourceProgramId": "program-18905",
+      "sourceRelationId": "rel-18905-pq-0090",
+      "extension": {
+        "order": {
+          "number": "894-32",
+          "date": "2026-07-15",
+          "raw": "894-32 від 15.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 26,
+      "sourceQualificationText": "Фахівець з інформаційних технологій"
+    }
+  ],
+  "programId": "program-68914",
+  "edeboId": 68914,
+  "sourceRows": [
+    26
+  ]
+}

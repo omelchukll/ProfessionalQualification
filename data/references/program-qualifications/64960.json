@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-64960-pq-0102",
+      "qualificationId": "pq-0102",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1330-32",
+          "date": "2025-12-30",
+          "raw": "1330-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": "Не акредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 178,
+      "sourceQualificationText": "Інженер-дослідник"
+    }
+  ],
+  "programId": "program-64960",
+  "edeboId": 64960,
+  "sourceRows": [
+    178
+  ]
+}

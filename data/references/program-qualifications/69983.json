@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69983-pq-0102",
+      "qualificationId": "pq-0102",
+      "relationType": "extended",
+      "sourceProgramId": "program-59117",
+      "sourceRelationId": "rel-59117-pq-0102",
+      "extension": {
+        "order": {
+          "number": "891-32",
+          "date": "2026-07-14",
+          "raw": "891-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 157,
+      "sourceQualificationText": "Інженер-дослідник"
+    }
+  ],
+  "programId": "program-69983",
+  "edeboId": 69983,
+  "sourceRows": [
+    157
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69771-pq-0061",
+      "qualificationId": "pq-0061",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1281-32",
+          "date": "2025-12-26",
+          "raw": "1281-32 від 26.12.2025"
+        },
+        "nakDecisionOrCertificate": "11223 -це за старою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 162,
+      "sourceQualificationText": "Природоохоронник-дослідник / Conservation scientist"
+    }
+  ],
+  "programId": "program-69771",
+  "edeboId": 69771,
+  "sourceRows": [
+    162
+  ]
+}

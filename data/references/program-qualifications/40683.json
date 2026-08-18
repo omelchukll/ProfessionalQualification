@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-40683-pq-0075",
+      "qualificationId": "pq-0075",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1301-32",
+          "date": "2025-12-29",
+          "raw": "1301-32 від 29.12.2025"
+        },
+        "nakDecisionOrCertificate": 11243
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 168,
+      "sourceQualificationText": "Технік-конструктор (електроніка) / Electronics engineering technician"
+    }
+  ],
+  "programId": "program-40683",
+  "edeboId": 40683,
+  "sourceRows": [
+    168
+  ]
+}

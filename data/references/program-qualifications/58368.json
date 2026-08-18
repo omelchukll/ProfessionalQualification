@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-58368-pq-0006",
+      "qualificationId": "pq-0006",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1161-32",
+          "date": "2025-12-19",
+          "raw": "1161-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": null
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 75,
+      "sourceQualificationText": "Асистент біолога"
+    }
+  ],
+  "programId": "program-58368",
+  "edeboId": 58368,
+  "sourceRows": [
+    75
+  ]
+}

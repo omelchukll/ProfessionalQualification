@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69917-pq-0078",
+      "qualificationId": "pq-0078",
+      "relationType": "extended",
+      "sourceProgramId": "program-20821",
+      "sourceRelationId": "rel-20821-pq-0078",
+      "extension": {
+        "order": {
+          "number": "845-32",
+          "date": "2026-07-14",
+          "raw": "845-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 95,
+      "sourceQualificationText": "Усний перекладач / Interpreter"
+    },
+    {
+      "id": "rel-69917-pq-0099",
+      "qualificationId": "pq-0099",
+      "relationType": "extended",
+      "sourceProgramId": "program-20821",
+      "sourceRelationId": "rel-20821-pq-0099",
+      "extension": {
+        "order": {
+          "number": "845-32",
+          "date": "2026-07-14",
+          "raw": "845-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 95,
+      "sourceQualificationText": "Юрист-міжнародник"
+    }
+  ],
+  "programId": "program-69917",
+  "edeboId": 69917,
+  "sourceRows": [
+    95
+  ]
+}

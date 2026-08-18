@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-68925-pq-0054",
+      "qualificationId": "pq-0054",
+      "relationType": "extended",
+      "sourceProgramId": "program-40185",
+      "sourceRelationId": "rel-40185-pq-0054",
+      "extension": {
+        "order": {
+          "number": "843-32",
+          "date": "2026-07-14",
+          "raw": "843-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 48,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до освітньої програми) / Translator"
+    },
+    {
+      "id": "rel-68925-pq-0089",
+      "qualificationId": "pq-0089",
+      "relationType": "extended",
+      "sourceProgramId": "program-40185",
+      "sourceRelationId": "rel-40185-pq-0089",
+      "extension": {
+        "order": {
+          "number": "843-32",
+          "date": "2026-07-14",
+          "raw": "843-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 48,
+      "sourceQualificationText": "Фахівець з міжнародних відносин / International relations officer"
+    }
+  ],
+  "programId": "program-68925",
+  "edeboId": 68925,
+  "sourceRows": [
+    48
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69832-pq-0001",
+      "qualificationId": "pq-0001",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1263-32",
+          "date": "2025-12-25",
+          "raw": "1263-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": 15861
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 149,
+      "sourceQualificationText": "Актуарій"
+    },
+    {
+      "id": "rel-69832-pq-0002",
+      "qualificationId": "pq-0002",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1263-32",
+          "date": "2025-12-25",
+          "raw": "1263-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": 15861
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 149,
+      "sourceQualificationText": "Аналітик даних"
+    },
+    {
+      "id": "rel-69832-pq-0074",
+      "qualificationId": "pq-0074",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1263-32",
+          "date": "2025-12-25",
+          "raw": "1263-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": 15861
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 149,
+      "sourceQualificationText": "Статистик / Statistician"
+    }
+  ],
+  "programId": "program-69832",
+  "edeboId": 69832,
+  "sourceRows": [
+    149
+  ]
+}

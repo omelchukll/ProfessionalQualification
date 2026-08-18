@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-76122-pq-0088",
+      "qualificationId": "pq-0088",
+      "relationType": "extended",
+      "sourceProgramId": "program-35922",
+      "sourceRelationId": "rel-35922-pq-0088",
+      "extension": {
+        "order": null
+      },
+      "status": "active",
+      "sourceRow": 10,
+      "sourceQualificationText": "Фахівець з ландшафтного дизайну"
+    }
+  ],
+  "programId": "program-76122",
+  "edeboId": 76122,
+  "sourceRows": [
+    10
+  ]
+}

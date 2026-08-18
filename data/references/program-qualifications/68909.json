@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-68909-pq-0104",
+      "qualificationId": "pq-0104",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1265-32",
+          "date": "2025-12-25",
+          "raw": "1265-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": "5860 це за старою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 147,
+      "sourceQualificationText": "Історик / Historian"
+    }
+  ],
+  "programId": "program-68909",
+  "edeboId": 68909,
+  "sourceRows": [
+    147
+  ]
+}

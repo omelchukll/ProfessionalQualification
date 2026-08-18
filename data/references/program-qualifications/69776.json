@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69776-pq-0044",
+      "qualificationId": "pq-0044",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1168-32",
+          "date": "2025-12-19",
+          "raw": "1168-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 18360
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 82,
+      "sourceQualificationText": "Менеджер проєктів / Project manager"
+    }
+  ],
+  "programId": "program-69776",
+  "edeboId": 69776,
+  "sourceRows": [
+    82
+  ]
+}

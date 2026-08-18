@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-50564-pq-0010",
+      "qualificationId": "pq-0010",
+      "relationType": "approved",
+      "approval": {
+        "order": null,
+        "nakDecisionOrCertificate": 3614
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 40,
+      "sourceQualificationText": "Бізнес-аналітик / Business analyst"
+    }
+  ],
+  "programId": "program-50564",
+  "edeboId": 50564,
+  "sourceRows": [
+    40
+  ]
+}

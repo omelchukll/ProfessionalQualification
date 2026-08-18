@@ -1,0 +1,60 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69903-pq-0027",
+      "qualificationId": "pq-0027",
+      "relationType": "extended",
+      "sourceProgramId": "program-20809",
+      "sourceRelationId": "rel-20809-pq-0027",
+      "extension": {
+        "order": {
+          "number": "927-32",
+          "date": "2026-07-27",
+          "raw": "927-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 49,
+      "sourceQualificationText": "Експерт із суспільно-політичних питань"
+    },
+    {
+      "id": "rel-69903-pq-0071",
+      "qualificationId": "pq-0071",
+      "relationType": "extended",
+      "sourceProgramId": "program-20809",
+      "sourceRelationId": "rel-20809-pq-0071",
+      "extension": {
+        "order": {
+          "number": "927-32",
+          "date": "2026-07-27",
+          "raw": "927-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 49,
+      "sourceQualificationText": "Спеціаліст з комунікацій / Communications officer"
+    },
+    {
+      "id": "rel-69903-pq-0078",
+      "qualificationId": "pq-0078",
+      "relationType": "extended",
+      "sourceProgramId": "program-20809",
+      "sourceRelationId": "rel-20809-pq-0078",
+      "extension": {
+        "order": {
+          "number": "927-32",
+          "date": "2026-07-27",
+          "raw": "927-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 49,
+      "sourceQualificationText": "Усний перекладач / Interpreter"
+    }
+  ],
+  "programId": "program-69903",
+  "edeboId": 69903,
+  "sourceRows": [
+    49
+  ]
+}

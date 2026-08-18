@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-53169-pq-0057",
+      "qualificationId": "pq-0057",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1048-32",
+          "date": "2025-12-09",
+          "raw": "1048-32 від 09.12.2025"
+        },
+        "nakDecisionOrCertificate": 6853
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 9,
+      "sourceQualificationText": "Перекладач (письмовий переклад, українська - новогрецька мови) / Translator (Ukrainian — Modern Greek languages)"
+    }
+  ],
+  "programId": "program-53169",
+  "edeboId": 53169,
+  "sourceRows": [
+    9
+  ]
+}

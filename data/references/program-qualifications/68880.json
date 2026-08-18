@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-68880-pq-0076",
+      "qualificationId": "pq-0076",
+      "relationType": "extended",
+      "sourceProgramId": "program-2183",
+      "sourceRelationId": "rel-2183-pq-0076",
+      "extension": {
+        "order": {
+          "number": "893-32",
+          "date": "2026-07-15",
+          "raw": "893-32 від 15.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 128,
+      "sourceQualificationText": "Технік-метеоролог / Meteorology technician"
+    }
+  ],
+  "programId": "program-68880",
+  "edeboId": 68880,
+  "sourceRows": [
+    128
+  ]
+}

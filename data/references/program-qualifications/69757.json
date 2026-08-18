@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69757-pq-0068",
+      "qualificationId": "pq-0068",
+      "relationType": "extended",
+      "sourceProgramId": "program-21263",
+      "sourceRelationId": "rel-21263-pq-0068",
+      "extension": {
+        "order": {
+          "number": "687-32",
+          "date": "2026-06-15",
+          "raw": "687-32 від 15.06.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 126,
+      "sourceQualificationText": "Розробник програмного забезпечення / Software Developer"
+    }
+  ],
+  "programId": "program-69757",
+  "edeboId": 69757,
+  "sourceRows": [
+    126
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-40757-pq-0072",
+      "qualificationId": "pq-0072",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1029-32",
+          "date": "2025-12-05",
+          "raw": "1029-32 від 05.12.2025"
+        },
+        "nakDecisionOrCertificate": 4990
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 3,
+      "sourceQualificationText": "Спеціаліст зі зв’язків з громадськістю / Public relations officer"
+    }
+  ],
+  "programId": "program-40757",
+  "edeboId": 40757,
+  "sourceRows": [
+    3
+  ]
+}

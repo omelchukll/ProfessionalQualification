@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-32336-pq-0063",
+      "qualificationId": "pq-0063",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1028-32",
+          "date": "2025-12-05",
+          "raw": "1028-32 від 05.12.2025"
+        },
+        "nakDecisionOrCertificate": 2543
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 2,
+      "sourceQualificationText": "Психолог / Psychologist"
+    }
+  ],
+  "programId": "program-32336",
+  "edeboId": 32336,
+  "sourceRows": [
+    2
+  ]
+}

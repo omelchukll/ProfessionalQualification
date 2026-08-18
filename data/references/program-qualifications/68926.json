@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-68926-pq-0054",
+      "qualificationId": "pq-0054",
+      "relationType": "extended",
+      "sourceProgramId": "program-20797",
+      "sourceRelationId": "rel-20797-pq-0054",
+      "extension": {
+        "order": {
+          "number": "926-32",
+          "date": "2026-07-27",
+          "raw": "926-32 від 27.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 96,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до освітньої програми) / Translator"
+    }
+  ],
+  "programId": "program-68926",
+  "edeboId": 68926,
+  "sourceRows": [
+    96
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-68924-pq-0042",
+      "qualificationId": "pq-0042",
+      "relationType": "extended",
+      "sourceProgramId": "program-31374",
+      "sourceRelationId": "rel-31374-pq-0042",
+      "extension": {
+        "order": {
+          "number": "841-32",
+          "date": "2026-07-14",
+          "raw": "841-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 37,
+      "sourceQualificationText": "Медіазнавець / Media scientist"
+    },
+    {
+      "id": "rel-68924-pq-0053",
+      "qualificationId": "pq-0053",
+      "relationType": "extended",
+      "sourceProgramId": "program-31374",
+      "sourceRelationId": "rel-31374-pq-0053",
+      "extension": {
+        "order": {
+          "number": "841-32",
+          "date": "2026-07-14",
+          "raw": "841-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 37,
+      "sourceQualificationText": "Перекладач (письмовий переклад) / Translator"
+    },
+    {
+      "id": "rel-68924-pq-0071",
+      "qualificationId": "pq-0071",
+      "relationType": "extended",
+      "sourceProgramId": "program-31374",
+      "sourceRelationId": "rel-31374-pq-0071",
+      "extension": {
+        "order": {
+          "number": "841-32",
+          "date": "2026-07-14",
+          "raw": "841-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 37,
+      "sourceQualificationText": "Спеціаліст з комунікацій / Communications officer"
+    }
+  ],
+  "programId": "program-68924",
+  "edeboId": 68924,
+  "sourceRows": [
+    37
+  ]
+}

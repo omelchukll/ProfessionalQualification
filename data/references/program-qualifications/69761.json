@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69761-pq-0077",
+      "qualificationId": "pq-0077",
+      "relationType": "extended",
+      "sourceProgramId": "program-30758",
+      "sourceRelationId": "rel-30758-pq-0077",
+      "extension": {
+        "order": null
+      },
+      "status": "active",
+      "sourceRow": 179,
+      "sourceQualificationText": "Технік-фізик / Physics Technician"
+    }
+  ],
+  "programId": "program-69761",
+  "edeboId": 69761,
+  "sourceRows": [
+    179
+  ]
+}

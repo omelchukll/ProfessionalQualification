@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-35873-pq-0031",
+      "qualificationId": "pq-0031",
+      "relationType": "approved",
+      "approval": {
+        "order": null,
+        "nakDecisionOrCertificate": 2762
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 38,
+      "sourceQualificationText": "Консультант зі зв'язків з громадськістю / Public affairs consultant"
+    }
+  ],
+  "programId": "program-35873",
+  "edeboId": 35873,
+  "sourceRows": [
+    38
+  ]
+}

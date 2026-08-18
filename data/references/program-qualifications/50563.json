@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-50563-pq-0064",
+      "qualificationId": "pq-0064",
+      "relationType": "approved",
+      "approval": {
+        "order": null,
+        "nakDecisionOrCertificate": 9007
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 185,
+      "sourceQualificationText": "Радник з економічних питань / Economic Adviser"
+    }
+  ],
+  "programId": "program-50563",
+  "edeboId": 50563,
+  "sourceRows": [
+    185
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-74949-pq-0099",
+      "qualificationId": "pq-0099",
+      "relationType": "extended",
+      "sourceProgramId": "program-26753",
+      "sourceRelationId": "rel-26753-pq-0099",
+      "extension": {
+        "order": {
+          "number": "850-32",
+          "date": "2026-07-14",
+          "raw": "850-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 132,
+      "sourceQualificationText": "Юрист-міжнародник"
+    }
+  ],
+  "programId": "program-74949",
+  "edeboId": 74949,
+  "sourceRows": [
+    132
+  ]
+}

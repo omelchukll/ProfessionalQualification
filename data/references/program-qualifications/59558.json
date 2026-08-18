@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-59558-pq-0006",
+      "qualificationId": "pq-0006",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1312-32",
+          "date": "2025-12-29",
+          "raw": "1312-32 від 29.12.2025"
+        },
+        "nakDecisionOrCertificate": "3906 - це за старою спеціальністю"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 177,
+      "sourceQualificationText": "Асистент біолога / Biology technician"
+    }
+  ],
+  "programId": "program-59558",
+  "edeboId": 59558,
+  "sourceRows": [
+    177
+  ]
+}

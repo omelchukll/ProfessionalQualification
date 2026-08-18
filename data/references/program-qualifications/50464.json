@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-50464-pq-0097",
+      "qualificationId": "pq-0097",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1112-32",
+          "date": "2025-12-16",
+          "raw": "1112-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 4241
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 36,
+      "sourceQualificationText": "Юрисконсульт (радник юридичний)"
+    }
+  ],
+  "programId": "program-50464",
+  "edeboId": 50464,
+  "sourceRows": [
+    36
+  ]
+}

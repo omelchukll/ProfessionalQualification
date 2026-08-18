@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-34636-pq-0078",
+      "qualificationId": "pq-0078",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1308-32",
+          "date": "2025-12-29",
+          "raw": "1308-32 від 29.12.2025"
+        },
+        "nakDecisionOrCertificate": 1182
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 53,
+      "sourceQualificationText": "Усний перекладач / Interpreter"
+    },
+    {
+      "id": "rel-34636-pq-0099",
+      "qualificationId": "pq-0099",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1308-32",
+          "date": "2025-12-29",
+          "raw": "1308-32 від 29.12.2025"
+        },
+        "nakDecisionOrCertificate": 1182
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 53,
+      "sourceQualificationText": "Юрист-міжнародник"
+    }
+  ],
+  "programId": "program-34636",
+  "edeboId": 34636,
+  "sourceRows": [
+    53
+  ]
+}

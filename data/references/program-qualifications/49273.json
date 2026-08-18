@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-49273-pq-0045",
+      "qualificationId": "pq-0045",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1124-32",
+          "date": "2025-12-17",
+          "raw": "1124-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": "4447 - це сертифікат Інтелектуальна власність"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 46,
+      "sourceQualificationText": "Мовознавець / Linguist"
+    },
+    {
+      "id": "rel-49273-pq-0052",
+      "qualificationId": "pq-0052",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1124-32",
+          "date": "2025-12-17",
+          "raw": "1124-32 від 17.12.2025"
+        },
+        "nakDecisionOrCertificate": "4447 - це сертифікат Інтелектуальна власність"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 46,
+      "sourceQualificationText": "Перекладач (мови відповідно до освітньої програми)"
+    }
+  ],
+  "programId": "program-49273",
+  "edeboId": 49273,
+  "sourceRows": [
+    46
+  ]
+}

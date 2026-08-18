@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69986-pq-0096",
+      "qualificationId": "pq-0096",
+      "relationType": "extended",
+      "sourceProgramId": "program-64914",
+      "sourceRelationId": "rel-64914-pq-0096",
+      "extension": {
+        "order": {
+          "number": "878-32",
+          "date": "2026-07-14",
+          "raw": "878-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 120,
+      "sourceQualificationText": "Хімік / Chemist"
+    }
+  ],
+  "programId": "program-69986",
+  "edeboId": 69986,
+  "sourceRows": [
+    120
+  ]
+}

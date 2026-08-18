@@ -1,0 +1,60 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-31374-pq-0042",
+      "qualificationId": "pq-0042",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1113-32",
+          "date": "2025-12-16",
+          "raw": "1113-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 3832
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 37,
+      "sourceQualificationText": "Медіазнавець / Media scientist"
+    },
+    {
+      "id": "rel-31374-pq-0053",
+      "qualificationId": "pq-0053",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1113-32",
+          "date": "2025-12-16",
+          "raw": "1113-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 3832
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 37,
+      "sourceQualificationText": "Перекладач (письмовий переклад) / Translator"
+    },
+    {
+      "id": "rel-31374-pq-0071",
+      "qualificationId": "pq-0071",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1113-32",
+          "date": "2025-12-16",
+          "raw": "1113-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 3832
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 37,
+      "sourceQualificationText": "Спеціаліст з комунікацій / Communications officer"
+    }
+  ],
+  "programId": "program-31374",
+  "edeboId": 31374,
+  "sourceRows": [
+    37
+  ]
+}

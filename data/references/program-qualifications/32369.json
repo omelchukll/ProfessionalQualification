@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-32369-pq-0051",
+      "qualificationId": "pq-0051",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1336-32",
+          "date": "2025-12-30",
+          "raw": "1336-32 від 30.12.2025, внесено зміни, наказ № 19-32 від 13.01.206"
+        },
+        "nakDecisionOrCertificate": 8104
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 183,
+      "sourceQualificationText": "Науковець-історик / Historical scientist"
+    }
+  ],
+  "programId": "program-32369",
+  "edeboId": 32369,
+  "sourceRows": [
+    183
+  ]
+}

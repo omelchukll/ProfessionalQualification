@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69818-pq-0004",
+      "qualificationId": "pq-0004",
+      "relationType": "extended",
+      "sourceProgramId": "program-1481",
+      "sourceRelationId": "rel-1481-pq-0004",
+      "extension": {
+        "order": {
+          "number": "885-32",
+          "date": "2026-07-14",
+          "raw": "885-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 137,
+      "sourceQualificationText": "Археолог / Archaeologist"
+    }
+  ],
+  "programId": "program-69818",
+  "edeboId": 69818,
+  "sourceRows": [
+    137
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-32342-pq-0059",
+      "qualificationId": "pq-0059",
+      "relationType": "approved",
+      "approval": {
+        "order": null,
+        "nakDecisionOrCertificate": 4263
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 33,
+      "sourceQualificationText": "Політичний аналітик / Political analyst"
+    }
+  ],
+  "programId": "program-32342",
+  "edeboId": 32342,
+  "sourceRows": [
+    33
+  ]
+}

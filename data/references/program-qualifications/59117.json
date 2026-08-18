@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-59117-pq-0102",
+      "qualificationId": "pq-0102",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1275-32",
+          "date": "2025-12-25",
+          "raw": "1275-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": "5748 - номер сертифіката правильний, дата від 27.03.2024 не вірна"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 157,
+      "sourceQualificationText": "Інженер-дослідник"
+    }
+  ],
+  "programId": "program-59117",
+  "edeboId": 59117,
+  "sourceRows": [
+    157
+  ]
+}

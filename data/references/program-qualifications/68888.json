@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-68888-pq-0058",
+      "qualificationId": "pq-0058",
+      "relationType": "extended",
+      "sourceProgramId": "program-23295",
+      "sourceRelationId": "rel-23295-pq-0058",
+      "extension": {
+        "order": {
+          "number": "718-32",
+          "date": "2026-06-22",
+          "raw": "718-32 від 22.06.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 89,
+      "sourceQualificationText": "Планувальник міст / Urban planner"
+    }
+  ],
+  "programId": "program-68888",
+  "edeboId": 68888,
+  "sourceRows": [
+    89
+  ]
+}

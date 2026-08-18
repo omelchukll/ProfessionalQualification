@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-30758-pq-0077",
+      "qualificationId": "pq-0077",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1331-32",
+          "date": "2025-12-30",
+          "raw": "1331-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": 4605
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 179,
+      "sourceQualificationText": "Технік-фізик / Physics Technician"
+    }
+  ],
+  "programId": "program-30758",
+  "edeboId": 30758,
+  "sourceRows": [
+    179
+  ]
+}

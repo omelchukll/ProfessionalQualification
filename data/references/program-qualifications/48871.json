@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-48871-pq-0026",
+      "qualificationId": "pq-0026",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1238-32",
+          "date": "2025-12-22",
+          "raw": "1238-32 від 22.12.2025"
+        },
+        "nakDecisionOrCertificate": 4099
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 142,
+      "sourceQualificationText": "Експерт із природних ресурсів"
+    }
+  ],
+  "programId": "program-48871",
+  "edeboId": 48871,
+  "sourceRows": [
+    142
+  ]
+}

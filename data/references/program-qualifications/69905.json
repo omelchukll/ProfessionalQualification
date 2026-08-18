@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69905-pq-0092",
+      "qualificationId": "pq-0092",
+      "relationType": "extended",
+      "sourceProgramId": "program-26746",
+      "sourceRelationId": "rel-26746-pq-0092",
+      "extension": {
+        "order": {
+          "number": "844-32",
+          "date": "2026-07-14",
+          "raw": "844-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 7,
+      "sourceQualificationText": "Фахівець із закордонних справ / Foreign Affairs Officer"
+    }
+  ],
+  "programId": "program-69905",
+  "edeboId": 69905,
+  "sourceRows": [
+    7
+  ]
+}

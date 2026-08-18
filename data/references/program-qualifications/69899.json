@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69899-pq-0039",
+      "qualificationId": "pq-0039",
+      "relationType": "extended",
+      "sourceProgramId": "program-64964",
+      "sourceRelationId": "rel-64964-pq-0039",
+      "extension": {
+        "order": {
+          "number": "877-32",
+          "date": "2026-07-14",
+          "raw": "877-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 29,
+      "sourceQualificationText": "Кінорежисер"
+    }
+  ],
+  "programId": "program-69899",
+  "edeboId": 69899,
+  "sourceRows": [
+    29
+  ]
+}

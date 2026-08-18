@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-60543-pq-0093",
+      "qualificationId": "pq-0093",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1291-32",
+          "date": "2025-12-26",
+          "raw": "1291-32 від 26.12.2025"
+        },
+        "nakDecisionOrCertificate": 11210
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 172,
+      "sourceQualificationText": "Фізик / Physicist"
+    }
+  ],
+  "programId": "program-60543",
+  "edeboId": 60543,
+  "sourceRows": [
+    172
+  ]
+}

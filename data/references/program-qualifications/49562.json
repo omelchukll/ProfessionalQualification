@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-49562-pq-0002",
+      "qualificationId": "pq-0002",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1119-32",
+          "date": "2025-12-16",
+          "raw": "1119-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 5211
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 44,
+      "sourceQualificationText": "Аналітик даних"
+    },
+    {
+      "id": "rel-49562-pq-0041",
+      "qualificationId": "pq-0041",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1119-32",
+          "date": "2025-12-16",
+          "raw": "1119-32 від 16.12.2025"
+        },
+        "nakDecisionOrCertificate": 5211
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 44,
+      "sourceQualificationText": "Математик"
+    }
+  ],
+  "programId": "program-49562",
+  "edeboId": 49562,
+  "sourceRows": [
+    44
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69963-pq-0059",
+      "qualificationId": "pq-0059",
+      "relationType": "extended",
+      "sourceProgramId": "program-2021",
+      "sourceRelationId": "rel-2021-pq-0059",
+      "extension": {
+        "order": {
+          "number": "873-32",
+          "date": "2026-07-14",
+          "raw": "873-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 32,
+      "sourceQualificationText": "Політичний аналітик / Political analyst"
+    }
+  ],
+  "programId": "program-69963",
+  "edeboId": 69963,
+  "sourceRows": [
+    32
+  ]
+}

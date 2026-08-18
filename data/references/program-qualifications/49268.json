@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-49268-pq-0055",
+      "qualificationId": "pq-0055",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1201-32",
+          "date": "2025-12-19",
+          "raw": "1201-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": "4495 - це сертифікат Кримськотатарська філологія, англійська мова та переклад"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 112,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до совітньої програми) / Translator"
+    }
+  ],
+  "programId": "program-49268",
+  "edeboId": 49268,
+  "sourceRows": [
+    112
+  ]
+}

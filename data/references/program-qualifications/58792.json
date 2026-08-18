@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-58792-pq-0083",
+      "qualificationId": "pq-0083",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1255-32",
+          "date": "2025-12-24",
+          "raw": "1255-32 від 24.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 146,
+      "sourceQualificationText": "Фахівець з біотехнології"
+    }
+  ],
+  "programId": "program-58792",
+  "edeboId": 58792,
+  "sourceRows": [
+    146
+  ]
+}

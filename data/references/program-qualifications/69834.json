@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69834-pq-0018",
+      "qualificationId": "pq-0018",
+      "relationType": "extended",
+      "sourceProgramId": "program-1988",
+      "sourceRelationId": "rel-1988-pq-0018",
+      "extension": {
+        "order": {
+          "number": "883-32",
+          "date": "2026-07-14",
+          "raw": "883-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 106,
+      "sourceQualificationText": "Геолог / Geologist"
+    }
+  ],
+  "programId": "program-69834",
+  "edeboId": 69834,
+  "sourceRows": [
+    106
+  ]
+}

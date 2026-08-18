@@ -1,0 +1,43 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-68908-pq-0055",
+      "qualificationId": "pq-0055",
+      "relationType": "extended",
+      "sourceProgramId": "program-25334",
+      "sourceRelationId": "rel-25334-pq-0055",
+      "extension": {
+        "order": {
+          "number": "886-32",
+          "date": "2026-07-14",
+          "raw": "886-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 140,
+      "sourceQualificationText": "Перекладач (письмовий переклад, мови відповідно до совітньої програми) / Translator"
+    },
+    {
+      "id": "rel-68908-pq-0104",
+      "qualificationId": "pq-0104",
+      "relationType": "extended",
+      "sourceProgramId": "program-25334",
+      "sourceRelationId": "rel-25334-pq-0104",
+      "extension": {
+        "order": {
+          "number": "886-32",
+          "date": "2026-07-14",
+          "raw": "886-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 140,
+      "sourceQualificationText": "Історик / Historian"
+    }
+  ],
+  "programId": "program-68908",
+  "edeboId": 68908,
+  "sourceRows": [
+    140
+  ]
+}

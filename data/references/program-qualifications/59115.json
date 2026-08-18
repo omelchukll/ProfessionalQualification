@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-59115-pq-0081",
+      "qualificationId": "pq-0081",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1272-32",
+          "date": "2025-12-25",
+          "raw": "1272-32 від 25.12.2025"
+        },
+        "nakDecisionOrCertificate": 5745
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 152,
+      "sourceQualificationText": "Фахівець електронних комунікацій"
+    }
+  ],
+  "programId": "program-59115",
+  "edeboId": 59115,
+  "sourceRows": [
+    152
+  ]
+}

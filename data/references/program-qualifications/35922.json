@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-35922-pq-0088",
+      "qualificationId": "pq-0088",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1049-32",
+          "date": "2025-12-09",
+          "raw": "1049-32 від 09.12.2025"
+        },
+        "nakDecisionOrCertificate": 1138
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 10,
+      "sourceQualificationText": "Фахівець з ландшафтного дизайну"
+    }
+  ],
+  "programId": "program-35922",
+  "edeboId": 35922,
+  "sourceRows": [
+    10
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-34629-pq-0027",
+      "qualificationId": "pq-0027",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1342-32",
+          "date": "2025-12-30",
+          "raw": "1342-32 від 30.12.2025"
+        },
+        "nakDecisionOrCertificate": 2756
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 97,
+      "sourceQualificationText": "Експерт із суспільно-політичних питань)"
+    }
+  ],
+  "programId": "program-34629",
+  "edeboId": 34629,
+  "sourceRows": [
+    97
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69838-pq-0019",
+      "qualificationId": "pq-0019",
+      "relationType": "extended",
+      "sourceProgramId": "program-1755",
+      "sourceRelationId": "rel-1755-pq-0019",
+      "extension": {
+        "order": {
+          "number": "881-32",
+          "date": "2026-07-14",
+          "raw": "881-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 107,
+      "sourceQualificationText": "Геофізик / Geophysicist"
+    }
+  ],
+  "programId": "program-69838",
+  "edeboId": 69838,
+  "sourceRows": [
+    107
+  ]
+}

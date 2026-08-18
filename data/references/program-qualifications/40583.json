@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-40583-pq-0022",
+      "qualificationId": "pq-0022",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1293-32",
+          "date": "2025-12-26",
+          "raw": "1293-32 від 26.12.2025"
+        },
+        "nakDecisionOrCertificate": "4446 - це право"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 174,
+      "sourceQualificationText": "Дослідник-біоінформатик / Bioinformatics scientist"
+    }
+  ],
+  "programId": "program-40583",
+  "edeboId": 40583,
+  "sourceRows": [
+    174
+  ]
+}

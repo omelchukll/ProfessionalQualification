@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-68882-pq-0034",
+      "qualificationId": "pq-0034",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1296-32",
+          "date": "2025-12-26",
+          "raw": "1296-32 від 26.12.2025"
+        },
+        "nakDecisionOrCertificate": "Неакредитована"
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 171,
+      "sourceQualificationText": "Координатор екологічних програм / Environmental Programme Coordinator"
+    }
+  ],
+  "programId": "program-68882",
+  "edeboId": 68882,
+  "sourceRows": [
+    171
+  ]
+}

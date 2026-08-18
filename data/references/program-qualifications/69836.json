@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-69836-pq-0020",
+      "qualificationId": "pq-0020",
+      "relationType": "extended",
+      "sourceProgramId": "program-1073",
+      "sourceRelationId": "rel-1073-pq-0020",
+      "extension": {
+        "order": {
+          "number": "882-32",
+          "date": "2026-07-14",
+          "raw": "882-32 від 14.07.2026"
+        }
+      },
+      "status": "active",
+      "sourceRow": 64,
+      "sourceQualificationText": "Гідрогеолог / Hydrogeologist"
+    }
+  ],
+  "programId": "program-69836",
+  "edeboId": 69836,
+  "sourceRows": [
+    64
+  ]
+}

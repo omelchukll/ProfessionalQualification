@@ -1,0 +1,26 @@
+{
+  "qualifications": [
+    {
+      "id": "rel-51430-pq-0070",
+      "qualificationId": "pq-0070",
+      "relationType": "approved",
+      "approval": {
+        "order": {
+          "number": "1158-32",
+          "date": "2025-12-19",
+          "raw": "1158-32 від 19.12.2025"
+        },
+        "nakDecisionOrCertificate": 5634
+      },
+      "mandatoryOrElectiveSourceValue": false,
+      "status": "active",
+      "sourceRow": 72,
+      "sourceQualificationText": "Соціолог"
+    }
+  ],
+  "programId": "program-51430",
+  "edeboId": 51430,
+  "sourceRows": [
+    72
+  ]
+}
