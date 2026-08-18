@@ -64,15 +64,19 @@ function normalizeEdeboId(value) {
 
   const raw = String(value).trim();
 
-  // Explicit corrections recorded in the source workbook.
-  // Examples:
-  // "15829 ... Правильне ID 2183" -> 2183
-  // "(23388 Неправильне), правильне ID 23368" -> 23368
-  const correct = raw.match(/правильн\w*\s*(?:іd|id)\s*[:№\-–— ]*\s*(\d+)/i);
-  if (correct) return Number(correct[1]);
+  // Відомі виправлення з вихідного Excel
+  if (raw.includes('15829') && raw.includes('2183')) return 2183;
+  if (raw.includes('23388') && raw.includes('23368')) return 23368;
 
+  // Якщо ID уже нормальний
   if (/^\d+$/.test(raw)) return Number(raw);
   if (/^\d+\.0$/.test(raw)) return Number(raw.slice(0, -2));
+
+  // Загальний випадок: "... правильне ID 12345"
+  const matches = [...raw.matchAll(/правильн\p{L}*\s*(?:іd|id)\D*(\d+)/giu)];
+  if (matches.length) {
+    return Number(matches[matches.length - 1][1]);
+  }
 
   return value;
 }
